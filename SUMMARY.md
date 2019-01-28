@@ -44,6 +44,7 @@
   * [README Integration](developers/readme-integration.md)
   * [Custom Strings](developers/custom-strings.md)
   * [Postgres Database](developers/postgres-database.md)
+  * [PayPal](developers/paypal.md)
   * [Buttons & Banners](developers/widgets.md)
   * [Post-Donation Redirect](developers/post-donation-redirect.md)
   * [Custom Tweets](developers/custom-tweets.md)
