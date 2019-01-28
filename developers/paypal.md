@@ -17,6 +17,7 @@ This is the account you'll use to make the \(fake\) payment. Go to [https://deve
 #### Merchant account
 
 1. Create an app here: [https://developer.paypal.com/developer/applications/create](https://developer.paypal.com/developer/applications/create)
+
 2. Use the generated merchant credentials to set the following variables in API's `.env`:
 
 ```text
@@ -26,9 +27,7 @@ PAYPAL_CLIENT_ID=________________________
 PAYPAL_CLIENT_SECRET=________________________
 ```
 
-1. Create buyer's credentials on
-
-   [https://developer.paypal.com/developer/accounts/create](https://developer.paypal.com/developer/accounts/create)
+3. Create buyer's credentials on [https://developer.paypal.com/developer/accounts/create](https://developer.paypal.com/developer/accounts/create)
 
 And you're ready to go. Use the credentials generated in step 3. to authenticate when ordering.
 
