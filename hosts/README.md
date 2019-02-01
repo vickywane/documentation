@@ -1,9 +1,3 @@
----
-description: >-
-  Information about the organizations that enable Collectives to transact
-  financially
----
-
 # Fiscal Hosts
 
 ## What is a fiscal host?

@@ -6,18 +6,15 @@ description: >-
 
 # PayPal
 
+## Developing / testing sandbox
 
-
-### Developing / testing sandbox
-
-#### Buyer account
+### Buyer account
 
 This is the account you'll use to make the \(fake\) payment. Go to [https://developer.paypal.com/developer/accounts/create](https://developer.paypal.com/developer/accounts/create), login with your personnal PayPal account then create a test account.
 
-#### Merchant account
+### Merchant account
 
 1. Create an app here: [https://developer.paypal.com/developer/applications/create](https://developer.paypal.com/developer/applications/create)
-
 2. Use the generated merchant credentials to set the following variables in API's `.env`:
 
 ```text
@@ -27,11 +24,11 @@ PAYPAL_CLIENT_ID=________________________
 PAYPAL_CLIENT_SECRET=________________________
 ```
 
-3. Create buyer's credentials on [https://developer.paypal.com/developer/accounts/create](https://developer.paypal.com/developer/accounts/create)
+1. Create buyer's credentials on [https://developer.paypal.com/developer/accounts/create](https://developer.paypal.com/developer/accounts/create)
 
 And you're ready to go. Use the credentials generated in step 3. to authenticate when ordering.
 
-### Known issues
+## Known issues
 
 * The button may require multiple clicks to trigger on dev or staging. It should not affect production \(see [https://github.com/paypal/paypal-checkout/issues/471](https://github.com/paypal/paypal-checkout/issues/471)\)
 

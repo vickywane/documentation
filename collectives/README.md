@@ -1,9 +1,3 @@
----
-description: >-
-  An Open Collective is a group with a shared mission, which operates in full
-  transparency—everyone can see how they receive and spend money.
----
-
 # Collectives
 
 ## FAQ

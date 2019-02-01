@@ -1,6 +1,6 @@
 # Collectives
 
-### Get info <a id="get-info"></a>
+### Get collective info <a id="get-info"></a>
 
 Get detailed information about a collective:
 

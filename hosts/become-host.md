@@ -1,7 +1,3 @@
----
-description: 'If you''re not sure what a Fiscal Host is, read this first.'
----
-
 # Becoming a Fiscal Host
 
 ## Why become a Fiscal Host?

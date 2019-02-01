@@ -38,7 +38,7 @@ Notes:
 * `url` is the url of the page of the event on opencollective.com
 * `info` is the url to get the detailed information about the event in json
 
-### Get info <a id="get-info"></a>
+### Get event info <a id="get-info"></a>
 
 `/:collectiveSlug/events/:eventSlug.json`
 
