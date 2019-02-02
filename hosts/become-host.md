@@ -1,21 +1,24 @@
 # Becoming a Fiscal Host
 
-## Why become a Fiscal Host?
+## FAQ
 
-By becoming a host, you are enabling groups and communities to collect and disburse money in full transparency, without having to create their own legal entity and bank account. Their own independent budget allows them to pursue their activities, be accountable to funders, and automatically keep good records.
+### Why become a Fiscal Host?
 
-## What kinds of things are Fiscal Hosts used for?
+By becoming a host, you can enable Collectives to accept and disburse money in full transparency, without having to create their own legal entity and bank account. Collectives can then pursue their activities, be accountable to funders, and automatically keep good records.
 
+### What kinds of things are Fiscal Hosts used for?
+
+* Open source projects or similar unincorporated distributed collaborations
 * Decentralized organizations with semi-autonomous teams or projects
 * Movements with chapters or subgroups
 * Meetup networks with many local groups under one umbrella
 * Citizen groups in a geographical area
 * Foundations who give grants to unincorporated projects
-* Advocates of a way of working, like cooperatives or open source projects
+* Advocates of a way of working who want to help startup ventures get going, such as cooperatives
 * Incubators or accelerators supporting many early stage teams
 * Hosting a single Collective to enable transparent budgeting
 
-## Who are hosts?
+### Who are hosts?
 
 * [Open Collective Chapters](https://opencollective.com/chapters) are general purpose hosts that you can create in your own region. This is our way of developing Open Collective as a decentralized organization.
 * HQ/umbrella organizations with Collectives for each of their chapters \(e.g. [Women Who Code](https://opencollective.com/wwcode)\)
@@ -24,22 +27,22 @@ By becoming a host, you are enabling groups and communities to collect and disbu
 * Organizations that host different Collectives in a certain city or country \(e.g. [BrusselsTogether](https://opencollective.com/brusselstogether)\)
 * Bitcoin/Ether wallets who convert donations into fiat money and store it in a Collective’s wallet
 
-## Things to consider when becoming a host
+### Things to consider when becoming a host
 
 * Have you looked into the tax implications in your country of being a fiscal sponsor?
 * Have you thought about a system and policies for onboarding new Collectives?
 * Do you have a Stripe and PayPal account set up, and a bank account to connect them to?
-* Do you have admin capacity to validate and pay out approved expenses for your Collectives \(the Open Collective platform reduces this overhead but there are still associated tasks\)?
+* Do you have admin capacity to validate and pay out approved expenses for your Collectives?
 
-## What are the legal liabilities?
+### What are the legal liabilities?
 
 As a Fiscal Host, you are responsible for the financial activity flowing through your bank account. You need to make sure that your Collectives are not doing money laundering or other nefarious activities. You don't want to open the door to just anyone to create a Collective under your umbrella. Think about some policies for determining whether a Collective is a good fit.
 
-We give you the tools you need to manage applications by new Collectives who want to oin your host. You can specify your policies on your host page, and if a Collective wants to join you'll get a notification with the option to approve them or not.
+We give you the tools you need to manage applications by new Collectives. You can specify your policies on your host page, and if a Collective wants to join you'll get a notification with the option to approve them to join your host or not.
 
-Open Collective is designed to make it easy to validate every expense as part of the two-step approval process. The first step is approval from the Collective admins \(core contributors\), and then it goes to the Fiscal Host admin to check the paperwork is in order and actually pay out the funds by clicking a button on the Open Collective platform.
+Open Collective is designed to make it easy to validate every expense as part of the two-step approval process. The first step is approval from the Collective admins \(core contributors\), who check if the expense is a legitimate use of funds to further the project, and then it goes to the Fiscal Host admin to check that the paperwork is in order \(like receipts\) and nothing looks fishy. Only then do you actually pay out the funds.
 
-## Requirements
+### Requirements
 
 To be Fiscal Host, you need:
 

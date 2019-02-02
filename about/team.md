@@ -1,4 +1,4 @@
-# Team
+# \*Team
 
 Bios coming soon!
 

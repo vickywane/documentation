@@ -1,32 +1,36 @@
 # Quick Start Guide
 
+## You've got a Collective—awesome! Now what?
+
 Once you have a Collective, you can start submitting expenses, edit your page content, and create events for your community right away. 
 
-In order to receive financial contributions or pay out expenses, you need a [Fiscal Host](../hosts/). Whether you have a Fiscal Host yet or not, here are some steps you can take to get your Collective started.
+In order to receive money or pay out expenses, you need a [Fiscal Host](../hosts/). Whether you have a Fiscal Host yet or not, here are some steps you can take to get your Collective started.
 
-### 1. Make your collective your own
+### 1. Make your Collective your own
 
-Log in and hover over elements to edit them, or go to 'edit my collective'. 
+Log in and hover over elements to edit them, or go to 'edit Collective'. 
 
-If you want to change something without an edit option, we can usually do it manually, so please email [support@opencollective.com](mailto:support@opencollective.com). For example, the background. Also let us know if you want to add more core contributors to your collective.
+If you want to change something without an edit option, we can usually do it manually, so please email [support@opencollective.com](mailto:support@opencollective.com). 
 
-### 2. Add backers & sponsors to your Github and website 
+### 2. Add more Core Contributors
+
+If you have collaborators on your project who can help you manage your page and approve expenses add them as Core Contributors by going to 'edit Collective' and clicking 'Members'. 
+
+### 3. Add Backers & Sponsors to your Github and website 
 
 See our available [website](https://github.com/OpenCollective/OpenCollective/wiki/Website-banner) and [Github](https://github.com/opencollective/opencollective/wiki/Github-banner) banners.
 
-### 3. Start tracking expenses
+### 4. Start tracking expenses
 
-Submit expenses through your collective, so others can see where the money is going. This builds trust with backers.
+Submit expenses through your Collective, so others can see where money will be spent \(even if you don't have any yet\). This builds trust with potential Backers.
 
-### 4. Spread the word
+### 5. Spread the word
 
 You can connect your Twitter account to your collective and automatically thank your backers. [Here's how](https://github.com/OpenCollective/OpenCollective/wiki/Twitter).
 
-### 5.  Launch! 
+### 6.  Launch! 
 
-Now people need to know you have a Collective. Write a blog post, tell people the vision, and explain why you are raising money.
-
-For more detailed ideas about helping your Collective launch well, check out [**Ten Steps to Successful Open Source Crowdfunding**](https://medium.com/open-collective/ten-steps-to-successful-open-source-crowdfunding-fa2b43e82687).
+Write a blog post, tell people the vision, and explain why you are raising money. For more detailed ideas about helping your Collective launch well, check out [**Ten Steps to Successful Open Source Crowdfunding**](https://medium.com/open-collective/ten-steps-to-successful-open-source-crowdfunding-fa2b43e82687).
 
 If you need help, join our community on [Slack](http://slack.opencollective.com/) or email support@opencollective.com.
 

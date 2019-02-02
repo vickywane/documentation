@@ -1,6 +1,6 @@
 # Log In System
 
-The Open Collective platform works with a **no-password system.** We find that our users appreciate that they don’t have to remember another password, especially when on mobile.
+Open Collective works with a **no-password system,** because our users appreciate not having to remember another password, especially when on mobile.
 
 **How it works:**
 

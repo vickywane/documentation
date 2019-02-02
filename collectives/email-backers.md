@@ -1,10 +1,10 @@
 # Email Backers
 
-A lot of Collectives like to periodically email their backers, to let them know what their contributions are enabling, express thanks, or notify everyone of a change.
+A lot of Collectives like to periodically email their Backers, to let them know what their contributions are enabling, express thanks, or notify everyone of a change.
 
-To email all your backers send an email to backers@$collective.opencollective.com
+To email all your backers send an email to **backers@$collective.opencollective.com**
 
-$collective = the name of your Collective, which appears in your Collective URL
+_$collective = the name of your Collective, which appears in your Collective URL_
 
-Another option is to [export](data-export.md) the emails.
+Another option is to [export](data-export.md) the email addresses and send your message directly.
 

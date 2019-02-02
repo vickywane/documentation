@@ -16,3 +16,5 @@ The recommended dimensions for the logo are 256 x 256 px, and for the banner 192
 
 Click 'Save' when you're done.
 
+If you want to customize your background image, email support@opencollective.com and we can help you.
+
