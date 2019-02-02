@@ -50,17 +50,9 @@ To be Fiscal Host, you need:
 * A bank account
 * A Stripe account
 * A Paypal account
+* Someone to serve as admin
 
- Individuals can be Fiscal Hosts using personal bank accounts, but remember you will be personally responsible for any tax and legal implications. 
+Individuals can be Fiscal Hosts using personal bank accounts, but you will be personally responsible for any tax and legal implications. 
 
-## Set Up a Fiscal Host
-
-1. If you don't have an Open Collective account yet, go to [https://opencollective.com/signin](https://opencollective.com/signin) to create one
-2. [Click here](https://opencollective.com/organizations/new) to create an organization to represent the legal entity that will be the host
-3. Go to "edit organization" from your organization's page
-4. Fill in the information explaining what your host is about and your policies for Collectives
-5. Connect your Stripe Account 
-6. Send us an email with the URL of your organization page so we can approve it support@opencollective.com
-7. Once approved, new Collectives will be able to apply via your host page. You will receive an email with a button to accept their application \(or not\). Once accepted, donations to their Collective will go to your bank account through Stripe.
-8. Admins of the Fiscal Host organization will be able to pay expenses submitted to Collective's they host, once the Collective admin has approved it. To pay through Open Collective you'll need to connect your Paypal account via the Host Dashboard.
+### [Ready to create a Fiscal Host?](create-a-fiscal-host.md)
 

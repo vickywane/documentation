@@ -1,4 +1,6 @@
-# Fiscal Host Setup
+# Fiscal Host Settings
+
+## How to set up and customize your Fiscal Host
 
 Go to your host page and click "edit organization" to reveal the different settings and options for your host.
 
@@ -22,7 +24,9 @@ Add or update the people who have access to admin your host organization, pay ex
 
 ### Expenses
 
-This is a very important section, where you can input your expense policy. This information shows up at the top of the screen when people are submitting new expenses to Collectives you host.
+This is a very important section, where you can input your expense policy. This information shows up at the top of the screen when people are submitting new expenses to Collectives you host. 
+
+![](../.gitbook/assets/screen-shot-2019-02-02-at-7.49.14-pm.png)
 
 We recommend including:
 
@@ -33,15 +37,11 @@ We recommend including:
 * An invoice template \([example](https://docs.google.com/document/d/1ROQA11PaYjGtcie-1Ut8cFV5LCISKipSu8sgsY5U7vw/copy)\)
 * Information on where to go for help with expenses
 
-**Note:** Collectives can also have an expense policy, which appears alongside the host policy. This is often focused on what kinds of activities the Collective will approve expenses for.
+_**Note:** Collectives can also have an expense policy, which appears alongside the host policy. This is often focused on what kinds of activities the Collective will approve expenses for._
 
 ### Payment Methods
 
-You can add a credit card here if you want to make contributions to Collectives as your organization. You can also specify a limit. This is often used by companies who have multiple people implementing their contribution budget.
-
-### Connected Accounts
-
-If you foresee people sometimes contributing directly to your host organization \(instead of an individual Collective you host\), connect your Twitter here to automatically thank them.
+You can add a credit card here if you want to make contributions to Collectives as your organization. You can also specify a limit. This is often used by companies who have multiple people spending their contribution budget.
 
 ### Advanced
 

@@ -1,16 +1,21 @@
-# Making Payments
+# Payouts
 
-## Payment FAQ for Fiscal Host Admins
+## FAQ for Fiscal Host Admins
 
-### Where does money contributed to Collectives we fiscally host go?
+### Where does the money contributed to Collectives we fiscally host go?
 
 Straight to the bank account attached to your Stripe account, which you connect when you set up as an Open Collective fiscal host.
 
 ### How do people withdraw funds from Collectives we host?
 
-To withdraw funds, people submit receipts or invoices as [Expenses](../expenses/). Then it goes through a two-step approval process. First, a core contributor \(admin\) of the individual Collective confirms that the expense is a valid use of funds for their project. Then the host admin confirms that the expense meets requirements \(such as having a valid receipt\). 
+To withdraw funds, people submit receipts or invoices as [Expenses](../expenses/). 
 
-When you click "pay", the funds are automatically sent via Paypal to the person who submitted the expense. The host dashboard shows you all the information and available actions in one place.
+Expenses go through a two-step approval process: 
+
+1. A core contributor \(admin\) of the individual Collective confirms that the expense is a valid use of funds for their project. 
+2. Then the host admin confirms that the expense meets requirements \(such as having a valid receipt\).
+
+Then the expense can be paid out.
 
 ### What payment methods do you support for withdrawals?
 

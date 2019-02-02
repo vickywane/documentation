@@ -15,6 +15,8 @@ You can submit two kinds of expenses:
 
 In order to be paid, submitted expenses must be approved by the Collective's core contributors \(admins\), who ensure valid use of the Collective's funds. 
 
+### Documentation Requirements
+
 A **valid invoice** must include:
 
 * What it is for \(feature built, work done, etc\)
