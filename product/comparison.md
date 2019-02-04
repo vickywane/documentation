@@ -1,8 +1,8 @@
 # Comparison
 
-## What makes Open Collective different:
+## What makes Open Collective different?
 
-*  **Fully transparency** of both where money comes from and where it goes
+*  **Full transparency** of both where money comes from and where it goes
 * Completely **open source**
 * Designed for **ongoing collaborative communities**, not individual creators or one-off campaigns
 * Offers [**Fiscal Hosting**](../hosts/) as a service, so projects don't need to legally incorporate or figure out taxes

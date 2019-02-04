@@ -1,4 +1,4 @@
-# Log In System
+# Log-in System
 
 Open Collective works with a **no-password system,** because our users appreciate not having to remember another password, especially when on mobile.
 

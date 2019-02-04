@@ -1,4 +1,4 @@
-# Email Backers
+# Updates to Backers
 
 A lot of Collectives like to periodically email their Backers, to let them know what their contributions are enabling, express thanks, or notify everyone of a change.
 
