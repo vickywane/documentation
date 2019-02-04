@@ -14,7 +14,7 @@ Accept donations and sponsorship.
 
 Reimburse expenses or pay invoices.
 
-### [Transparent Budget](../collectives/budget-transactions.md)
+### [Transparent Budget](../collectives/budget.md)
 
 Automatic financial reporting and accountability.
 

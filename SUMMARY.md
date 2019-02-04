@@ -17,7 +17,7 @@
   * [Quick Start Guide](collectives/quick-start-guide.md)
   * [Edit Collective](collectives/edit-collective.md)
   * [Add or Change Members](collectives/add-or-change-members.md)
-  * [\*Budget Transactions](collectives/budget-transactions.md)
+  * [Transparent Budget](collectives/budget.md)
   * [\*Approving Expenses](collectives/approving-expenses.md)
   * [Tiers](collectives/tiers.md)
   * [\*Goals](collectives/goals.md)

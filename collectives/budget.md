@@ -1,4 +1,4 @@
-# \*Budget Transactions
+# Transparent Budget
 
 Collectives have transparent budgets, where all transactions are automatically reported. Everyone can see where money comes from and what it's spent on.
 
