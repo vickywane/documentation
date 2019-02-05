@@ -1,10 +1,10 @@
-# \*Product
+# Product
 
 ## Features
 
 ### [Collectives](../collectives/)
 
-A page to tell the world about your project and gather support.
+A page to tell the world about your project and engage supporters.
 
 ### [Raise Money](../backers-and-sponsors/)
 
@@ -12,7 +12,7 @@ Accept donations and sponsorship.
 
 ### [Pay Expenses](../expenses/)
 
-Reimburse expenses or pay invoices.
+Reimburse expenses and pay invoices.
 
 ### [Transparent Budget](../collectives/budget.md)
 

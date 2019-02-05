@@ -6,5 +6,7 @@ To email all your backers send an email to **backers@$collective.opencollective.
 
 _$collective = the name of your Collective, which appears in your Collective URL_
 
-Another option is to [export](data-export.md) the email addresses and send your message directly.
+Updates will show up in the Updates section of your Collective page.
+
+![](../.gitbook/assets/screen-shot-2019-02-05-at-6.02.51-pm.png)
 
