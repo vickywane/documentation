@@ -1,8 +1,8 @@
-# Expenses Admin
+# Host Admin Manual
 
-Guide to managing Expenses for the fiscal hosts Open Collective administrates.
+**Guide to managing Expenses for the Fiscal Hosts that Open Collective administrates.**
 
-## Links to Host Dashboards <a id="docs-internal-guid-c63aa181-7fff-a12b-956a-0e66ccc70b1b"></a>
+## Fiscal Hosts List <a id="docs-internal-guid-c63aa181-7fff-a12b-956a-0e66ccc70b1b"></a>
 
 | Host | Paypal ID |
 | :--- | :--- |
@@ -12,7 +12,7 @@ Guide to managing Expenses for the fiscal hosts Open Collective administrates.
 | [Open Collective Europe](https://opencollective.com/europe/collectives/expenses) | host+eu |
 | [Open Collective Inc](https://opencollective.com/opencollectiveinc/collectives/expenses) \(internal\) | paypal |
 
-## Payments Process
+## Expenses Payment Process
 
 #### For expenses less than $2,000
 
@@ -47,7 +47,7 @@ Paypal only allows pre-approval of $2,000 the pay via the API, so larger expense
 3. Not enough funds to cover fees \(system will error and estimate fee amount\)
 4. Not approved by core contributor \(no green ‘pay’ button\)   
 
-### Responding to issues with expenses
+### Problems & Responses
 
 If there is an issue with an expense, comment on it to notify the submitter.
 
@@ -82,10 +82,49 @@ Collectives in the Europe host can request payment via bank transfer \(all other
 
 ### Tax Forms
 
-We have on file [W9](https://www.dropbox.com/home/Open%20Source%20Collective%20501c6/IRS/W9) and [W8-BEN/E](https://www.dropbox.com/home/Open%20Source%20Collective%20501c6/IRS/W8-BEN) forms for many users, which are required if we’re paying out $600 or more to a person in a year. The Tax Forms bot will let them know to send theirs through to us. Make sure we have one on file before paying an invoice for someone who has earned $600 or more. 
+We have on file [W9](https://www.dropbox.com/home/Open%20Source%20Collective%20501c6/IRS/W9) or [W8-BEN/E](https://www.dropbox.com/home/Open%20Source%20Collective%20501c6/IRS/W8-BEN) forms for users, which are required if we’re paying out $600 or more to a person in a year. The Tax Forms bot will let them know to send theirs through to us via a comment on the expense. Make sure we have one on file before paying an invoice for someone who has earned $600 or more. 
 
-**Note:** this does not apply to expense reimbursements, only invoices.  
-  
-  
+**Note:** this does not apply to expense reimbursements, only invoices.
 
+## Adding Funds Manually
+
+We have arrangements with several Collectives and Sponsors to accept funds outside the platform and add them manually.
+
+| Host | Collective | Income | Notes |
+| :--- | :--- | :--- | :--- |
+| Foundation | SF Global Shapers | Eventbrite ticket sales |  |
+| Foundation | Drupal Camp | T-shirts |  |
+| OSC | Material-UI, BootstrapCDN | BuySellAds, CarbonAds |  |
+| OSC | Webpack | Threadless |  |
+| OSC | Creative Tim | Avantgate via 2Checkout |  |
+| OSC | Nest | Valor Software | Transferwise |
+
+### Process
+
+1. Get email notification of payment \(different for each one\)
+2. Confirm in Paypal or bank account
+3. Go to host dashboard
+4. Select Collective
+5. Click add funds
+6. Select funding source
+7. Host fee 5%
+8. 5% platform fee for OSC, 0% for Foundation
+
+## Adding Host Fees
+
+Open Collective charges a 5% host fee to Collectives. These funds need to be added manually each month to the host's Collective so they can use them to pay expenses.
+
+Process:
+
+1. Get monthly report
+2. Find host fees
+3. Go to host dashboard
+4. Select host's Collective
+5. Click Add Funds
+6. 0% host fee
+7. Source is that host
+
+
+
+##   
 

@@ -18,7 +18,7 @@ Here's what it looks like:
 
 #### See your Collectives
 
-Use the dropdown menu to see a list of all the Collectives in the host. Select one to see only info pertaining to that Collective.
+Use the dropdown menu to see a list of all the Collectives in the host. Select one to see only info pertaining to that Collective, or use the All Collectives view.
 
 #### Connect Paypal & refill balance
 
@@ -64,7 +64,7 @@ Host admins have permission to edit expenses at any time. For example, someone w
 
 If you click the title of an individual expense, you will go to that expense's page. There, you can see all details and read or add [comments](../expenses/expense-comments.md).
 
-### Payment Errors
+### Payment Error Troubleshooting
 
 Payment errors will show in red next to the expense if they come up.
 

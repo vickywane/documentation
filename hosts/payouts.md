@@ -1,6 +1,6 @@
 # Payouts
 
-## FAQ for Fiscal Host Admins
+## Payments FAQ for Fiscal Host Admins
 
 ### Where does the money contributed to Collectives we fiscally host go?
 

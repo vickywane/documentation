@@ -6,6 +6,8 @@
 
 By becoming a host, you can enable Collectives to accept and disburse money in full transparency, without having to create their own legal entity and bank account. Collectives can then pursue their activities, be accountable to funders, and automatically keep good records.
 
+You can be a Fiscal Host for lots of Collectives, or just for your own Collective.
+
 ### What kinds of things are Fiscal Hosts used for?
 
 * Open source projects or similar unincorporated distributed collaborations

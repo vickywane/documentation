@@ -58,7 +58,7 @@
   * [Manual Reporting](developers/manual-reporting.md)
   * [Github Permissions](developers/github-permissions.md)
 * [Internal](internal/README.md)
-  * [Expenses Admin](internal/expenses-admin.md)
+  * [Host Admin Manual](internal/host-admin-manual.md)
   * [Issue Labels](internal/issue-labels.md)
   * [DNS Troubleshooting](internal/dns-troubleshooting.md)
   * [Developer Guidelines](internal/developer-guidelines.md)
