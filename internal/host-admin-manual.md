@@ -40,14 +40,12 @@ Paypal only allows pre-approval of $2,000 the pay via the API, so larger expense
 11. Put the Paypal fee in the box if any.
 12. Click 'record as paid'.
 
-### Common reasons not to pay
+### Problems & Responses
 
 1. Insufficient balance \(system will not allow payment\)
 2. No valid receipt/invoice \(check attached file meets [requirements](../expenses/submitting-expenses.md#documentation-requirements)\)
 3. Not enough funds to cover fees \(system will error and estimate fee amount\)
 4. Not approved by core contributor \(no green ‘pay’ button\)   
-
-### Problems & Responses
 
 If there is an issue with an expense, comment on it to notify the submitter.
 
@@ -96,6 +94,7 @@ We have arrangements with several Collectives and Sponsors to accept funds outsi
 | Foundation | Drupal Camp | T-shirts |  |
 | OSC | Material-UI, BootstrapCDN | BuySellAds, CarbonAds |  |
 | OSC | Webpack | Threadless |  |
+| OSC | Material UI, BootstrapCDN, JSS | Consensys Codefund |  |
 | OSC | Creative Tim | Avantgate via 2Checkout |  |
 | OSC | Nest | Valor Software | Transferwise |
 
