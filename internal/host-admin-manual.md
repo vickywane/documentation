@@ -53,17 +53,17 @@ If there is an issue with an expense, comment on it to notify the submitter.
 
 #### Invoice or receipt missing or invalid
 
-_In order to reimburse the expense you submitted, it must have a valid invoice or receipt. If you need help, please see_ [_our info about submitting expenses_](../expenses/submitting-expenses.md)_. There's an invoice template available. Click 'Edit' on this expense to upload a new file._
+In order to reimburse the expense you submitted, it must have a valid invoice or receipt. If you need help, please see [our info about submitting expenses](../expenses/submitting-expenses.md). There's an invoice template available. Click 'Edit' on this expense to upload a new file.
 
 #### Paypal address not provided
 
-_For the moment, we are only able to pay via Paypal. Please click 'edit' on your expense, select 'Paypal' from the dropdown menu, and input your Paypal email address. Thanks!_
+For the moment, we are only able to pay via Paypal. Please click 'edit' on your expense, select 'Paypal' from the dropdown menu, and input your Paypal email address. Thanks!
 
-**Note:** if you switch the payment method to Paypal yourself, it will pull in the user's email address. However, we can't assume that's the correct Paypal address as it might be different.
+_**Note:** if you switch the payment method to Paypal yourself, it will pull in the user's email address. However, we can't assume that's the correct Paypal address as it might be different._
 
 #### Fees not covered
 
-_Since your expense equals all the funds in the Collective, the system won’t put it through due to insufficient funds to cover the Paypal fees \($3\). Please click ‘edit’ and revise the amount to $3 less. Thank you!_
+Since your expense equals all the funds in the Collective, the system won’t put it through due to insufficient funds to cover the Paypal fees \($3\). Please click ‘edit’ and revise the amount to $3 less. Thank you!
 
 **Note:** If you try to pay the expense, the system will tell you the estimated fee amount. You can also just reduce the amount of the expense yourself and just put it through, but inform the user with a comment so they aren't surprised by the reduced total.
 
@@ -95,7 +95,7 @@ We have arrangements with several Collectives and Sponsors to accept funds outsi
 | OSC | Material-UI, BootstrapCDN | BuySellAds, CarbonAds |  |
 | OSC | Webpack | Threadless |  |
 | OSC | Material UI, BootstrapCDN, JSS | Consensys Codefund |  |
-| OSC | Creative Tim | Avantgate via 2Checkout |  |
+| OSC | Creative Tim | Avantgate | 2Checkout |
 | OSC | Nest | Valor Software | Transferwise |
 
 ### Process
