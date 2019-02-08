@@ -1,25 +1,5 @@
 # Buttons & Banners
 
-## Github Banner
-
-You can automatically add backers and sponsors to the README.md of your Github repository. [See an example](https://github.com/apex/apex#backers).
-
-1. Go to [https://opencollective.com/:yourcollective/banner.md](https://opencollective.com/:yourcollective/banner.md)
-2. Copy the HTML to your clipboard
-3. Paste the HTML in your `README.md` file
-4. Add these badges [![OpenCollective/backers](https://camo.githubusercontent.com/702ba3737a9eaa65ab84ca4bb9096a3ad32e1eb2/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f617065782f6261636b6572732f62616467652e7376673f73616e6974697a653d74727565)](https://github.com/opencollective/opencollective/wiki/Github-banner#backers) [![OpenCollective/sponsors](https://camo.githubusercontent.com/b121955e2ed7dcbdb71365fd5efde17d518b6f62/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f617065782f73706f6e736f72732f62616467652e7376673f73616e6974697a653d74727565)](https://github.com/opencollective/opencollective/wiki/Github-banner#sponsors) at the top of your `README.md` file :
-
-```text
-[![OpenCollective](https://opencollective.com/yourcollective/backers/badge.svg)](#backers) 
-[![OpenCollective](https://opencollective.com/yourcollective/sponsors/badge.svg)](#sponsors)
-```
-
-[Example](https://github.com/parcel-bundler/parcel/pull/228/files)
-
-### How does it work?
-
-Our server returns a 1px transparent image for all spots that are still empty. Whenever there is a new backer or sponsor, we return the avatar or logo in the right position. There is just a few minutes of delay because Github caches the images.
-
 ## Website Widgets
 
 ### For Collectives
