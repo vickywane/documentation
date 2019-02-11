@@ -1,8 +1,8 @@
-# Roles
+# Glossary
 
-We have developed some terminology to describe the different ways people interact on Open Collective. If you're just learning our system, keep these in mind.
+We have developed some terminology to describe interactions and roles on Open Collective.
 
-Please use these roles when creating issues or support requests, instead of _user_ —everyone is a user! 
+Please use these terms when creating issues or support requests, instead of _user_ —everyone is a user! 
 
 ### Backer
 
