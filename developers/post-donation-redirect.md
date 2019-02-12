@@ -23,16 +23,16 @@ https://opencollective.com/octobox/pay/100/month/support%20the%20community?redir
 When you donate you will be redirected to:
 
 ```text
- https://octobox.io/callback?transactionid=12345
+ https://octobox.io/callback?transactionid=117fe88f-3fc7-4634-b78c-05b0fd0cf7d8
 ```
 
 Then you can call our API to get all the details about that transaction:
 
 ```text
-https://api.opencollective.com/v1/collectives/octobox/transactions/12345?apiKey=xxxxx
+https://api.opencollective.com/v1/collectives/octobox/transactions/117fe88f-3fc7-4634-b78c-05b0fd0cf7d8?apiKey=xxxxx
 ```
 
-You can get your api key in your "Applications" page that you can access from your logged in user dropdown menu.
+You can get your API key in your "Applications" page that you can access from your logged in user dropdown menu.
 
 Example of the data being returned:
 
