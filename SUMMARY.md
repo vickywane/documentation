@@ -37,6 +37,7 @@
   * [Edit an Expense](expenses/edit-expense.md)
   * [Tax Information](expenses/tax-information.md)
 * [Fiscal Hosts](hosts/README.md)
+  * [The Open Source Collective Host](hosts/the-open-source-collective-host.md)
   * [Becoming a Fiscal Host](hosts/become-host.md)
   * [Create a Fiscal Host](hosts/create-a-fiscal-host.md)
   * [Fiscal Host Settings](hosts/fiscal-host-settings.md)
