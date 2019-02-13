@@ -12,7 +12,7 @@ We have created a non profit, the Open Source Collective 501c6 in the United Sta
 
 #### What services does the Open Source Collective provide? 
 
-This host organization provides invoices and request for funds for your sponsors, onboards as a vendor in their system, receives bulk payments, manages relevant tax forms and checkout processes from other revenue streams \(like Threadless, carbon ads and affiliate programs\)
+This host organization provides invoices and request for funds for your sponsors, onboards as a vendor in their system, receives bulk payments, manages relevant tax forms and checkout processes from other revenue streams \(like Threadless, carbon ads and affiliate programs\). 
 
 #### What is the cost?
 
@@ -24,6 +24,5 @@ You can find them [here](https://docs.google.com/document/u/1/d/1HRYVADHN1-4B6wG
 
 #### How do I apply?
 
-If you think this works for you, go ahead and create your collective selecting 'Open Source' in opencollective.com/create to apply to this host. If you'd rather become your own host, select 'Other' and you'll be able to set up your own host in the process.   
-
+If you think this works for you, go ahead and create your collective selecting 'Open Source' in opencollective.com/create to apply to this host. If you'd rather become your own host, select 'Other' and you'll be able to set up your own host in the process. Note that in that case you will be responsible for doing the accounting as well as facilitating payments from sponsors. 
 
