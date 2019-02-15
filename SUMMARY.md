@@ -45,7 +45,7 @@
   * [Add Funds Manually](hosts/add-funds-manually.md)
   * [Refunds](hosts/refunds.md)
   * [Agreement Templates](hosts/sponsor-agreement.md)
-* [The Open Source Collective Host](the-open-source-collective-host.md)
+  * [Open Source Collective](hosts/open-source-collective.md)
 * [Developers](developers/README.md)
   * [API](developers/api/README.md)
     * [Members](developers/api/members.md)

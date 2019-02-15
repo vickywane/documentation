@@ -92,7 +92,7 @@ We have arrangements with several Collectives and Sponsors to accept funds outsi
 | :--- | :--- | :--- | :--- |
 | Foundation | SF Global Shapers | Eventbrite ticket sales |  |
 | Foundation | Drupal Camp | T-shirts |  |
-| OSC | Material-UI, BootstrapCDN | BuySellAds, CarbonAds | Log in, cashout, wait for Paypal payment |
+| OSC | Material-UI, BootstrapCDN | BuySellAds, CarbonAds | Log in, cashout, wait for Paypal payment, source = material-ui website |
 | OSC | Webpack | Threadless |  |
 | OSC | Material UI, BootstrapCDN, JSS | Consensys Codefund |  |
 | OSC | Creative Tim | Avantgate | 2Checkout |
