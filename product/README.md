@@ -38,7 +38,7 @@ Give the gift of giving.
 
 Sponsor Collectives on behalf of a company.
 
-### [Backer Updates](../collectives/backer-updates.md)
+### [Backer Updates](../collectives/communication.md)
 
 Keep your supporters in the loop about your achievements and news.
 

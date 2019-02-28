@@ -28,7 +28,7 @@ Sponsors have more complex requirements because they are an [Organization](../ba
 
 Core Contributors are Collective admins, started the Collective or are heavily involved. They are often community organizers or maintainers of open source projects. 
 
-Core Contributors want to make their communities sustainable financially, so receiving funds from Backers and Sponsors is first on their priority list. They use tools like [tiers](../collectives/tiers.md), [goals](../collectives/goals.md), and [social media sharing](../collectives/integrations.md#twitter-integration). They are interested in managing and growing their communities by creating [events](../collectives/events.md) and [sending updates](../collectives/backer-updates.md).
+Core Contributors want to make their communities sustainable financially, so receiving funds from Backers and Sponsors is first on their priority list. They use tools like [tiers](../collectives/tiers.md), [goals](../collectives/goals.md), and [social media sharing](../collectives/integrations.md#twitter-integration). They are interested in managing and growing their communities by creating [events](../collectives/events.md) and [sending updates](../collectives/communication.md).
 
 ### Fiscal Host Admin
 

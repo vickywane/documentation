@@ -23,7 +23,7 @@
   * [Approving Expenses](collectives/approving-expenses.md)
   * [Tiers](collectives/tiers.md)
   * [Goals](collectives/goals.md)
-  * [Updates to Backers](collectives/backer-updates.md)
+  * [Communication](collectives/communication.md)
   * [Events](collectives/events.md)
   * [Data Export](collectives/data-export.md)
   * [Integrations](collectives/integrations.md)
