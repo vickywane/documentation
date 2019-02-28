@@ -60,7 +60,7 @@ You can set up a Collective absolutely free. However, there are fees to accept a
 
 ### What is a Fiscal Host?
 
-A fiscal host is a legal company or individual who enables financial transactions, holds funds, and takes care of liability and taxes for a Collective. Fiscal Hosts make it possible for Collective to transact without incorporating their own legal entity. Each Fiscal Host sets its own fees, most commonly 0% and 5%.
+A fiscal host is a legal company or individual who enables financial transactions, holds funds, and takes care of liability and taxes for a Collective. Fiscal Hosts make it possible for Collectives to transact without incorporating their own legal entity. Each Fiscal Host sets its own fees, most commonly 0% and 5%.
 
 [More info about Fiscal Hosts](../hosts/).
 
