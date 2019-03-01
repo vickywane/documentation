@@ -1,5 +1,9 @@
 # Payments
 
+## Financial contribution flow
+
+![](../.gitbook/assets/contribution.gif)
+
 ## Payment changes
 
 To view your current payment methods, go to your profile \(under 'my account'\) and click 'edit profile', then 'payment methods'.
