@@ -90,4 +90,5 @@
     * [Analytics](internal/queries/analytics.md)
     * [Emails](internal/queries/emails.md)
   * [Style Guide](internal/style-guide.md)
+* [Other ways to get funding](other-ways-to-get-funding.md)
 
