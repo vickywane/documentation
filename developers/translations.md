@@ -23,7 +23,7 @@ For VSCode users, you can use the following snippet to make your life easier:
   "Formatted Message (react-intl)": {
     "scope": "javascript",
     "prefix": "formatted-message",
-    "body": "<FormattedMessage id=\"$0\" defaultMessage=\"$1\"/>",
+    "body": "<FormattedMessage id=\"$TM_FILENAME_BASE.$0\" defaultMessage=\"$1\"/>",
     "description": "Put the given string in a FormattedMessage"
   }
 }
