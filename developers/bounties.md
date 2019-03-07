@@ -1,7 +1,5 @@
 # Bounties
 
-
-
 ## Open Collective bounty program: get paid to contribute to Open Source!
 
 The Open Collective engineering team is small, and we're always looking for new contributors to our Open Source codebases. Our Bounty program is an opportunity to solve issues that could be neglected otherwise. Contributors who fix these issues will be rewarded financially.
