@@ -30,3 +30,11 @@ For VSCode users, you can use the following snippet to make your life easier:
 
 ```
 
+## Add a new language
+
+To add translations for a new language, copy paste the `en.json` from `frontend/src/lang` and rename the copy using the 2 letter code for the country/language\).
+
+You will also need to copy paste the last line in `frontend/scripts/translate.js`:
+
+`fs.writeFileSync(LANG_DIR + 'ja.json', JSON.stringify(translatedMessages('ja'), null, 2));` and replace `ja` with your 2 letter locale code.
+
