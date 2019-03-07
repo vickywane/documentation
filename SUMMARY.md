@@ -75,6 +75,7 @@
 * [Internal](internal/README.md)
   * [Host Admin Manual](internal/host-admin-manual.md)
   * [Newsletter](internal/newsletter.md)
+  * [Support](internal/support.md)
   * [Issue Labels](internal/issue-labels.md)
   * [DNS Troubleshooting](internal/dns-troubleshooting.md)
   * [Developer Guidelines](internal/developer-guidelines.md)
