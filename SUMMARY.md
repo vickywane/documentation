@@ -57,6 +57,7 @@
   * [Open Source Collective](hosts/open-source-collective.md)
   * [Taxes support \(VAT\)](hosts/taxes-support-vat.md)
 * [Developers](developers/README.md)
+  * [Bounties](developers/bounties.md)
   * [API](developers/api/README.md)
     * [Members](developers/api/members.md)
     * [Users / Emails](developers/api/users-emails.md)
