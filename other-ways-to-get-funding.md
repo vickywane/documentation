@@ -4,7 +4,7 @@ description: >-
   can receive revenue.
 ---
 
-# Other ways to get funding
+# Different ways to get funding
 
 It is important that you check with your host \(fiscal sponsor\) if these options are available to you. 
 
@@ -26,7 +26,19 @@ Some projects can participate in affiliate programs. For example Material-UI is 
 
 A contributor could also start a [workshop in Academy ](https://webpack.academy/)and they could choose to get paid and ideally return a % to the community. 
 
+### Offer access to support 
 
+Some collectives have created a Base Support Tier that gives Sponsors access to some support hours per month in exchange for a yearly contribution. [Babel is one of them](https://opencollective.com/babel).
+
+Priority answer to issues is something you can also offer you sponsors. The new [open collective bot ](https://github.com/opencollective/opencollective-bot/)should make that easier.
+
+### Offer your top sponsors to set up Bounties on their behalf. 
+
+You can offer your top sponsors to set up bounties for features they'd like that you don't have time/resources to prioritize. We [interviewed](https://medium.com/open-collective/jhipsters-bounty-system-and-how-it-saved-the-project-cc118888f642) JHipster about their bounty program that does this.
+
+### Offer your top sponsors voting rights
+
+Webpack has been experimenting with this \(we should do a blogpost about it\) through [their voting system](https://webpack.js.org/vote). They give sponsors special influence when voting their roadmap. 
 
 
 
