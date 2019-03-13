@@ -7,7 +7,7 @@ Madrid, Spain
 
 ### **Xavier Damman**
 
-Core contributor
+Core contributor  
 Brussels, Belgium
 
 ### **François Hodierne**
