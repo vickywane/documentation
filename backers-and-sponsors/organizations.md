@@ -10,7 +10,7 @@ An Organization is a profile that represents a a legal entity instead of an indi
 * Enable your employees to support Collectives on behalf of your company
 * Create a profile to host \(become a fiscal sponsor\) for a project. [Read more about hosts](https://docs.opencollective.com/help/hosts)
 
-## How do I Create an Organization?
+## **How to** Create an Organization
 
 **If you already have an individual profile**
 
@@ -20,7 +20,7 @@ Go to your profile menu \(top right\) and look for the My Organizations section.
 
 Go through the process of contributing to a Collective, and you'll be able to create both the individual and organization profile during check out. 
 
-## How can I Edit an Organization
+## How to Edit an Organization
 
 Head to the top right menu to navigate to your Organization profile \(make sure you're logged into your Organization, not your personal account\).
 
@@ -33,4 +33,8 @@ Click "edit Organization" to change:
 * **Advanced:** change your Organization's URL
 
 Don't forget to click **save!**
+
+## **Bulk Contributions**
+
+You can send a lump sum to Open Collective in a single transaction, and we'll add the balance to your Organization on the platform, so you can easily allocate it to the projects you want to support. If you'd like to set this up, just let us know at support@opencollective.com.
 

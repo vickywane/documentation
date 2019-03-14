@@ -1,31 +1,31 @@
-# Core contributors
+# Team
 
-### **Pia Mancini**
+## **Pia Mancini**
 
 Core contributor, CEO  
-Madrid, Spain 
+Madrid, Spain
 
-### **Xavier Damman**
+## **Xavier Damman**
 
 Core contributor  
 Brussels, Belgium
 
-### **François Hodierne**
+## **François Hodierne**
 
 Core contributor, developer  
 Berlin, Germany
 
-### **Alanna Irving**
+## **Alanna Irving**
 
 Core contributor, Open Source Collective Foundation  
 Wellington, New Zealand
 
-### **Benjamin Piouffle**
+## **Benjamin Piouffle**
 
 Core contributor, developer  
 Paris, France
 
-### **Darío Muñoz**
+## **Darío Muñoz**
 
 Core contributor, designer  
 Guadalajara, Mexico

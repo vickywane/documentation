@@ -20,10 +20,10 @@ Select who you'd like to pay as—yourself as an individual, or an [Organization
 ## Subscriptions
 
 ### Why do you charge recurring monthly subscriptions on 1st of every month?
+
 It helps our collectives manage their monthly budget. Instead of getting donations randomly throughout the month, they can start with a minimum budget for that month. Any new donations improve the budget.
 
 We're working on a way to charge a single payment spread out across monthly contributions, to reduce payment processor transaction fees.
-
 
 ## Payment changes
 
@@ -41,6 +41,7 @@ If you have set up a repeating payment to a Collective, such as a monthly contri
 
 ### Change the amount or payment method for an existing subscription
 
-Unfortunately we don't have an easy way to do this. You'll need to cancel the existing subscription and set up a new one. 
+Unfortunately we don't have an easy way to do this. You'll need to cancel the existing subscription and set up a new one.
 
 Click "subscriptions" in your user menu and find the subscription. Click the three dot menu next to it and cancel the subscription. Then go back to the Collective and set up a new contribution.
+

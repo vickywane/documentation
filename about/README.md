@@ -16,67 +16,68 @@ Support: support@opencollective.com
 
 [Subscribe to our blog on Medium](https://medium.com/open-collective)
 
-- [A New Form of Association For the Internet Generation](https://medium.com/open-collective/a-new-form-of-association-for-the-internet-generation-part-1-6d6c4f5dd27f#.i2x2jjp79), Xavier Damman
-- [If you can’t beat them, abstract them.](https://medium.com/open-collective/if-you-can-t-beat-them-abstract-them-b182fc36b24f), Pia Mancini
-- [A New Way to Fund Open Source Projects](https://medium.com/open-collective/a-new-way-to-fund-open-source-projects-91a51b1b7aac#.ky05pse2h), Xavier Damman
-- [Money and Open Source Communities](https://medium.com/open-collective/money-and-open-source-communities-64b1c2f6aec4), Xavier Damman
-- [Let's Talk About Money](https://medium.com/open-collective/lets-talk-about-money-949a55fd2ea1), Aseem Sood
-- [Moving beyond the charity framework](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141), Pia Mancini
-- [From Firms to Collectives](https://medium.com/open-collective/from-firms-to-collectives-c139ae27a4ee), Xavier Damman
-- [Being a Circle in a World Made for Triangles](https://medium.com/open-collective/being-a-circle-in-a-world-made-for-triangles-bc434d823a79), Alanna Irving
-- [Ten Steps to Successful Open Source Crowdfunding](https://medium.com/open-collective/ten-steps-to-successful-open-source-crowdfunding-fa2b43e82687), Alanna Irving
-- [Turning our City into an Open Collective](https://medium.com/open-collective/turning-our-city-into-an-open-collective-93d107f0f86a), Xavier Damman
-- [Cities Are Open Collectives](https://medium.com/open-collective/cities-are-open-collectives-71a8a8e2e9ec), Pia Mancini
-- [From the Internet of Information to the Internet of Actions](https://medium.com/open-collective/from-the-internet-of-information-to-the-internet-of-action-17d799f8a773), Xavier Damman
-- [The New Citizen](https://medium.com/open-collective/the-new-citizen-731d15aa901b), Xavier Damman
+* [A New Form of Association For the Internet Generation](https://medium.com/open-collective/a-new-form-of-association-for-the-internet-generation-part-1-6d6c4f5dd27f#.i2x2jjp79), Xavier Damman
+* [If you can’t beat them, abstract them.](https://medium.com/open-collective/if-you-can-t-beat-them-abstract-them-b182fc36b24f), Pia Mancini
+* [A New Way to Fund Open Source Projects](https://medium.com/open-collective/a-new-way-to-fund-open-source-projects-91a51b1b7aac#.ky05pse2h), Xavier Damman
+* [Money and Open Source Communities](https://medium.com/open-collective/money-and-open-source-communities-64b1c2f6aec4), Xavier Damman
+* [Let's Talk About Money](https://medium.com/open-collective/lets-talk-about-money-949a55fd2ea1), Aseem Sood
+* [Moving beyond the charity framework](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141), Pia Mancini
+* [From Firms to Collectives](https://medium.com/open-collective/from-firms-to-collectives-c139ae27a4ee), Xavier Damman
+* [Being a Circle in a World Made for Triangles](https://medium.com/open-collective/being-a-circle-in-a-world-made-for-triangles-bc434d823a79), Alanna Irving
+* [Ten Steps to Successful Open Source Crowdfunding](https://medium.com/open-collective/ten-steps-to-successful-open-source-crowdfunding-fa2b43e82687), Alanna Irving
+* [Turning our City into an Open Collective](https://medium.com/open-collective/turning-our-city-into-an-open-collective-93d107f0f86a), Xavier Damman
+* [Cities Are Open Collectives](https://medium.com/open-collective/cities-are-open-collectives-71a8a8e2e9ec), Pia Mancini
+* [From the Internet of Information to the Internet of Actions](https://medium.com/open-collective/from-the-internet-of-information-to-the-internet-of-action-17d799f8a773), Xavier Damman
+* [The New Citizen](https://medium.com/open-collective/the-new-citizen-731d15aa901b), Xavier Damman
 
 ## Talks
 
 Subscribe to our [Talks Playlist on YouTube](https://www.youtube.com/playlist?list=PLXg2bdeeuFip6JoPoYgdm3AQ53lfEOjnw)
 
-- [Collaborating with Money](https://www.youtube.com/watch?v=kZleX383-VQ), Alanna Irving, New Frontiers, New Zealand November 2018
-- [Transparent by Design](https://www.youtube.com/watch?v=yrXO6c6Q7wU&list=PLXg2bdeeuFip6JoPoYgdm3AQ53lfEOjnw&index=4&t=0s), Pia Mancini, Monki Gras, London 2018
-- [From the democracy of our voices, to the democracy of our actions](https://www.youtube.com/watch?v=9Lx2Dk4VaUA&list=PLXg2bdeeuFip6JoPoYgdm3AQ53lfEOjnw&index=6) - Xavier Damman, Crowdsourcing Week, Luleå (Sweden) March 2018
-- [Cities as Open Collectives](https://www.youtube.com/watch?v=S74uMkmNdh0&index=1&list=PLXg2bdeeuFip6JoPoYgdm3AQ53lfEOjnw) - Pia Mancini, OuiShare Fest, Paris 2017
-- [Reducing the Friction for Citizens to Create Associations and Sustain Them](https://www.youtube.com/watch?v=uBj5nS0s9uQ&list=PLXg2bdeeuFip6JoPoYgdm3AQ53lfEOjnw&index=7) - Xavier Damman, iMAL, Brussels November 2017
-- [A new Way of Sustaining Open Source
-  ](https://www.youtube.com/watch?v=szE_00HC5h4&index=2&list=PLXg2bdeeuFip6JoPoYgdm3AQ53lfEOjnw) - Pia Mancini, Zeit, Berlin September 2017
-- [How to Fund Communities and Movements Transparently](https://www.youtube.com/watch?v=KtRYjfiYHKc&list=PLXg2bdeeuFip6JoPoYgdm3AQ53lfEOjnw&index=6&t=0s) - Xavier Damman, OuiShare Fest, Paris, 2016
-- [A New Form of Association to Build a New World, Together](https://www.youtube.com/watch?v=YNmG8-Yj7C4&index=5&list=PLXg2bdeeuFip6JoPoYgdm3AQ53lfEOjnw) - Xavier Damman, OSFEST, Barcelona 2016
+* [Collaborating with Money](https://www.youtube.com/watch?v=kZleX383-VQ), Alanna Irving, New Frontiers, New Zealand November 2018
+* [Transparent by Design](https://www.youtube.com/watch?v=yrXO6c6Q7wU&list=PLXg2bdeeuFip6JoPoYgdm3AQ53lfEOjnw&index=4&t=0s), Pia Mancini, Monki Gras, London 2018
+* [From the democracy of our voices, to the democracy of our actions](https://www.youtube.com/watch?v=9Lx2Dk4VaUA&list=PLXg2bdeeuFip6JoPoYgdm3AQ53lfEOjnw&index=6) - Xavier Damman, Crowdsourcing Week, Luleå \(Sweden\) March 2018
+* [Cities as Open Collectives](https://www.youtube.com/watch?v=S74uMkmNdh0&index=1&list=PLXg2bdeeuFip6JoPoYgdm3AQ53lfEOjnw) - Pia Mancini, OuiShare Fest, Paris 2017
+* [Reducing the Friction for Citizens to Create Associations and Sustain Them](https://www.youtube.com/watch?v=uBj5nS0s9uQ&list=PLXg2bdeeuFip6JoPoYgdm3AQ53lfEOjnw&index=7) - Xavier Damman, iMAL, Brussels November 2017
+* \[A new Way of Sustaining Open Source
+
+  \]\([https://www.youtube.com/watch?v=szE\_00HC5h4&index=2&list=PLXg2bdeeuFip6JoPoYgdm3AQ53lfEOjnw](https://www.youtube.com/watch?v=szE_00HC5h4&index=2&list=PLXg2bdeeuFip6JoPoYgdm3AQ53lfEOjnw)\) - Pia Mancini, Zeit, Berlin September 2017
+
+* [How to Fund Communities and Movements Transparently](https://www.youtube.com/watch?v=KtRYjfiYHKc&list=PLXg2bdeeuFip6JoPoYgdm3AQ53lfEOjnw&index=6&t=0s) - Xavier Damman, OuiShare Fest, Paris, 2016
+* [A New Form of Association to Build a New World, Together](https://www.youtube.com/watch?v=YNmG8-Yj7C4&index=5&list=PLXg2bdeeuFip6JoPoYgdm3AQ53lfEOjnw) - Xavier Damman, OSFEST, Barcelona 2016
 
 ## Media / Logo
 
-- Download the [Open Collective Logo](https://opencollective.com/static/images/opencollectivelogo.png) in high resolution: [svg](https://opencollective.com/static/images/opencollectivelogo.svg) - [png](https://opencollective.com/static/images/opencollectivelogo.png)
+* Download the [Open Collective Logo](https://opencollective.com/static/images/opencollectivelogo.png) in high resolution: [svg](https://opencollective.com/static/images/opencollectivelogo.svg) - [png](https://opencollective.com/static/images/opencollectivelogo.png)
 
 ![](https://opencollective.com/static/images/opencollectivelogo.svg)
 
 ## Follow us
 
-- Twitter: [@opencollect](https://twitter.com/opencollect)
-- Medium: https://medium.com/open-collective
-- Instagram: https://instagram.com/opencollectives
-- Facebook: https://facebook.com/BeOpenCollective
-
+* Twitter: [@opencollect](https://twitter.com/opencollect)
+* Medium: [https://medium.com/open-collective](https://medium.com/open-collective)
+* Instagram: [https://instagram.com/opencollectives](https://instagram.com/opencollectives)
+* Facebook: [https://facebook.com/BeOpenCollective](https://facebook.com/BeOpenCollective)
 
 ## FAQ
 
-### What is Open Collective? <a id="what-is-opencollective"></a>
+### What is Open Collective?  <a id="what-is-opencollective"></a>
 
 OpenCollective is a platform where communities can collect and disburse money transparently, to sustain and grow their projects.
 
-### Why Open Collective? <a id="why-opencollective"></a>
+### Why Open Collective?  <a id="why-opencollective"></a>
 
 Internet has been really good at helping people do great things together. But things still get complicated once money is involved. These challenges hold communities back from getting all the support they need from backers and sponsors to achieve their mission.
 
 We enable communities to have economic power, so they can sustain themselves and have a larger impact in the world.
 
-### How does it work? <a id="how-does-it-work"></a>
+### How does it work?  <a id="how-does-it-work"></a>
 
 Our platform provides tools for legal entities to fiscally sponsor Collectives under their umbrella, empowering people to create associations without friction. It's like an API between the legacy world of banks and taxes and the emerging future of digitally powered distributed collaborations.
 
 The goal of OpenCollective is to create a [New Form of Association for the Internet Generation](https://medium.com/open-collective/a-new-form-of-association-for-the-internet-generation-part-1-6d6c4f5dd27f#.fgb60dorq).
 
-### Why Open Source? <a id="why-open-source"></a>
+### Why Open Source?  <a id="why-open-source"></a>
 
 For starters, we are believers in the open source philosophy. Our code is open source, and so are the Collectives we host. We think transparency in technology and finances is important.
 
