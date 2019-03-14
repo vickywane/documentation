@@ -53,7 +53,7 @@
   * [Host Dashboard](hosts/host-dashboard.md)
   * [Add Funds Manually](hosts/add-funds-manually.md)
   * [Refunds](hosts/refunds.md)
-  * [Local Tax Support](hosts/vat.md)
+  * [Local Tax Support](hosts/local-tax.md)
   * [Agreement Templates](hosts/sponsor-agreement.md)
   * [Open Source Collective](hosts/open-source-collective.md)
 * [Developers](developers/README.md)
