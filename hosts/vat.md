@@ -1,14 +1,14 @@
 ---
-description: >-
-  This page describe how to setup taxes for your collectives to conform with
-  local laws
+description: This page describes how to set up charging local taxes
 ---
 
-# Taxes support \(VAT\)
+# Local Tax Support
 
-In certain countries or regions of the world, hosts are required to collect state taxes to conform with local legislation. Open Collective implements that in a flexible way to accommodate with most of the legislation out there. Please contact support if you need to activate taxes.
+In certain countries or regions, Fiscal Hosts are required to collect local taxes—for example, VAT in the EU. Open Collective provides a flexible way to comply with most of the legislation out there. 
 
-You can check what taxes are applied for an host or a collective by going to the `taxes` page, eg. [https://opencollective.com/opencollectivebrussels/taxes](https://opencollective.com/opencollectivebrussels/taxes)
+Please contact support@opencollective.com if you need Collectives under your umbrella to charge taxes. We will work with you to create the appropriate template and activate it.
+
+You can check what taxes are applied for an host or a Collective by going to the `taxes` page, eg. [https://opencollective.com/opencollectivebrussels/taxes](https://opencollective.com/opencollectivebrussels/taxes)
 
 ## Documentation
 
