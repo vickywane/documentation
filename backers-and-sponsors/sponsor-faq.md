@@ -49,7 +49,7 @@ We offer tools to help you find Collectives that are providing value for your co
 
 Yes. If paying via credit card through our automated system doesn't work for your process, please reach out to support@opencollective.com and we can arrange to accept payment.
 
-### Can we make a batch payment?
+### Can we make a bulk payment?
 
 Yes. You can send us funds with a single transaction, and we'll allocate it to your Organization in the system. Then you can distribute it to the Collectives of your choice.
 
@@ -61,7 +61,7 @@ Yes. Contributions through our platform will automatically generate receipts aft
 
 Open Collectives are under the legal umbrella of their [fiscal host](../hosts/). For most open source software projects, that's the Open Source Collective. 
 
-Most sponsorships arrangements don't require a seperate contract to the standard terms, but we offer a [sponsorship agreement template](../hosts/sponsor-agreement.md#sponsorship-agreement-template) if needed. Sponsorship agreements are set in discussion with the sponsor, the fiscal host, and the Collective together.
+Most sponsorships arrangements don't require a separate contract to the standard terms, but we offer a [sponsorship agreement template](../hosts/sponsor-agreement.md#sponsorship-agreement-template) if needed. Sponsorship agreements are set in discussion with the sponsor, the fiscal host, and the Collective together.
 
 ### Help me convince my company to became a Sponsor?
 
