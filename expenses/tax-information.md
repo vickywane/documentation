@@ -2,7 +2,7 @@
 
 ## Info For Expense Submitters Getting Paid
 
-If you are filling invoices for more than $600 USD \(or equivalent\) per year to a Collective with a [Fiscal Host](../hosts/) in the US \(such as the Open Source Collective\), you will need to send them one of these forms:
+If you are submitting invoices for more than $600 USD \(or equivalent\) per year to a Collective with a [Fiscal Host](../hosts/) in the US \(such as the Open Source Collective\), you will need to send them one of these forms:
 
 * US nationals/residents fill out [this form](https://www.irs.gov/pub/irs-pdf/fw9.pdf) - W9
 * Non-US nationals/residents use [this form](https://www.irs.gov/pub/irs-pdf/fw8ben.pdf) - W8-BEN
