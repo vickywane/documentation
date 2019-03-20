@@ -74,6 +74,7 @@
   * [Manual Reporting](developers/manual-reporting.md)
   * [Github Permissions](developers/github-permissions.md)
   * [Translations](developers/translations.md)
+  * [Collective's locations](developers/collectives-locations.md)
 * [Internal](internal/README.md)
   * [Host Admin Manual](internal/host-admin-manual.md)
   * [Newsletter](internal/newsletter.md)
