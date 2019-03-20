@@ -33,6 +33,7 @@
   * [Tiers](collectives/tiers.md)
   * [Goals](collectives/goals.md)
   * [Events](collectives/events.md)
+  * [Funding Options](collectives/funding-options.md)
   * [Data Export](collectives/data-export.md)
   * [Integrations](collectives/integrations.md)
 * [Backers & Sponsors](backers-and-sponsors/README.md)
@@ -91,5 +92,4 @@
     * [Analytics](internal/queries/analytics.md)
     * [Emails](internal/queries/emails.md)
   * [Style Guide](internal/style-guide.md)
-* [Different ways to get funding](other-ways-to-get-funding.md)
 
