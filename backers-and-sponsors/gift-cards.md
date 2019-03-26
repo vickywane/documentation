@@ -8,5 +8,7 @@ Open Collective gift cards empower your employees or community members to suppor
 
 You can give us a list of emails and we'll send the gift cards out, or you can generate gift card codes and send them out yourself.
 
-To create Gift Cards for your [Organization](organizations.md), go to 'edit organization' and then 'gift cards'.
+To create Gift Cards for your [Organization](organizations.md), go to 'edit organization' and then 'gift cards'. You can also view your pending or redeemed gift cards.
+
+![](../.gitbook/assets/peek-26-03-2019-08-42.gif)
 
