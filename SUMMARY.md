@@ -41,6 +41,7 @@
   * [Payments](backers-and-sponsors/payment.md)
   * [Organizations](backers-and-sponsors/organizations.md)
   * [Gift Cards](backers-and-sponsors/gift-cards.md)
+  * [Bulk Transfers](backers-and-sponsors/bulk-transfers.md)
   * [Sustainer Resources](backers-and-sponsors/sustainer-resources.md)
 * [Expenses & Getting Paid](expenses/README.md)
   * [Submitting Expenses](expenses/submitting-expenses.md)
