@@ -8,12 +8,14 @@ description: How we deal with collective's addresses and countries
 
 On the GraphQL side things are easy, you can just fetch `collective.location` and you'll get an object like:
 
-```text
-name: { type: GraphQLString },
-address: { type: GraphQLString },
-country: { type: GraphQLString },
-lat: { type: GraphQLFloat },
-long: { type: GraphQLFloat },
+```javascript
+{
+    name: { type: GraphQLString },
+    address: { type: GraphQLString },
+    country: { type: GraphQLString },
+    lat: { type: GraphQLFloat },
+    long: { type: GraphQLFloat },
+}
 ```
 
 ## Database
