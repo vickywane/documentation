@@ -4,55 +4,11 @@ description: This page describes how to set up charging local taxes
 
 # Local Tax Support
 
-In certain countries or regions, Fiscal Hosts are required to collect local taxes—for example, VAT in the EU. Open Collective provides a flexible way to comply with most of the legislation out there. 
+In certain countries or regions, Fiscal Hosts are required to collect local taxes—for example, VAT in the EU.
 
-Please contact support@opencollective.com if you need Collectives under your umbrella to charge taxes. We will work with you to create the appropriate template and activate it.
+We currently support VAT for European products, services and events. Tax will automatically apply if you create an event in a country of the European Union or if you add a `SERVICE` or `PRODUCT` tier while your collective is registered in a EU country.
 
-You can check what taxes are applied for an host or a Collective by going to the `taxes` page, eg. [https://opencollective.com/opencollectivebrussels/taxes](https://opencollective.com/opencollectivebrussels/taxes)
+Please contact support@opencollective.com if you need Collectives under your umbrella to charge taxes. We will work with you to conform to you local legislation.
 
-## Documentation
 
-The configuration is made in the host `taxes`. This configuration must match the following schema:
-
-```javascript
-{
-	// Set the tier type on which the tax applies as the tax key
-	// eg. SERVICE, PRODUCT, DONATION...
-	"SERVICE": {
-		// Tax name as displayed to the user
-		"name": "VAT",
-		// Description of the tax
-		"description": "European value-added tax",
-		// An optionnal regex to validate tax identification numbers
-		"identificationNumberRegex": "^((AT)?U[0-9]{8}|(BE)?0[0-9]{9}|(BG)?[0-9]{9,10}|(CY)?[0-9]{8}L(CZ)?[0-9]{8,10}|(DE)?[0-9]{9}|(DK)?[0-9]{8}|(EE)?[0-9]{9}(EL|GR)?[0-9]{9}|(ES)?[0-9A-Z][0-9]{7}[0-9A-Z]|(FI)?[0-9]{8}(FR)?[0-9A-Z]{2}[0-9]{9}|(GB)?([0-9]{9}([0-9]{3})?|[A-Z]{2}[0-9]{3})(HU)?[0-9]{8}|(IE)?[0-9]S[0-9]{5}L|(IT)?[0-9]{11}(LT)?([0-9]{9}|[0-9]{12})|(LU)?[0-9]{8}|(LV)?[0-9]{11}|(MT)?[0-9]{8}(NL)?[0-9]{9}B[0-9]{2}|(PL)?[0-9]{10}|(PT)?[0-9]{9}|(RO)?[0-9]{2,10}(SE)?[0-9]{12}|(SI)?[0-9]{8}|(SK)?[0-9]{10})$",
-		// A list of countries where the tax applies. If omitted, tax will apply for all countries
-		"countries": ["AT","BE","BG","HR","CY","CZ","DK","EE","FI","FR","DE","GR","HU","IE","IT","LV","LT","LU","MT","NL","PL","PT","RO","SK","SI","ES","SE","GB"],
-		// Percentage of the tax
-		"percentage": 20
-	}
-}
-```
-
-## Templates
-
-### VAT \(Value Added Tax, Europe\) - Belgium
-
-```javascript
-{
-	"PRODUCT": {
-		"name": "VAT",
-		"description": "European value-added tax",
-		"identificationNumberRegex": "^((AT)?U[0-9]{8}|(BE)?0[0-9]{9}|(BG)?[0-9]{9,10}|(CY)?[0-9]{8}L(CZ)?[0-9]{8,10}|(DE)?[0-9]{9}|(DK)?[0-9]{8}|(EE)?[0-9]{9}(EL|GR)?[0-9]{9}|(ES)?[0-9A-Z][0-9]{7}[0-9A-Z]|(FI)?[0-9]{8}(FR)?[0-9A-Z]{2}[0-9]{9}|(GB)?([0-9]{9}([0-9]{3})?|[A-Z]{2}[0-9]{3})(HU)?[0-9]{8}|(IE)?[0-9]S[0-9]{5}L|(IT)?[0-9]{11}(LT)?([0-9]{9}|[0-9]{12})|(LU)?[0-9]{8}|(LV)?[0-9]{11}|(MT)?[0-9]{8}(NL)?[0-9]{9}B[0-9]{2}|(PL)?[0-9]{10}|(PT)?[0-9]{9}|(RO)?[0-9]{2,10}(SE)?[0-9]{12}|(SI)?[0-9]{8}|(SK)?[0-9]{10})$",
-		"countries": ["AT","BE","BG","HR","CY","CZ","DK","EE","FI","FR","DE","GR","HU","IE","IT","LV","LT","LU","MT","NL","PL","PT","RO","SK","SI","ES","SE","GB"],
-		"percentage": 21
-	},
-	"SERVICE": {
-		"name": "VAT",
-		"description": "European value-added tax",
-		"identificationNumberRegex": "^((AT)?U[0-9]{8}|(BE)?0[0-9]{9}|(BG)?[0-9]{9,10}|(CY)?[0-9]{8}L(CZ)?[0-9]{8,10}|(DE)?[0-9]{9}|(DK)?[0-9]{8}|(EE)?[0-9]{9}(EL|GR)?[0-9]{9}|(ES)?[0-9A-Z][0-9]{7}[0-9A-Z]|(FI)?[0-9]{8}(FR)?[0-9A-Z]{2}[0-9]{9}|(GB)?([0-9]{9}([0-9]{3})?|[A-Z]{2}[0-9]{3})(HU)?[0-9]{8}|(IE)?[0-9]S[0-9]{5}L|(IT)?[0-9]{11}(LT)?([0-9]{9}|[0-9]{12})|(LU)?[0-9]{8}|(LV)?[0-9]{11}|(MT)?[0-9]{8}(NL)?[0-9]{9}B[0-9]{2}|(PL)?[0-9]{10}|(PT)?[0-9]{9}|(RO)?[0-9]{2,10}(SE)?[0-9]{12}|(SI)?[0-9]{8}|(SK)?[0-9]{10})$",
-		"countries": ["AT","BE","BG","HR","CY","CZ","DK","EE","FI","FR","DE","GR","HU","IE","IT","LV","LT","LU","MT","NL","PL","PT","RO","SK","SI","ES","SE","GB"],
-		"percentage": 21
-	}
-}
-```
 
