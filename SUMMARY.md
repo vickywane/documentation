@@ -95,4 +95,6 @@
     * [Analytics](internal/queries/analytics.md)
     * [Emails](internal/queries/emails.md)
   * [Style Guide](internal/style-guide.md)
+* [Projects](projects/README.md)
+  * [Season of Docs 2019](projects/season-of-docs-2019.md)
 
