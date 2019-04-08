@@ -6,6 +6,16 @@
 
 The Open Collective engineering team is small, and we're always looking for new contributors to our Open Source codebases. Our Bounty program is an opportunity to solve issues that could be neglected otherwise. Contributors who fix these issues will be rewarded financially.
 
+### **Principles**
+
+#### With money, but not only about money
+
+Our bounty program is about creating opportunities for our community to contribute to Open Collective, to make it their own. It also gives us an opportunity to get to know developers who we could potentially work with more in the future. We celebrate making open source contributions more sustainable by paying, but money alone shouldn't be the primary motivation for participation.
+
+#### No compromise on quality
+
+We're not able to accept pull requests that aren't completed to a high standard in a reasonable timeframe. Please only pick up bounties that you are confident you can complete at your current knowledge and skill level. We will not accept pull requests or pay bounties for for code that's not up to the standard we need to maintain for the Collectives who rely on this platform. Our dev team is happy to answer questions and provide some limited support, but we don't have capacity to mentor junior developers through the bounty program.
+
 ### How it works
 
 Our Bounty model is simple:
@@ -19,18 +29,17 @@ We want to attract quality contributions. The issue will only be considered comp
 #### Workflow for Bounty Hunters
 
 1. Search for issues with attached bounties: [Bounties for all repositories](https://github.com/opencollective/opencollective/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abounty)
-2. For your first Bounty project, please pick one of the issues tagged "simple $100" \(you can move on to larger Bounties if the first one goes well\)
+2. For your first Bounty project, please pick one of the issues tagged "simple" \(you can move on to larger Bounties if the first one goes well\)
 3. Express interest by commenting on the issue and ask to be assigned
 4. You'll be assigned and given an expected timeframe to deliver \(if you aren't able to meet the deadline, the issue may be assigned to someone else\)
 5. Create your solution
-6. Open a Pull Request and ask for feedback and review
-7. Incorporate feedback from [Core Contributors](https://github.com/orgs/opencollective/teams/core-contributors), if applicable
+6. Open a Pull Request to get your code reviewed
+7. Incorporate any feedback from [Core Contributors](https://github.com/orgs/opencollective/teams/core-contributors)
 8. PR is reviewed, approved, and merged by a [Core Contributor](https://github.com/orgs/opencollective/teams/core-contributors)
-9. Get paid!
+9. [Submit your invoice as an expense](../expenses/submitting-expenses.md) to [Open Collective Engineering](https://opencollective.com/engineering)
+10. Get paid!
 
-[Submit your invoice as an expense](../expenses/submitting-expenses.md) to [Open Collective Engineering](https://opencollective.com/engineering). 
-
-If you can't issue an invoice, ask to be rewarded with an Open Collective [Gift Card](../backers-and-sponsors/gift-cards.md) instead.
+_If you can't issue an invoice, ask to be rewarded with an Open Collective_ [_Gift Card_](../backers-and-sponsors/gift-cards.md) _instead._
 
 #### Workflow for Core Contributors
 
