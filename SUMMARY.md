@@ -76,6 +76,7 @@
   * [Manual Reporting](developers/manual-reporting.md)
   * [Github Permissions](developers/github-permissions.md)
   * [Translations](developers/translations.md)
+  * [Testing with Cypress](developers/testing-with-cypress.md)
   * [Collective's locations](developers/collectives-locations.md)
 * [Internal](internal/README.md)
   * [Host Admin Manual](internal/host-admin-manual.md)
