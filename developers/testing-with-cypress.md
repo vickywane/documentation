@@ -41,16 +41,16 @@ Note that addresses formatted like `test*@opencollective.com` are a special case
 Create an account and login with it. If no params is provided, the account will be created with a random email.
 
 {% hint style="info" %}
-**`cy.createCollective({ type, email })`**
+**`cy.createCollective({ type` = 'ORGANIZATION'`, email =`defaultTestUserEmai**l**`})`**
 {% endhint %}
 
-_No description provided yet_
+Helper to quickly create a collective that use designated by `email` will be an admin of.
 
 {% hint style="info" %}
 **`cy.addCreditCardToCollective({ collectiveSlug })`**
 {% endhint %}
 
-_No description provided yet_
+Adds a default test credit card  to the collective referenced by `collectiveSlug`
 
 ### Forms
 
@@ -58,7 +58,14 @@ _No description provided yet_
 **`cy.fillStripeInput(container, cardParams)`**
 {% endhint %}
 
-_No description provided yet_
+Fills a stripe input.
+
+* `container` \(optional\) the DOM that contains the input
+* `cardParams` \(optional\) the credit card info. Defaults to a valid card. Keys:
+  * `creditCardNumber`
+  * `expirationDate`
+  * `cvcCode`
+  * `postalCode`
 
 ### Emails
 
