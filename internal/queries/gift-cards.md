@@ -35,3 +35,25 @@ WHERE t.type = 'CREDIT'
 GROUP BY spm."CollectiveId", t.currency
 ```
 
+
+
+### Total number of Github contributors reached
+
+This query will show a company how many unique contributors are participating to projects they have donated to through gift cards. Useful for companies that are donating to open-source as a way to promote their services to developers.
+
+```sql
+SELECT count(*) FROM (
+    SELECT * FROM (
+        SELECT json_object_keys((c.DATA ->> 'githubContributors')::json) AS contributors
+        FROM "Transactions" t
+        INNER JOIN "Collectives" c ON c.id = t."CollectiveId"
+        WHERE t."UsingVirtualCardFromCollectiveId" = -- PUT THE COLLECTIVE ID HERE --
+        AND t."type" = 'CREDIT'
+        AND c.DATA IS NOT NULL
+        AND c.DATA ->> 'githubContributors' IS NOT null
+        GROUP BY c.id
+    ) AS all_contributors
+    GROUP BY contributors
+) AS total_contributors
+```
+

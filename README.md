@@ -44,5 +44,7 @@ Email [support@opencollective.com](mailto:support@opencollective.com) or join ou
 
 ### How can I contribute?
 
-We are an open source project and run as an Open Collective ourselves. You can contribute [money](https://opencollective.com/opencollectiveinc) or [code](http://github.com/opencollective). And we'd really love it if you [started your own Collective](https://opencollective.com/create) and contributed by growing the community!
+We are an open source project and run as an Open Collective ourselves. You can contribute [money](https://opencollective.com/opencollectiveinc), [code](http://github.com/opencollective) or [translations](https://crowdin.com/project/opencollective). And we'd really love it if you [started your own Collective](https://opencollective.com/create) and contributed by growing the community!
+
+For more info about how you can contribute to Open Collective, check the [contributing page](https://docs.opencollective.com/help/about/contributing).
 
