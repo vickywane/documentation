@@ -30,3 +30,9 @@ Unfortunately, the IRS does not consider producing open source software to be a 
 
 In contrast, the Open Collective Foundation 501\(c\)\(3\), which is home to many open-source related groups primarily focused on education, outreach, and social impact, does qualify for tax-exempt status. If you donate to a Collective under that host, it's tax deductible in the US.
 
+### Can I update the billing address on my receipts?
+
+Yes. To do so, go to 'edit profile' and fill in the address field. You can also add your company name here if needed.
+
+![](../.gitbook/assets/screen-shot-2019-04-15-at-1.24.52-pm.png)
+
