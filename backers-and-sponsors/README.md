@@ -36,3 +36,17 @@ Yes. To do so, go to 'edit profile' and fill in the address field. You can also 
 
 ![](../.gitbook/assets/screen-shot-2019-04-15-at-1.24.52-pm.png)
 
+### Can my Collective give to another Collective?
+
+If both Collectives are in the same [fiscal host](../hosts/), you can donate using the balance of a Collective. For example, most open source projects are hosted by the Open Source Collectives, so they can give to each other.
+
+To make a Collective-to-Collective donation, go to the page of the Collective and select your contribution amount. You will be given the option to donate from any Collective you are a core contributor of. 
+
+![](../.gitbook/assets/image-2.png)
+
+### Can I leave a message with my donation?
+
+Yes. You will be given the option to write a note with your contribution.
+
+![](../.gitbook/assets/image-3.png)
+
