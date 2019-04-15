@@ -20,6 +20,8 @@ If your account has no activity on it yet \(donations, expenses\), you can delet
 
 Accounts with a history transactions cannot be deleted, because those transactions are part of Collective budgets, whose integrity and accuracy has to be maintained. You can archive your account instead.
 
+Archived accounts look disabled, and people are prevented from donating. Next time we run subscriptions \(1st of the month\), they will be cancelled.
+
 ## Using Open Collective Anonymously
 
 You can sign up using a pseudonym. We understand that not everyone can or wants to show their real name on public Collective budgets.
