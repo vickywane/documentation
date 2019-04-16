@@ -12,6 +12,8 @@ Access profile settings by clicking "edit profile". You can edit your info, imag
 
 Go to 'edit profile' &gt; Advanced and specify your new email address in the box. You'll get a confirmation and then your new email will be active.
 
+![](../.gitbook/assets/change-email.gif)
+
 ### Deleting or Archiving your account
 
 To close your account, go to 'edit profile' &gt; Advanced.
