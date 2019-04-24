@@ -36,10 +36,18 @@ We want to attract quality contributions. The issue will only be considered comp
 6. Open a Pull Request to get your code reviewed
 7. Incorporate any feedback from [Core Contributors](https://github.com/orgs/opencollective/teams/core-contributors)
 8. PR is reviewed, approved, and merged by a [Core Contributor](https://github.com/orgs/opencollective/teams/core-contributors)
-9. [Submit your invoice as an expense](../expenses/submitting-expenses.md) to [Open Collective Engineering](https://opencollective.com/engineering)
+9. [Submit your invoice as an expense](../expenses/submitting-expenses.md) to [Open Collective Engineering](https://opencollective.com/engineering)\*
 10. Get paid!
 
-_If you can't issue an invoice, ask to be rewarded with an Open Collective_ [_Gift Card_](../backers-and-sponsors/gift-cards.md) _instead._
+**\*Make invoices out to:**  
+Engineering  
+Open Collective Inc  
+340 S Lemon Ave \#3717   
+Walnut 91789 CA USA  
+  
+[Here is an invoice template \(Google Doc\)](https://docs.google.com/document/d/1IPxQ7uYsbmZM_HOZZiN0z09xxOcPPQn_sSwXZRV3MPM/copy) you can use if needed.
+
+If you can't issue an invoice, ask to be rewarded with an Open Collective [Gift Card](../backers-and-sponsors/gift-cards.md) instead.
 
 #### Workflow for Core Contributors
 
