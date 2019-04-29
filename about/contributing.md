@@ -19,7 +19,7 @@ We welcome any type of contribution, not only code. You can help with
 * **Design**: many collectives don't have a logo or a background image for their hero. Create an issue for it and submit your proposal. We always give credit where credit is due.
 * **Code**: there are plenty of [open issues](https://github.com/OpenCollective/OpenCollective/issues). Even if you can't write code, commenting on them, showing that you care about a given issue matters. It helps us triage them.
 
-## Your First Contribution
+## Your First Code Contribution
 
 Unsure where to begin contributing to Open Collective? You can start by looking through the [good first issues](https://github.com/opencollective/opencollective/issues?q=is%3Aopen+is%3Aissue+label%3A"good+first+issue") - issues which should only require a few lines of code, and a test or two.
 
