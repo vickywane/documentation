@@ -4,6 +4,8 @@ Open Collective is an online funding platform for open and transparent communiti
 
 This is the place to find all help and documentation related to Open Collective. It's a work in progress, so please feel free to give us feedback.
 
+To suggest changes, click the Github icon on any docs page and make a pull request. If you're not sure how to do that, see this step-by-step guide.
+
 If you can't find the answer you're looking for, contact us at [support@opencollective.com](mailto:support@opencollective.com) or on our [Slack](https://opencollective.slack.com).
 
 ## FAQ
@@ -47,4 +49,8 @@ Email [support@opencollective.com](mailto:support@opencollective.com) or join ou
 We are an open source project and run as an Open Collective ourselves. You can contribute [money](https://opencollective.com/opencollectiveinc), [code](http://github.com/opencollective) or [translations](https://crowdin.com/project/opencollective). And we'd really love it if you [started your own Collective](https://opencollective.com/create) and contributed by growing the community!
 
 For more info about how you can contribute to Open Collective, check the [contributing page](https://docs.opencollective.com/help/about/contributing).
+
+## How to contribute to these docs
+
+
 
