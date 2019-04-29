@@ -21,17 +21,13 @@ You can help with:
 
 ## Code Contributions
 
-You can help with:
-
 Unsure where to begin contributing to Open Collective? You can start by looking through the [good first issues](https://github.com/opencollective/opencollective/issues?q=is%3Aopen+is%3Aissue+label%3A"good+first+issue"), which should only require a few lines of code, and a test or two.
+
+Want to get paid for contributing code? Check out our [bounty program](../developers/bounties.md).
 
 ### Code review process
 
-The bigger the pull request, the longer it will take to review and merge. Try to break down large pull requests into smaller chunks.
+The bigger the pull request, the longer it will take to review and merge. Try to break down large pull requests into smaller chunks. If it's a bug fix, it will probably be quickly merged and deployed. If it's a new feature, it will need more testing and review.
 
-If it's a bug fix, it will probably be quickly merged and deployed. If it's a new feature, it will need more testing and review.
-
-Want to get paid for contributing code? Grab a [bounty](../developers/bounties.md).
-
-If you have any questions, reach out to us on [Slack](https://slack.opencollective.com).
+**If you have any questions, reach out to us on** [**Slack**](https://slack.opencollective.com)**.**
 
