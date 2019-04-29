@@ -4,11 +4,11 @@ Open Collective is an online funding platform for open and transparent communiti
 
 This is the place to find all help and documentation related to Open Collective. It's a work in progress, so please feel free to give us feedback.
 
-To suggest changes, click the Github icon on any docs page and make a pull request. If you're not sure how to do that, see this step-by-step guide.
+To suggest changes, click the Github icon on any docs page and make a pull request. If you're not sure how to do that, see the [step-by-step guide](./#how-to-contribute-to-these-docs) at the bottom of this page.
 
 If you can't find the answer you're looking for, contact us at [support@opencollective.com](mailto:support@opencollective.com) or on our [Slack](https://opencollective.slack.com).
 
-## FAQ
+## Overall FAQ
 
 _See links for more details. Each chapter heading in the docs has its own more specific FAQ._
 
@@ -52,5 +52,29 @@ For more info about how you can contribute to Open Collective, check the [contri
 
 ## How to contribute to these docs
 
+First of all, thank you! We really appreciate it. 
 
+This is a guide for people who are not familiar with editing files through GitHub repositories. If you are, feel free to use your own workflow.
+
+0\) Make sure you have a GitHub account and you're logged in.
+
+1\) Go to the docs page you want to edit and click the Github icon.
+
+![](.gitbook/assets/screen-shot-2019-04-29-at-4.40.54-pm.png)
+
+2\) Click the edit icon \(pencil\) on the Github page that you will be sent to.
+
+![](.gitbook/assets/screen-shot-2019-04-29-at-4.42.55-pm.png)
+
+3\) Make the edits you want to suggest. The formatting uses [markdown](https://www.markdownguide.org/cheat-sheet/). Click 'preview' to check if it's looking how you intended.
+
+4\) When you're done making changes, scroll to the bottom and select "Create a new branch for this commit and start a pull request." Put in a short description and click "propose file change".
+
+![](.gitbook/assets/screen-shot-2019-04-29-at-4.48.27-pm.png)
+
+5\) Click 'Create Pull Request' to send your proposed changes to the documentation admins, who will review and merge them if they are approved.
+
+![](.gitbook/assets/screen-shot-2019-04-29-at-4.53.57-pm.png)
+
+If you have any questions about contributing to our documentation, please reach out to support@opencollective.com. 
 
