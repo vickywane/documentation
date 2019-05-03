@@ -34,7 +34,7 @@ If you have questions or want to express interest, please email [info@opencollec
 
 ### **Idea 1: improve developer documentation**
 
-Open Collective will be launching a new version of our API \(GraphQL and REST\) in mid-2019, v3, and it will need great documentation. There is also much to improve about our developer documentation overall.
+Open Collective will be launching a new version of our API \(GraphQL and REST\) in mid-2019, v2, and it will need great documentation. There is also much to improve about our developer documentation overall.
 
 **Overall dev docs**
 
@@ -49,7 +49,7 @@ Our issue [bounty program](https://docs.opencollective.com/help/developers/bount
 * Gather feedback from participants and our dev team, and change/improve the bounty documentation accordingly.
 * Learn about the dev environment setup experience of bounty hunters, and improve documentation make it easier to get up and running.
 
-**API v3 docs**
+**API v2 docs**
 
 * Work with our dev team to understand and communicate what the API can do and why our users should be excited about it. See the minimalist [announcement of API v2](https://medium.com/open-collective/open-collective-graphql-api-preview-3b42ed1d55ff) — we really want to take documentation and comms to a whole new level for the new version.
 * Fully document the new version of the GraphQL API, creating a major update to our [current API docs](https://graphql-docs-v2.opencollective.com/), including Guides, Reference \(GraphQL & REST\), and Explorer.
