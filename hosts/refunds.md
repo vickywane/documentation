@@ -1,6 +1,8 @@
 # Refunds
 
-To refund a donation to one of your Collectives:
+Refunds are processed by host administrators. If you are not the admin, contact your fiscal host \(or Open Collective support if your host is managed by Open Collective\).
+
+**To refund a donation as a host admin:**
 
 1. Go to the Collective page and find the budget section
 2. Click "all transactions"
