@@ -13,9 +13,9 @@ Select who you'd like to pay as—yourself as an individual, or an [Organization
 #### Pay with...
 
 1. Credit card - enter the details or use a saved card
-2. Gift card - select the gift card you want to pay with
-3. Collective - contribute using the balance of your own Collective
-4. Organization - contribute using the balance saved to your Organization
+2. [Gift card](gift-cards.md) - select the gift card you want to pay with
+3. Collective - contribute [using the balance of one of your Collectives](collective-to-collective-donations.md) \(if it's in the same host as the one you're donating to\)
+4. [Organization](organizations.md) - contribute using the balance saved to your Organization
 
 ## Subscriptions
 
