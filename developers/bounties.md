@@ -14,7 +14,7 @@ Our bounty program is about creating opportunities for our community to contribu
 
 #### No compromise on quality
 
-We're not able to accept pull requests that aren't completed to a high standard in a reasonable timeframe. Please only pick up bounties that you are confident you can complete at your current knowledge and skill level. We will not accept pull requests or pay bounties for for code that's not up to the standard we need to maintain for the Collectives who rely on this platform. Our dev team is happy to answer questions and provide some limited support, but we don't have capacity to mentor junior developers through the bounty program.
+We're not able to accept pull requests that aren't completed to a high standard in a reasonable timeframe. Please only pick up bounties that you are confident you can complete at your current knowledge and skill level. We will not accept pull requests or pay bounties for for code that's not up to the standard we need to maintain for the Collectives who rely on this platform. Our dev team is happy to answer questions and provide some limited support, but we don't have capacity to mentor junior developers through the bounty program. For general guidelines about what's expected in the code, check [https://docs.opencollective.com/help/about/contributing](https://docs.opencollective.com/help/about/contributing).
 
 ### How it works
 
