@@ -25,6 +25,13 @@ Unsure where to begin contributing to Open Collective? You can start by looking 
 
 Want to get paid for contributing code? Check out our [bounty program](../developers/bounties.md).
 
+**General guidelines**
+
+* The strings must be internationalized. See [/help/developers/translations](https://docs.opencollective.com/help/developers/translations)
+* Whenever it's possible we must use `styled-components` to write styles. See [OC Styleguide](https://opencollective-styleguide.now.sh/)
+* Icons must be imported from the [styled-icons](http://styled-icons.js.org/) library.
+* Tests written with Cypress must follow our [good practices](https://docs.opencollective.com/help/developers/testing-with-cypress) conventions.
+
 ### Code review process
 
 The bigger the pull request, the longer it will take to review and merge. Try to break down large pull requests into smaller chunks. If it's a bug fix, it will probably be quickly merged and deployed. If it's a new feature, it will need more testing and review.
