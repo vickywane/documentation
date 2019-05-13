@@ -5,6 +5,8 @@
 Core contributor, CEO  
 Madrid, Spain
 
+Connect on [Twitter](https://twitter.com/piamancini ) , [LinkedIn](https://www.linkedin.com/in/piamancini/)
+
 ## **Xavier Damman**
 
 Core contributor  
