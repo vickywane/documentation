@@ -2,33 +2,41 @@
 
 ## **Pia Mancini**
 
-Core contributor, CEO  
+Core contributor  
+Co-founder & CEO  
 Madrid, Spain
 
-Connect on [Twitter](https://twitter.com/piamancini ) , [LinkedIn](https://www.linkedin.com/in/piamancini/)
+[Twitter](https://twitter.com/piamancini%20), [LinkedIn](https://www.linkedin.com/in/piamancini/)
 
 ## **Xavier Damman**
 
 Core contributor  
+Co-founder  
 Brussels, Belgium
 
 ## **François Hodierne**
 
-Core contributor, developer  
+Core contributor  
+Lead developer  
 Berlin, Germany
 
 ## **Alanna Irving**
 
-Core contributor, Open Source Collective Foundation  
+Core contributor  
+Open Source Collective executive director  
 Wellington, New Zealand
+
+[Website](https://alanna.space), [LinkedIn](https://www.linkedin.com/in/alannairving83/)
 
 ## **Benjamin Piouffle**
 
-Core contributor, developer  
+Core contributor  
+Developer  
 Paris, France
 
 ## **Darío Muñoz**
 
-Core contributor, designer  
+Core contributor  
+Designer  
 Guadalajara, Mexico
 
