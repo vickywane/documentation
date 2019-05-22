@@ -102,5 +102,6 @@
     * [Emails](internal/queries/emails.md)
   * [Style Guide](internal/style-guide.md)
 * [Projects](projects/README.md)
+  * [Maintainerati Berlin 2019](projects/maintainerati-berlin-2019.md)
   * [Season of Docs 2019](projects/season-of-docs-2019.md)
 
