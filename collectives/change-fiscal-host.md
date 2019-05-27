@@ -10,7 +10,7 @@ Your fiscal host is the house where your Collective "lives" legally and financia
 
 No lock in! If you start out being fiscally hosted by another organization and eventually want to set up your own legal entity, you can move your Collective under your own umbrella. This is great for projects that are bootstrapping early on and later build more legal infrastructure. 
 
-You can also change between fiscal host organizations. If you start out under a generalist host, you may later switch when a host specific to your movement or focus area forms. This can happen when a movement scales up, for example.
+You can also change between established fiscal host organizations. If you start out under a generalist host, you may later switch when a host specific to your movement or focus area forms. This can happen when a movement scales up, for example.
 
 ### What happens to my recurring financial contributions, updates subscribers, and transaction history?
 
@@ -28,7 +28,7 @@ Nothing. Changing hosts will not affect your existing recurring financial contri
 
 ### Why do I have to zero my Collective balance?
 
-Your fiscal host determines whose money your money sits in. To change hosts, you need to take all the funds out of the old bank account. 
+Your fiscal host determines whose bank account your money sits in. To change hosts, you need to take all the funds out of the old bank account. 
 
-Sometimes it's possible to arrange for the old host to send funds directly to the new host, which will involve the new host admin submitting an expense to your Collective for the full balance, to be paid by the old host to the new host directly, and then the new host will add those funds back to your Collective balance manually. This is pretty complicated and involves a bit of administrative juggling, so zeroing your balance is often easier.
+Sometimes it's possible to arrange for the old host to send funds directly to the new host. This involves complicated administrative juggling, so zeroing your balance is often easier.
 
