@@ -1,4 +1,4 @@
-# Add or Change Fiscal Host
+# Add Fiscal Host
 
 ## Adding a Fiscal Host
 
@@ -15,14 +15,4 @@ If you are an open source project with at least 100 stars on GitHub \(or equival
 To see your Fiscal Host options, go to edit Collective &gt; Fiscal Host.
 
 ![](../.gitbook/assets/screen-shot-2019-05-05-at-3.02.05-pm.png)
-
-## Changing Fiscal Host
-
-You can change the fiscal host of your Collective to a different host or your own host if you've set one up. 
-
-1. [Zero the balance](zero-collective-balance.md) of your Collective
-2. Go to edit Collective &gt; Fiscal Host
-3. Remove your current host
-4. Select 'use your own host' or 'apply to an existing host 
-5. OR visit the page of the host you wish to join and click the "apply" button
 
