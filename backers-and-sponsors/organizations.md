@@ -35,3 +35,9 @@ Click "edit Organization" to change:
 
 Don't forget to click **save!**
 
+## **How to access an Organization's subscriptions**
+
+The subscriptions link in your user menu will take you to your personal subscriptions. To access your Organization's subscriptions, go to the Organization's page and click "subscriptions" in the nav bar menu. From there you can access the action options to update amount or payment method, or cancel the subscription.
+
+![](../.gitbook/assets/screen-shot-2019-05-28-at-12.44.15-pm%20%281%29.png)
+
