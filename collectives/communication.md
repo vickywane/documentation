@@ -1,14 +1,18 @@
-# Communication
+# Updates & Comms
 
 ## Updates to Backers
 
 A lot of Collectives like to periodically email their Backers, to let them know what their donations are enabling, express thanks, or notify everyone of a change.
 
-To email all your backers, send an email to **backers@$collective.opencollective.com**
+To create an Update, go to your Collective page and click "Create an Update".
 
-_$collective = the name of your Collective, which appears in your Collective URL_
+![](../.gitbook/assets/screen-shot-2019-05-31-at-12.23.38-pm.png)
 
-Updates will show up in the Updates section of your Collective page.
+You can also send Updates via email using  **backers@$collective.opencollective.com**
+
+_$collective = the slug of your Collective, which appears in your Collective URL_
+
+Updates will be emailed and appear in the Updates section of your Collective page.
 
 ![](../.gitbook/assets/screen-shot-2019-02-05-at-6.02.51-pm.png)
 

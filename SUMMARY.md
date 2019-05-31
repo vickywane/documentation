@@ -32,7 +32,7 @@
   * [Transparent Budget](collectives/budget.md)
   * [Expense Policy](collectives/expense-policy.md)
   * [Approving Expenses](collectives/approving-expenses.md)
-  * [Communication](collectives/communication.md)
+  * [Updates & Comms](collectives/communication.md)
   * [Tiers](collectives/tiers.md)
   * [Goals](collectives/goals.md)
   * [Events](collectives/events.md)
