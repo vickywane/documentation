@@ -87,21 +87,23 @@ _**Project Mentors:** Alanna, Jaskirat_
 
 **Thanks for your interest in our Season of Docs ideas! If you want to get involved, please email info@opencollective.com and/or** [**join our Slack**](https://slack.opencollective.com)**.**
 
-
 ## **FAQ**
 
 ### **Do I have to commit to three months full time? What if I’m balancing other projects or a job simultaneously?**
+
 We are happy to consider part time contributors. We are a fully remote team and everyone works different hours, so we are flexible. Google allows writers to [extend their stipend](https://developers.google.com/season-of-docs/docs/glossary#long-running-project) We’re open to someone working fewer hours per week for a longer period. We don’t have a set number of hours in mind, as long as the writer has capacity to attend necessary meetings, communicate with us, and deliver their work as agreed. We will select the people with the best skills, experience, and fit with our team, and work out the logistical details with them from there.
 
 ### **Should I try to get involved in improving your docs now to increase my chances of being selected?**
+
 We appreciate your enthusiasm! But we have only planned mentor capacity for the timeframe of the Season of Docs program, which begins in Aug/Sept this year. We aren’t able to mentor before then, and it will be difficult to contribute effectively without support. One thing we want to work on during Season of Docs is improving our systems so wider community members can more easily contribute to docs without mentorship, but we’re not there yet.
 
 ### **Have you participated in any program like Season of Docs before? If so, how was your overall experience?**
+
 We haven’t participated in a program exactly like this, but we bring some relevant experience.
 
 Here’s what we wrote in our organization application to Google:
 
-Our Season of Docs administrator, Alanna, has a lot of experience in technical writing, including creating full handbooks for multiple technical projects and communities, as well as a background in translation of scientific papers and multi-lingual technical support documentation. She authored our [current documentation](https://docs.opencollective.com/help/)— but we think an even more experienced technical writer can help us take it to the next level.
+Our Season of Docs administrator, Alanna, has a lot of experience in technical writing, including creating full handbooks for multiple technical projects and communities, as well as a background in translation of scientific papers and multi-lingual technical support documentation. She authored our [current documentation](https://docs.opencollective.com/help/)— but we think an even more experienced technical writer can help us take it to the next level.
 
 We also have a partnership with [Maintainer Mountaineer](https://maintainer.io/), an organization focused on improving documentation and communications for open source projects, and have developed a great working relationship with its founder and main technical writer.
 
@@ -110,7 +112,9 @@ As a remote company, we have strong processes for both synchronous and asynchron
 Our co-admin Jaskirat is a Google Summer of Code and Google Code In Mentor and is extremely enthusiastic about his experience there.
 
 ### **What do you expect from technical writers you wish to mentor? How does you ideal applicant look?**
-Our criteria for selecting writers include (this list is in no particular order and is not necessarily exhaustive):
+
+Our criteria for selecting writers include \(this list is in no particular order and is not necessarily exhaustive\):
+
 * English fluency
 * Overall communication ability
 * Technical writing experience and skills
@@ -123,14 +127,17 @@ Our criteria for selecting writers include (this list is in no particular order 
 * New addition of ideas and approach.
 
 ### **Do you believe someone new to the project would be able to provide interesting and valuable insight?**
+
 We signed up for Season of Docs specifically to welcome people with fresh eyes and complementary skills, who can give us a unique perspective. Our documentation is in an “OK” state, but we need someone with the ability and passion to make it great. Our company culture is very open and experimental. We like to encourage people to run with new ideas.
 
 ### **What would you describe as the main barriers that keep people from contributing to your project? And from using it?**
+
 The main barrier has been lack of capacity and attention from the core team. We haven’t put enough work into creating the context and invitations needed to enable others to contribute effectively to our docs. We decided to participate in Season of Docs to give ourselves some structure and a clear timeframe for devoting the required mentorship to change this.
 
-We’ll be giving extensive mentorship support to the Season of Docs writer(s). We hope that by investing this time and energy, our systems will be in a good state to welcome more contributions from the wider community by the end of the project. We have made progress toward welcoming more code contributions from outside, and now it’s time to do the same for documentation.
+We’ll be giving extensive mentorship support to the Season of Docs writer\(s\). We hope that by investing this time and energy, our systems will be in a good state to welcome more contributions from the wider community by the end of the project. We have made progress toward welcoming more code contributions from outside, and now it’s time to do the same for documentation.
 
 ### **What are the things your team is excellent at, and which things need more improvement?**
+
 We are really good at:
 
 * transparency
@@ -139,18 +146,18 @@ We are really good at:
 * openness
 * personal relationships
 * trust
-* caring
-We need to work on:
-
-* accessibility (ability for new people to get involved)
-* scaling (need to grow 10x and create the systems to enable that)
-* polish (in many ways, the app & docs are ‘good enough’, not truly great)
-* fully implementing experiments (instead of running to the next thing)
+* caring We need to work on:
+* accessibility \(ability for new people to get involved\)
+* scaling \(need to grow 10x and create the systems to enable that\)
+* polish \(in many ways, the app & docs are ‘good enough’, not truly great\)
+* fully implementing experiments \(instead of running to the next thing\)
 
 ### **What are your preferred means of communication?**
+
 We generally use Slack, and have video calls on Zoom or Hangouts Meet. We also do long-form asynchronous written collaboration on Github issues and Google docs. Most of the team is in Europe, with one in New Zealand and one in Mexico, and several part-time contributors in other places, so we adapt meetings to time zones as needed. To communicate with our users, we also use Twitter and email quite a bit.
 
 ### **You mention a few times your docs are in an “OK” state, but it needs more work. What are the things that bother you the most, but haven’t been addressed yet?**
+
 We hope that the technical writer we work with can help advise us about how to prioritize improvements to the docs. We would be happy if they worked on any of the things mentioned in the project descriptions, plus came up with their own ideas.
 
 What seems most important to us now:
@@ -163,8 +170,10 @@ What seems most important to us now:
 * improve onboarding emails to give just-in-time help based on user activity
 
 ### **How often do your users contact you with questions or comments about your documentation? What are some of the most common problems they have?**
+
 We’re constantly trying to improve docs in response to user support feedback. A lot of the info users need is actually in the docs, but they have trouble finding it and contact support. This indicates our help docs are not accessible enough.
 
 We’re not documenting support questions extensively, because volume is small enough that we can action most feedback immediately. We do track tags associated with support tickets, to see which issues are coming up most often, and periodically review that data to guide prioritisation of both docs and software improvements.
 
 There is also scope to create more in-depth guides for specific types of users, such as a fiscal host admin guide or a sponsor guide, with highly specific info not relevant to many users but very important to a few.
+
