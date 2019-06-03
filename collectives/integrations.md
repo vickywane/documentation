@@ -28,6 +28,10 @@ You can set up Open Collective notifications in your Slack or Gitter channel. Fi
 
 Webhooks are currently tested with a limited number of users. Contact us if you want webhooks to be enabled for your collective. 
 
+{% hint style="warning" %}
+The data posted on the webhooks matches the permissions of the admin of the collective. They can therefore include personal information, like the email of the contributor who submit an expense to the collective. In short, **don't post the payload on untrustable or publicly viewable services**.
+{% endhint %}
+
 The following guide demonstrate how to add a webhook for your collective.Start by going to [https://zapier.com/app/home](https://zapier.com/app/home) then login with your Zapier account. Then click on `Make a zap!` 
 
 ![Click on &quot;Mape a Zap!&quot;](../.gitbook/assets/2019-05-27_14-31-55.png)
