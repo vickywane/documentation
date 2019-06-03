@@ -4,7 +4,6 @@
 
 **Inclusiveness**: We value, encourage all types of contributions. We don’t assume you can contribute for free, we respect and thank.  
 
-
 **Be honest**. Be honest about who you are, what your collective is doing, why you are fundraising and what you want to do with those funds. Dishonesty is not only damaging to you but to all other collectives. Don’t be the one bringing mistrust into this community.
 
 **The collective first**. Collectives are groups of people with a shared mission. People may come and go, but the mission remains. A successful collective is a collective that survives its initial founders.
