@@ -36,9 +36,16 @@ We use [react-intl](https://github.com/yahoo/react-intl) to manage our translati
   * `delete` and `archive` possible values
   * `other` all other values will use this key
 
-### Don's assume word order stays the same in other languages
+**An exception to this rule:** very common enums or the ones with many possible values should be implemented as a separate file listing all values because:
 
-The order of the words may change from a language to another. For this reason we must always pass the values to be replaced in `values` so their order can later be cha
+* Re-usability
+* A map of translations is easier to read than a long select string with tons of options
+
+See [i18n-member-role](https://github.com/opencollective/opencollective-frontend/blob/6c164f4b683b5b7393242db537a95c0f033b1377/src/lib/i18n-member-role.js) as an example.
+
+### Don's assume words order stays the same in other languages
+
+The order of the words may change from a language to another. For this reason we must always pass the values to be replaced in `values` so their order can later be changed.
 
 **Example**
 
