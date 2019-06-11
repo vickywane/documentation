@@ -4,7 +4,7 @@ description: Documenting how we handle translations in the code
 
 # Translations
 
-We use [react-intl](https://github.com/yahoo/react-intl) to manage our translations.
+We use [react-intl](https://github.com/yahoo/react-intl) to manage our translations. They are extracted from the code to `src/lang/${locale}.json` files using the `npm run build:langs` command \(CI will notify you if the translation files are outdated\). **Don't translate the strings directly in the files**, we use [Crowdin](https://crowdin.com/project/opencollective) to manage our translatations.
 
 ## Good practices
 
@@ -87,9 +87,42 @@ For VSCode users, you can use the following snippet to make your life easier:
 
 ## Add a new language
 
-To add translations for a new language, copy paste the `en.json` from `frontend/src/lang` and rename the copy using the 2 letter code for the country/language\).
+#### Add the language on Crowdin
 
-You will also need to copy paste the last line in `frontend/scripts/translate.js`:
+* Go to [https://crowdin.com/project/opencollective/settings\#integration](https://crowdin.com/project/opencollective/settings#integration)
+* Double click on `master`
 
-`fs.writeFileSync(LANG_DIR + 'ja.json', JSON.stringify(translatedMessages('ja'), null, 2));` and replace `ja` with your 2 letter locale code.
+![](../.gitbook/assets/image%20%284%29.png)
+
+* Click on the html files ignore pattern
+
+![](../.gitbook/assets/image%20%282%29.png)
+
+* Add an entry like `*.${locale}.html` and click `Save`
+
+![](../.gitbook/assets/image.png)
+
+* Click `Save` on the main modal
+
+![](../.gitbook/assets/image%20%283%29.png)
+
+* Go to [https://crowdin.com/project/opencollective/settings\#translations](https://crowdin.com/project/opencollective/settings#translations), click on `Target languages` pick the language and click `Update` 
+
+![](../.gitbook/assets/image%20%281%29.png)
+
+* Language is ready for translation!
+
+#### Activate the language in the code
+
+To activate a language on the website, we usually wait to have a correct translated ratio \(20-30%\).
+
+You will need to:
+
+* Copy paste the last line in `frontend/scripts/translate.js` \(replace `it` with your locale code\)
+
+```javascript
+translate('it', defaultMessages, diff.updated);
+```
+
+* Add the locale in `src/components/Footer.js` for the `languages` object
 
