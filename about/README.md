@@ -39,10 +39,7 @@ Subscribe to our [Talks Playlist on YouTube](https://www.youtube.com/playlist?li
 * [From the democracy of our voices, to the democracy of our actions](https://www.youtube.com/watch?v=9Lx2Dk4VaUA&list=PLXg2bdeeuFip6JoPoYgdm3AQ53lfEOjnw&index=6) - Xavier Damman, Crowdsourcing Week, Luleå \(Sweden\) March 2018
 * [Cities as Open Collectives](https://www.youtube.com/watch?v=S74uMkmNdh0&index=1&list=PLXg2bdeeuFip6JoPoYgdm3AQ53lfEOjnw) - Pia Mancini, OuiShare Fest, Paris 2017
 * [Reducing the Friction for Citizens to Create Associations and Sustain Them](https://www.youtube.com/watch?v=uBj5nS0s9uQ&list=PLXg2bdeeuFip6JoPoYgdm3AQ53lfEOjnw&index=7) - Xavier Damman, iMAL, Brussels November 2017
-* \[A new Way of Sustaining Open Source
-
-  \]\([https://www.youtube.com/watch?v=szE\_00HC5h4&index=2&list=PLXg2bdeeuFip6JoPoYgdm3AQ53lfEOjnw](https://www.youtube.com/watch?v=szE_00HC5h4&index=2&list=PLXg2bdeeuFip6JoPoYgdm3AQ53lfEOjnw)\) - Pia Mancini, Zeit, Berlin September 2017
-
+* [A new Way of Sustaining Open Source](https://www.youtube.com/watch?v=szE\_00HC5h4&index=2&list=PLXg2bdeeuFip6JoPoYgdm3AQ53lfEOjnw) - Pia Mancini, Zeit, Berlin September 2017
 * [How to Fund Communities and Movements Transparently](https://www.youtube.com/watch?v=KtRYjfiYHKc&list=PLXg2bdeeuFip6JoPoYgdm3AQ53lfEOjnw&index=6&t=0s) - Xavier Damman, OuiShare Fest, Paris, 2016
 * [A New Form of Association to Build a New World, Together](https://www.youtube.com/watch?v=YNmG8-Yj7C4&index=5&list=PLXg2bdeeuFip6JoPoYgdm3AQ53lfEOjnw) - Xavier Damman, OSFEST, Barcelona 2016
 
