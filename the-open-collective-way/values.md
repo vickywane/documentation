@@ -4,7 +4,7 @@
 
 **Sustainability**: We can’t achieve our mission unless we are sustainable doing it. We take a broad definition of sustainability as financial, collective and individual sustainability.
 
-**Openness:** We work in the open, use public slack, our code is pubic. We strive to be reachable and welcoming.  
+**Openness:** We work in the open, use public slack, our code is public. We strive to be reachable and welcoming.  
 
 **Resilience \(people come and go\)** A successful company survives its founders. We try to do things in a way anyone can pick up after and carry on. 
 
