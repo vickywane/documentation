@@ -47,3 +47,5 @@ You can add a credit card here if you want to make contributions to Collectives 
 
 Change the URL of your host page and adjust PDF settings here.
 
+You can also adjust your host fee, the commission on funds received by Collectives you host.
+

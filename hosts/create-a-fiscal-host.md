@@ -1,15 +1,39 @@
 # Create a Fiscal Host
 
-## Steps to create a Fiscal Host
+## Starting from scratch
 
-1. If you don't have an Open Collective account yet, go to [https://opencollective.com/signin](https://opencollective.com/signin) to create one
-2. [Click here](https://opencollective.com/organizations/new) to create an organization to represent the legal entity that will be the host.
-3. Go to "edit organization" from your organization's page.
-4. Fill in the information explaining what your host is about and your policies for Collectives under your umbrella.
-5. Connect your Stripe Account.
-6. Send us an email with the URL of your organization page so we can approve it — to support@opencollective.com.
-7. Once approved, new Collectives will be able to apply via your host page. You will receive an email with a button to approve them \(or not\). Once accepted, donations to their Collective will go to your bank account through Stripe.
-8. If your host charges fees to its Collectives, you may want to set up a Collective to add those fees to and maintain your own transparent budget. This also enables people to contribute directly to your host organization to help you support your community of Collectives.
-9. Collectives start accepting expenses and their Core Contributors approve them. 
-10. Connect your Paypal account via the Host Dashboard and start paying approved expenses.
+**Go to** [**https://opencollective.com/create**](https://opencollective.com/create)\*\*\*\*
+
+**Follow the steps to sign in to or create an Open Collective account**  
+This is the account for the individual who is the host admin. Normally it's associated with a human name. It will manage your host, which normally has an organization name.
+
+**Create a Collective**  
+This can be the Collective for your host's budget \(to receive host fees if you charge them and be transparent\), or for the main project you will be hosting. 
+
+**Select "use your own host"**
+
+* **Type of host entity:** Select individual if you will be using your personal accounts, or select organization if you'll be representing a company or incorporated entity. 
+* **Select an organization:** Choose "create organization" and enter the details.
+
+![](../.gitbook/assets/screen-shot-2019-06-20-at-3.40.06-pm.png)
+
+**Connect your Stripe account**  
+Click the "connect Stripe" button. Create a Stripe account, or log into your existing account by clicking "sign in" in the upper right corner.
+
+![](../.gitbook/assets/screen-shot-2019-06-20-at-3.39.30-pm.png)
+
+**Your host will now be active.**
+
+## If you already have a Collective
+
+Go to 'edit Collective' &gt; fiscal host and select 'use your own host'. Follow the steps from there to create your host and connect your Stripe account.
+
+## If you already have an Organization
+
+Follow the same steps as above, except instead of selecting "create organization", select the existing Organization you'd like to use from the drop down menu.
+
+
+
+[**Next: customize your fiscal host and set the host fee.**](fiscal-host-settings.md)  
+
 
