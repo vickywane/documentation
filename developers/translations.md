@@ -43,7 +43,7 @@ We use [react-intl](https://github.com/yahoo/react-intl) to manage our translati
 
 See [i18n-member-role](https://github.com/opencollective/opencollective-frontend/blob/6c164f4b683b5b7393242db537a95c0f033b1377/src/lib/i18n-member-role.js) as an example.
 
-### Don's assume words order stays the same in other languages
+### Don't assume word's order stays the same in other languages
 
 The order of the words may change from a language to another. For this reason we must always pass the values to be replaced in `values` so their order can later be changed.
 
