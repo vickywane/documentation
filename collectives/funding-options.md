@@ -18,6 +18,10 @@ We [wrote a blog post](https://medium.com/open-collective/using-ads-to-sustain-o
 
 Give something to your contributors for their donations—swag! Sell t-shirts or other items and put the funds in your Collective budget. Collectives have been using [threadless](https://webpack.threadless.com/mens/t-shirt/regular), [bonfire](https://www.bonfire.com), [teezily](https://www.teezily.com/stores/voltshop) and [cotton bureau](https://cottonbureau.com/products/parcel-t-shirt#/1402774/tee-men-standard-tee-vintage-navy-tri-blend-s).
 
+Usually, you can set up sales revenue to go directly to your fiscal host via Paypal or bank transfer. Then the host can credit the amount to your Collective. Different hosts have different policies, so reach out to them and confirm.
+
+As this is a manual process, hosts generally prefer aggregating transactions and crediting less frequently \(such as once a month\). Get in touch with your fiscal host for details.
+
 ### Affiliations 
 
 Some projects can participate in affiliate programs. For example, Material-UI receives funding from themes via [Creative Tim Affiliates](https://www.creative-tim.com/affiliates/new). A contributor could also start a [workshop in Academy ](https://webpack.academy/)and choose to return a % to the community. 
