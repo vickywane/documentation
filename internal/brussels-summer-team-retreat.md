@@ -102,6 +102,50 @@ Pia:
 * Grants should be on OC, but we can't take fees on it
 * Will work on a new proposal
 
+## Ben Nickolls \(Octoben\) Notes on OSS Sustainability  
+
+OC as an indicator of people who want to use a project and how many people want to pay a subscription 
+
+OC as a way to provide a service / as a pricing gateway 
+
+**Distribute money to their dependencies** 
+
+if we can’t add value ourselves how we can enable others to add value?
+
+As you go down the stack you give less. 
+
+BYS first level dependencies 
+
+Options to tweak the algorithm 
+
+Pledge to collectives 
+
+Support the whole ecosystem - pitch to create groups of projects that can offer standardized benefits. 
+
+What can projects do together: roadmap / standard documentation / where can you find documentation in this community / create efficiency within a group of projects. 
+
+discoverability 
+
+Share that opportunity with other. 
+
+Give projects the option to sign up when you create a collective 
+
+Free for open source projects
+
+Charge companies 
+
+Dependencies will root for you 
+
+email to your dependencies saying, XX joined the program every time octobox receive a donation through the program / tweet this. 
+
+Make it more obvious on the collective page that you have the option to sell a service = Tier TYPE
+
+customize the algorithm using check boxes 
+
+Group Dynamics
+
+We support our community through this bundle. 
+
 ## Modus Create Day Notes.
 
 What is a sustainable model to balance out the commercial and open source community?
