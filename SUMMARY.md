@@ -86,6 +86,8 @@
   * [Testing with Cypress](developers/testing-with-cypress.md)
   * [Collective's locations](developers/collectives-locations.md)
 * [Internal](internal/README.md)
+  * [Team Retreats](internal/team-retreats.md)
+  * [Brussels Summer Team Retreat](internal/brussels-summer-team-retreat.md)
   * [Host Admin Manual](internal/host-admin-manual.md)
   * [Newsletter](internal/newsletter.md)
   * [Support](internal/support.md)
