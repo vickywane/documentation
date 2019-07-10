@@ -111,4 +111,5 @@
 * [Design](design/README.md)
   * [Design Workflow](design/understanding-the-design-workflow.md)
   * [Contribution Guidelines](design/untitled.md)
+* [Translators](translators.md)
 
