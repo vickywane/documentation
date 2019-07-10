@@ -8,7 +8,7 @@
   * [Team](about/team.md)
   * [Investors](about/investors.md)
   * [Contributing](about/contributing.md)
-  * [Glossary](about/glossary.md)
+  * [Terminology](about/glossary.md)
 * [The Open Collective Way](the-open-collective-way/README.md)
   * [Values](the-open-collective-way/values.md)
   * [Community Guidelines](the-open-collective-way/community-guidelines.md)
@@ -108,4 +108,7 @@
 * [Projects](projects/README.md)
   * [Maintainerati Berlin 2019](projects/maintainerati-berlin-2019.md)
   * [Season of Docs 2019](projects/season-of-docs-2019.md)
+* [Design](design/README.md)
+  * [Understanding the  design workflow](design/understanding-the-design-workflow.md)
+  * [Design Contribution Guidelines](design/untitled.md)
 
