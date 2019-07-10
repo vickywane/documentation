@@ -1,4 +1,4 @@
-# Understanding the  design workflow
+# Design Workflow
 
 ## Mapping our process
 

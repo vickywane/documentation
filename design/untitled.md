@@ -4,9 +4,9 @@ description: >-
   with design-related efforts to Open Collective
 ---
 
-# Design Contribution Guidelines
+# Contribution Guidelines
 
- As an open community, Open Collective Design aims for designing new ways to create, share and deliver value from a design point of view. 
+As an open community, Open Collective Design aims for designing new ways to create, share and deliver value from a design point of view. 
 
 ### What do I need to know first?
 

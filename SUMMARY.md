@@ -109,6 +109,6 @@
   * [Maintainerati Berlin 2019](projects/maintainerati-berlin-2019.md)
   * [Season of Docs 2019](projects/season-of-docs-2019.md)
 * [Design](design/README.md)
-  * [Understanding the  design workflow](design/understanding-the-design-workflow.md)
-  * [Design Contribution Guidelines](design/untitled.md)
+  * [Design Workflow](design/understanding-the-design-workflow.md)
+  * [Contribution Guidelines](design/untitled.md)
 
