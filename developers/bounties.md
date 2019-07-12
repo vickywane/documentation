@@ -1,6 +1,6 @@
 # Bounties
 
-## Open Collective bounty program 
+## Open Collective bounty program
 
 **Get paid to contribute to Open Source!**
 
@@ -42,9 +42,9 @@ We want to attract quality contributions. The issue will only be considered comp
 **\*Make invoices out to:**  
 Engineering  
 Open Collective Inc  
-340 S Lemon Ave \#3717   
-Walnut 91789 CA USA  
-  
+340 S Lemon Ave \#3717  
+Walnut 91789 CA USA
+
 [Here is an invoice template \(Google Doc\)](https://docs.google.com/document/d/1IPxQ7uYsbmZM_HOZZiN0z09xxOcPPQn_sSwXZRV3MPM/copy) you can use if needed.
 
 If you can't issue an invoice, ask to be rewarded with an Open Collective [Gift Card](../backers-and-sponsors/gift-cards.md) instead.
@@ -54,7 +54,7 @@ If you can't issue an invoice, ask to be rewarded with an Open Collective [Gift 
 1. Tag issues with the "bounty" label and amount \(e.g. "$100"\)
 2. Add a comment with a basic explanation of the Bounty process and link to BOUNTY.md, e.g.:
 
-   > A $100 bounty was attached to this issue. Anyone submitting a Pull Request will be rewarded with $100 when the Pull Request is reviewed, accepted and merged. [More info](BOUNTY.md).
+   > A $100 bounty was attached to this issue. Anyone submitting a Pull Request will be rewarded with $100 when the Pull Request is reviewed, accepted and merged. [More info](https://github.com/opencollective/documentation/tree/77e43efbc6aec78bd046c0cb4e5b1f9b93b98cb0/developers/BOUNTY.md).
 
 3. Make sure the issue is understandable for newcomers and expectations are clearly set
 4. When someone asks to pick up ab Bounty, assign them the issue and give them a timeframe for delivery

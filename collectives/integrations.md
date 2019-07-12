@@ -1,5 +1,16 @@
 # Integrations
 
+## Zapier Integration
+
+We now provide a Zapier App! Zapier should be the default choice whenever you need to integrate Open Collective with a third party service. All you need is:
+
+* To create an API key on [http://opencollective.com/applications](http://opencollective.com/applications)
+* To add the app on [https://zapier.com/developer/public-invite/21484/63399c65bb01d75e00fe091ae7f58683/](https://zapier.com/developer/public-invite/21484/63399c65bb01d75e00fe091ae7f58683/)
+
+Like everything we do, our Zapier app is open source \(MIT\). If you need an action that's not yet on the Zapier app and feel ready to work on the integration: check [https://github.com/opencollective/opencollective-zapier/settings](https://github.com/opencollective/opencollective-zapier/settings)
+
+Otherwise feel free to open an issue on [https://github.com/opencollective/opencollective/issues](https://github.com/opencollective/opencollective/issues) to ask for it. Please tell us about our use case, we love to understand why our users do what they do!
+
 ## Twitter Integration
 
 Connect your Twitter to automatically thank new backers who contribute to your Collective.
@@ -23,32 +34,6 @@ You can set up Open Collective notifications in your Slack or Gitter channel. Fi
 
 * Go to your room's integrations and click Open Collective
 * Copy the provided Webhook URL and click Done
-
-### Webhooks \(beta\)
-
-Webhooks are currently tested with a limited number of users. Contact us if you want webhooks to be enabled for your collective. 
-
-{% hint style="warning" %}
-The data posted on the webhooks matches the permissions of the admin of the collective. They can therefore include personal information, like the email of the contributor who submit an expense to the collective. In short, **don't post the payload on untrustable or publicly viewable services**.
-{% endhint %}
-
-The following guide demonstrate how to add a webhook for your collective.Start by going to [https://zapier.com/app/home](https://zapier.com/app/home) then login with your Zapier account. Then click on `Make a zap!` 
-
-![Click on &quot;Mape a Zap!&quot;](../.gitbook/assets/2019-05-27_14-31-55.png)
-
-![In the App type, select Webhooks ](../.gitbook/assets/2019-05-27_14-32-25.png)
-
-
-
-![Select &quot;Catch Hook&quot; then click on &quot;Save + Continue&quot;](../.gitbook/assets/2019-05-27_14-35-58.png)
-
-![Copy the link provided by Zapier](../.gitbook/assets/2019-05-27_14-36-21.png)
-
-Go to your collective "Edit" section, then select webhooks. Add the URL provided by Zapier and select the webhook type directly from the list \(or **all** to subscribe to all notifications\).
-
-![](../.gitbook/assets/2019-05-27_14-49-01.png)
-
-Click on **Save**, finish the configuration on Zapier.com and that's is!
 
 ### For Admins
 
