@@ -34,7 +34,7 @@ Sometimes it's possible to arrange for the old host to send funds directly to th
 
 ### What if I want to move to a different platform instance?
 
-Open Collective is open source, so it's technically possible to fork the codebase and set it up on your own servers. This means you'd no longer user opencollective.com but would be on your own website.
+Open Collective is open source, so it's technically possible to fork the codebase and set it up on your own servers. This means you'd no longer use opencollective.com and would be on your own website.
 
 You can move Collectives from hosts on opencollective.com to a host set up on your own site. It's also possible to transfer over your recurring financial contributions \(Stripe subscriptions\). 
 
