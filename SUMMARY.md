@@ -69,7 +69,7 @@
   * [Agreement Templates](hosts/sponsor-agreement.md)
   * [Open Source Collective](hosts/open-source-collective.md)
 * [Developers](developers/README.md)
-  * [How to contribute to Open Collective](/developers/how-to-contribute-to-opencollective.md)
+  * [Contribution Guide](developers/dev-contribution-guide.md)
   * [Bounties](developers/bounties.md)
   * [API](developers/api/README.md)
     * [Members](developers/api/members.md)
