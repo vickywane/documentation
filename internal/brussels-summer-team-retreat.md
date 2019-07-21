@@ -277,6 +277,7 @@ As @cuiki pointed out in the Team Retreat in NYC in September 2018, the current 
 Pia also pointed out that she doesn't like the current homepage and would love to see a new version.
 
 Right now our homepage is too much about the "vision" and "philosophy". It should be more explicit in terms of product. What is it? What features does it offer? What does it enable me to do?
+Or as octoben put it: "Today's homepage is not user focus, it's theory focus".
 
 As the Open Source Collective gets more and more independent, it's a good opportunity to refocus the homepage on being the platform for collectives in any vertical.
 
