@@ -13,6 +13,8 @@ You'll need to have some basic programming experience with the technologies and 
   * [Introduction to GitHub](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
   * [Popular git commands and how to use them](https://rogerdudler.github.io/git-guide/)
   * [Git commands in depth](https://medium.com/@george.seif94/a-full-tutorial-on-how-to-use-github-88466bac7d42)
+  * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+  * [Markdown Tutorial](https://www.markdowntutorial.com/)
 
 #### Languages & Frameworks
 
