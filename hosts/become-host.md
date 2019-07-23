@@ -51,7 +51,7 @@ To be Fiscal Host, you need:
 * A legal entity
 * A bank account
 * A Stripe account
-* A Paypal account
+* A PayPal account
 * Someone to serve as admin
 
 Individuals can be Fiscal Hosts using personal bank accounts, but you will be personally responsible for any tax and legal implications. 
