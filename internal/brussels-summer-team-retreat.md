@@ -102,173 +102,169 @@ Pia:
 * Grants should be on OC, but we can't take fees on it
 * Will work on a new proposal
 
-## Ben Nickolls \(Octoben\) Notes on OSS Sustainability  
+## Ben Nickolls \(Octoben\) Notes on OSS Sustainability
 
-OC as an indicator of people who want to use a project and how many people want to pay a subscription 
+OC as an indicator of people who want to use a project and how many people want to pay a subscription
 
-OC as a way to provide a service / as a pricing gateway 
+OC as a way to provide a service / as a pricing gateway
 
-**Distribute money to their dependencies** 
+**Distribute money to their dependencies**
 
 if we can’t add value ourselves how we can enable others to add value?
 
-As you go down the stack you give less. 
+As you go down the stack you give less.
 
-BYS first level dependencies 
+BYS first level dependencies
 
-Options to tweak the algorithm 
+Options to tweak the algorithm
 
-Pledge to collectives 
+Pledge to collectives
 
-Support the whole ecosystem - pitch to create groups of projects that can offer standardized benefits. 
+Support the whole ecosystem - pitch to create groups of projects that can offer standardized benefits.
 
-What can projects do together: roadmap / standard documentation / where can you find documentation in this community / create efficiency within a group of projects. 
+What can projects do together: roadmap / standard documentation / where can you find documentation in this community / create efficiency within a group of projects.
 
-discoverability 
+discoverability
 
-Share that opportunity with other. 
+Share that opportunity with other.
 
-Give projects the option to sign up when you create a collective 
+Give projects the option to sign up when you create a collective
 
 Free for open source projects
 
-Charge companies 
+Charge companies
 
-Dependencies will root for you 
+Dependencies will root for you
 
-email to your dependencies saying, XX joined the program every time octobox receive a donation through the program / tweet this. 
+email to your dependencies saying, XX joined the program every time octobox receive a donation through the program / tweet this.
 
 Make it more obvious on the collective page that you have the option to sell a service = Tier TYPE
 
-customize the algorithm using check boxes 
+customize the algorithm using check boxes
 
 Group Dynamics
 
-We support our community through this bundle. 
+We support our community through this bundle.
 
 ## Modus Create Day Notes.
 
 What is a sustainable model to balance out the commercial and open source community?
 
-**Digital Transformation** 
+**Digital Transformation**
 
-The new social contract for employment is not guarantees employment, is skills accretion, your public personal brand as a developer matter, companies that give you access to brand, company as a platform not a company, while you work here you gain skills and market value. Access to talent for digitally enabled mission. Value as applications not as content. From employment to skills accretion 
+The new social contract for employment is not guarantees employment, is skills accretion, your public personal brand as a developer matter, companies that give you access to brand, company as a platform not a company, while you work here you gain skills and market value. Access to talent for digitally enabled mission. Value as applications not as content. From employment to skills accretion
 
-Objectively vetted developers: knowledge, methodology, language, 
+Objectively vetted developers: knowledge, methodology, language,
 
-OSS —&gt; create professional  services / support / certificate / 
+OSS —&gt; create professional services / support / certificate /
 
-**Jay: Risk for a lot of business outlive the value** 
+**Jay: Risk for a lot of business outlive the value**
 
-Risk in vue it not being oriented as a business 
+Risk in vue it not being oriented as a business
 
-Confidence that OSS are set up to growth and scale 
+Confidence that OSS are set up to growth and scale
 
-Businesses want free or low cost, accelerates and moves fast enough to support customers. 
+Businesses want free or low cost, accelerates and moves fast enough to support customers.
 
-- can I engage with a legal entity? 
+* can I engage with a legal entity?
+* can I enter into a contract for training / support / insurance SLAs?
+* communities are set up for success and sustainability
 
-- can I enter into a contract for training / support / insurance SLAs?
+making sure the technical founders have a place to learn / framework to run open source as a business/ training / support contracts / organizing towards growth and sustainability
 
-- communities are set up for success and sustainability 
+learn how to make your oss sustainable
 
-making sure the technical founders have a place to learn / framework to run open source as a business/ training / support contracts / organizing towards growth and sustainability 
-
-learn how to make your oss sustainable 
-
-making it easier for community to attract different kinds of talent 
+making it easier for community to attract different kinds of talent
 
 **Value OC can produce:**
 
-**Awareness:** - visibility on who’s who in the community / executives look into OSS / awareness to the new philosophy / MC as a company is what it is… 
+**Awareness:** - visibility on who’s who in the community / executives look into OSS / awareness to the new philosophy / MC as a company is what it is…
 
-**Qualifying**: -  
+**Qualifying**: -
 
-Work itself: OC can help manage the scale / growth of a OSS collective / Incubator - run the community as a service. labour turnover is 10 times what it was 
+Work itself: OC can help manage the scale / growth of a OSS collective / Incubator - run the community as a service. labour turnover is 10 times what it was
 
-Advisory board to help OSS manage scale - Incubator 
+Advisory board to help OSS manage scale - Incubator
 
-Recruiting: you need to be seen as an active member of the community 
+Recruiting: you need to be seen as an active member of the community
 
-Companies will be more interested in connecting with OC if they see it as a pipeline for their recruiting - top level software architectural decisions are being made based on who’s applying. 
+Companies will be more interested in connecting with OC if they see it as a pipeline for their recruiting - top level software architectural decisions are being made based on who’s applying.
 
-Look at recruiting budget for add placement 
+Look at recruiting budget for add placement
 
-Access to labour in different regions through the open collective vetted developers program, access to a team 
+Access to labour in different regions through the open collective vetted developers program, access to a team
 
-**If there’s no entity there’s no business** 
+**If there’s no entity there’s no business**
 
 How can we enable communities expand so they have the skills and resources to solve these problems by themselves?
 
-OC can articulate a network / partner ecosystem where we are vetting companies. 
+OC can articulate a network / partner ecosystem where we are vetting companies.
 
-business acumen as a service vs enable communities so they can be put in the position to help themselves. 
+business acumen as a service vs enable communities so they can be put in the position to help themselves.
 
-how to articulate these two approaches donation vs commercial 
+how to articulate these two approaches donation vs commercial
 
-platform for matchmaking 
+platform for matchmaking
 
-giving the companies real state on the collective’s page where they can offer their services. 
+giving the companies real state on the collective’s page where they can offer their services.
 
-your brand in the market is the collective brand of the team’s contribution to open source 
+your brand in the market is the collective brand of the team’s contribution to open source
 
-**Tactical:** 
+**Tactical:**
 
-6/12M horizon: 
+6/12M horizon:
 
-hiring directors / director of engineering 
+hiring directors / director of engineering
 
-centers of excellence matched to collectives 
+centers of excellence matched to collectives
 
 strategic hiring + community of freelancers
 
-Co-branding / Awareness about MC and their services. 
+Co-branding / Awareness about MC and their services.
 
-International conferences / marketing or co-marketing 
+International conferences / marketing or co-marketing
 
 Gift Cards \(MC\)
 
-How much can push to OC - if you guys are creating a platform - to see developers profiles / certifications / GitHub handles / docs for the community / broker some funding through the collective to create a definitive / official training guide for the release we can train. If you create that training we can sell that training to our partners we some rev share. Vetting MC as a partner. MC does the consulting, the collectives do the content, and there’s a rev share. Assets & IP / Content. 
+How much can push to OC - if you guys are creating a platform - to see developers profiles / certifications / GitHub handles / docs for the community / broker some funding through the collective to create a definitive / official training guide for the release we can train. If you create that training we can sell that training to our partners we some rev share. Vetting MC as a partner. MC does the consulting, the collectives do the content, and there’s a rev share. Assets & IP / Content.
 
-Yearly planning matching - frictionless communication. / Do we chat once a month? 
+Yearly planning matching - frictionless communication. / Do we chat once a month?
 
-Professional Services Partner for your collective 
+Professional Services Partner for your collective
 
-Referrals / a marketplace / quality providers 
+Referrals / a marketplace / quality providers
 
-regional events - as a function of recruiting and thought leadership - run by OC  that MC could support / leverage. 
+regional events - as a function of recruiting and thought leadership - run by OC that MC could support / leverage.
 
-**BYS** 
+**BYS**
 
-In companies it’s about recruiting. 
+In companies it’s about recruiting.
 
-Feature acceleration 
+Feature acceleration
 
 The main question for this companies is more, can it perform for us?
 
-we ran a program where we get pipeline development 
+we ran a program where we get pipeline development
 
-Directors get educated in your bounty program 
+Directors get educated in your bounty program
 
-**Bounty**: 
+**Bounty**:
 
-We surface on the profile that someone has succesfully merged a bounty - if there is a review. 
+We surface on the profile that someone has succesfully merged a bounty - if there is a review.
 
-So cos can go in and say, this person had a bounty merged on OC I can hire them to do something maybe OC is not doing but we want to see. 
+So cos can go in and say, this person had a bounty merged on OC I can hire them to do something maybe OC is not doing but we want to see.
 
-Also is a data point in the building a profile that cos can look at / certification 
+Also is a data point in the building a profile that cos can look at / certification
 
-**Building a profile on OC \(MC would pay for access to this\)** 
+**Building a profile on OC \(MC would pay for access to this\)**
 
-- non code contributions 
+* non code contributions
+* bounty program in OC
+* workshop/content
 
-- bounty program in OC 
+Marketplace for vetting / certifying
 
-- workshop/content 
-
-Marketplace for vetting / certifying 
-
-Experiential education 
+Experiential education
 
 ## Homepage
 
@@ -276,180 +272,210 @@ As @cuiki pointed out in the Team Retreat in NYC in September 2018, the current 
 
 Pia also pointed out that she doesn't like the current homepage and would love to see a new version.
 
-Right now our homepage is too much about the "vision" and "philosophy". It should be more explicit in terms of product. What is it? What features does it offer? What does it enable me to do?
-Or as octoben put it: "Today's homepage is not user focus, it's theory focus".
+Right now our homepage is too much about the "vision" and "philosophy". It should be more explicit in terms of product. What is it? What features does it offer? What does it enable me to do? Or as octoben put it: "Today's homepage is not user focus, it's theory focus".
 
 As the Open Source Collective gets more and more independent, it's a good opportunity to refocus the homepage on being the platform for collectives in any vertical.
 
 There are multiple actors that we could address:
-- The core contributors (people who lead the community)
-- The backers (individuals/organizations)
-- The hosts
 
-We want to address first the core contributors since they are the ones who take the decision to create an open collective. We also want to hide the complexity of "hosts". Anyone should be able to create an open collective and host it themselves.
-Then the backers who want to sustain communities
-And finally the hosts, which represent a bit "Open Collective Pro".
+* The core contributors \(people who lead the community\)
+* The backers \(individuals/organizations\)
+* The hosts
+
+We want to address first the core contributors since they are the ones who take the decision to create an open collective. We also want to hide the complexity of "hosts". Anyone should be able to create an open collective and host it themselves. Then the backers who want to sustain communities And finally the hosts, which represent a bit "Open Collective Pro".
 
 Some catch phrases we came up with:
-- Make your community (financially) sustainable
-- Sustain a community
-- Make the world sustainable, one collective at a time
+
+* Make your community \(financially\) sustainable
+* Sustain a community
+* Make the world sustainable, one collective at a time
 
 ## Team dynamics: How to work better together?
 
-Session facilitated by Alanna.
-Those are the notes taken by Xavier.
+Session facilitated by Alanna. Those are the notes taken by Xavier.
 
 ### What are your highlights?
 
-Alanna:
-Highlights:
-- Fits my lifestyle having a child
-- Really aligned with my values
-- I'm a geek about this stuff
-- Very fulfilling for me
-- So relaxing to work on someone else's startup, less stressful
-- love interviewing collectives for the blog
-- Great to hear stories and how OC helps
+Alanna: Highlights:
+
+* Fits my lifestyle having a child
+* Really aligned with my values
+* I'm a geek about this stuff
+* Very fulfilling for me
+* So relaxing to work on someone else's startup, less stressful
+* love interviewing collectives for the blog
+* Great to hear stories and how OC helps
 
 Lowlights:
-- communication still needs work, need to chase on Slack
+
+* communication still needs work, need to chase on Slack
 
 Pia:
-- Sometimes I feel it's too much but really excited about what we do
-- rollercoaster, it goes in waves, part of the job
-Lowlight:
-- boring work, not moving fast enough
+
+* Sometimes I feel it's too much but really excited about what we do
+* rollercoaster, it goes in waves, part of the job
+
+  Lowlight:
+
+* boring work, not moving fast enough
 
 Ben:
-- Love that OC genuinely wants to help Open Source Community. Many other players are just in this for the business opportunity, less genuine.
+
+* Love that OC genuinely wants to help Open Source Community. Many other players are just in this for the business opportunity, less genuine.
 
 Raul:
-- Tough couple of last years, working for big companies without passion
-- Great to find a team passionate about design and the mission
-- So radical and futuristic, challenging
-- I'm a process person
+
+* Tough couple of last years, working for big companies without passion
+* Great to find a team passionate about design and the mission
+* So radical and futuristic, challenging
+* I'm a process person
 
 Francois:
-- Also great to work on someone else's startup after being on the other side. This is about the upside without the downside. I still have the feeling of "running it"
-- Struggle: where should I step in or stay out? I don't want to be involved in product/strategy
-- Managing + coding; need to find the balance
-- Love when we ship something that is improving the product
-- Don't like when we have old half baked feature, creates confusion.
+
+* Also great to work on someone else's startup after being on the other side. This is about the upside without the downside. I still have the feeling of "running it"
+* Struggle: where should I step in or stay out? I don't want to be involved in product/strategy
+* Managing + coding; need to find the balance
+* Love when we ship something that is improving the product
+* Don't like when we have old half baked feature, creates confusion.
 
 Ben:
-- Love the mix that OC brings to my life
-- Aligned with my values
-- Great to help OSS and citizen initiatives
-- Love that we are ourselves OSS
-- Love that I can be flexible with my work
-- Lot of work but happy to work on OC
-- I like to see improvements on frontend but also more hidden things
-- Didn't like how we executed on webhooks, we need to improve our process
+
+* Love the mix that OC brings to my life
+* Aligned with my values
+* Great to help OSS and citizen initiatives
+* Love that we are ourselves OSS
+* Love that I can be flexible with my work
+* Lot of work but happy to work on OC
+* I like to see improvements on frontend but also more hidden things
+* Didn't like how we executed on webhooks, we need to improve our process
 
 Piet:
-- Finally stopped feeling being onboarded 
-Lowlights:
-- time difference
-- I have to work it out, cannot have someone to unblock me. Demoralizing, feel pretty burned out.
-Highlights:
-- Seeing the end of the feature that I'm working on 
-- So valuable to share screen
+
+* Finally stopped feeling being onboarded 
+
+  Lowlights:
+
+* time difference
+* I have to work it out, cannot have someone to unblock me. Demoralizing, feel pretty burned out.
+
+  Highlights:
+
+* Seeing the end of the feature that I'm working on 
+* So valuable to share screen
 
 Xavier:
-- Seeing more citizen intiatives using OC 
-- Feels good to be able to help them in their mission to make a change in their community
+
+* Seeing more citizen intiatives using OC 
+* Feels good to be able to help them in their mission to make a change in their community
 
 ### What about team dynamics, meetings, processes?
 
 Xavier:
-- Love reviewing design / UX
-- Love that we start building a community of external contributors
-- Love that we are uber transaprent, very little difference if a t all between being part of the team or an external contributor; we know no border.
+
+* Love reviewing design / UX
+* Love that we start building a community of external contributors
+* Love that we are uber transaprent, very little difference if a t all between being part of the team or an external contributor; we know no border.
 
 Piet:
-- I like the Europe / NZ meeting facilitated by Alanna
-- I like using github issues 
+
+* I like the Europe / NZ meeting facilitated by Alanna
+* I like using github issues 
 
 Ben:
-- I love how we use reeveryone's input to prioritize, even if ultimately Pia & Xavier take the decision
+
+* I love how we use reeveryone's input to prioritize, even if ultimately Pia & Xavier take the decision
 
 Francois:
-- I like that we are lightweight, we can move fast
-- We are not afraid to try new things. "The Open Collective Way"
+
+* I like that we are lightweight, we can move fast
+* We are not afraid to try new things. "The Open Collective Way"
 
 Raul:
-- Passion of the team / community
-- Team is open to ideas, doesn't matter where they come from.
-- Lot of communication, decentralized. 
-- I love the opportunity to experiment
 
-Octoben: 
-- Great to have github issues with all the info so that external people can engage
-- Could also be used for more strategic conversations such as the roadmap
-- Could use Github Project for that
-- Open Calls (weekly) / office hours
+* Passion of the team / community
+* Team is open to ideas, doesn't matter where they come from.
+* Lot of communication, decentralized. 
+* I love the opportunity to experiment
+
+Octoben:
+
+* Great to have github issues with all the info so that external people can engage
+* Could also be used for more strategic conversations such as the roadmap
+* Could use Github Project for that
+* Open Calls \(weekly\) / office hours
 
 Pia:
-- We are getting unblocked faster
-- We are all very accessible/ available but in a balanced/respectuf way
-- Autonomy
-- Really like Friday's demo, need to advertise it better
+
+* We are getting unblocked faster
+* We are all very accessible/ available but in a balanced/respectuf way
+* Autonomy
+* Really like Friday's demo, need to advertise it better
 
 Alla:
-- Honnest communication, ok to hear bad feedback
-- Lot of autonomy
-- We trust each other's capabilities
-- Slack works
-- Documentation improved
+
+* Honnest communication, ok to hear bad feedback
+* Lot of autonomy
+* We trust each other's capabilities
+* Slack works
+* Documentation improved
 
 ### Dislikes about team dynamics
 
 Xavier:
-- Wasted time on design where I feel I could have point out issues earlier
-- Figma doesn't work for feedback
-- We need to define ahead of time the decision maker (locomotive) ahead of time
+
+* Wasted time on design where I feel I could have point out issues earlier
+* Figma doesn't work for feedback
+* We need to define ahead of time the decision maker \(locomotive\) ahead of time
 
 Francois:
-- Process is too lightweight
-- We need to dig deeper
-- Sometimes we need to close topics, take hard decisions
-- More productive to take decisions, settle things and move on even if not everybody is happy with it
+
+* Process is too lightweight
+* We need to dig deeper
+* Sometimes we need to close topics, take hard decisions
+* More productive to take decisions, settle things and move on even if not everybody is happy with it
 
 Raul:
-- We have different point of view. Doesn't mean there is right or wrong, it's ok
+
+* We have different point of view. Doesn't mean there is right or wrong, it's ok
 
 Octoben:
-- Clear focus is important
-- Eveyrone has equal opportunities to comment / provide feedback (need to define time for conversation, time for decision, time for focus work)
+
+* Clear focus is important
+* Eveyrone has equal opportunities to comment / provide feedback \(need to define time for conversation, time for decision, time for focus work\)
 
 Pia:
-- We need a conversation closure mechanism, we have a hard time letting go and let someone take the decision
+
+* We need a conversation closure mechanism, we have a hard time letting go and let someone take the decision
 
 Alanna:
-- Priorities not clear, I feel left out of the loop on priorities conversations
-- Somethings things get lost on slack
-- We are not always dog fooding our own platform
 
-Piet: 
-- Improve onboardig with screensharing to show me the code
-- I'm not always sure about the process (do I need to request review on my PR?)
-- Would be good to have regular calls
+* Priorities not clear, I feel left out of the loop on priorities conversations
+* Somethings things get lost on slack
+* We are not always dog fooding our own platform
+
+Piet:
+
+* Improve onboardig with screensharing to show me the code
+* I'm not always sure about the process \(do I need to request review on my PR?\)
+* Would be good to have regular calls
 
 Ben:
-- We need to take complexity into account when prioritizing
-- We can improve feedback between development and design
-- Some feedback only comes once we start coding
+
+* We need to take complexity into account when prioritizing
+* We can improve feedback between development and design
+* Some feedback only comes once we start coding
 
 ### Ideas
-*How do we do more of the good things, less of the bad things?*
 
-- more open calls
-- clarify decision maker / locomotive / quality review process
-- onboarding remote contributors
-- advise process: get feedback from expert and people who are the most impacted
-- we need more project retrospective: what did we learn? It's ok to have failed, it frees you to take the lead safely without fear
-- Could use Twich to help onboarding
-- open data page with links to drive, videos, ...
-- We need a new "team page" and share our values, the "open collective way" (that should use our own "contributors" sections of a collective page to eat our own dogfood)
-- we need to tell the story of the diversity in our community of contributors
+_How do we do more of the good things, less of the bad things?_
+
+* more open calls
+* clarify decision maker / locomotive / quality review process
+* onboarding remote contributors
+* advise process: get feedback from expert and people who are the most impacted
+* we need more project retrospective: what did we learn? It's ok to have failed, it frees you to take the lead safely without fear
+* Could use Twich to help onboarding
+* open data page with links to drive, videos, ...
+* We need a new "team page" and share our values, the "open collective way" \(that should use our own "contributors" sections of a collective page to eat our own dogfood\)
+* we need to tell the story of the diversity in our community of contributors
+

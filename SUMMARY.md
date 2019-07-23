@@ -70,6 +70,7 @@
   * [Open Source Collective](hosts/open-source-collective.md)
 * [Developers](developers/README.md)
   * [Contribution Guide](developers/dev-contribution-guide.md)
+  * [Best practices and code guidelines](developers/best-practices-and-code-guidelines.md)
   * [Bounties](developers/bounties.md)
   * [API](developers/api/README.md)
     * [Members](developers/api/members.md)

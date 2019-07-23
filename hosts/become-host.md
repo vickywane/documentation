@@ -54,7 +54,7 @@ To be Fiscal Host, you need:
 * A PayPal account
 * Someone to serve as admin
 
-Individuals can be Fiscal Hosts using personal bank accounts, but you will be personally responsible for any tax and legal implications. 
+Individuals can be Fiscal Hosts using personal bank accounts, but you will be personally responsible for any tax and legal implications.
 
 ### [Ready to create a Fiscal Host?](create-a-fiscal-host.md)
 
