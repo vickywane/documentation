@@ -13,3 +13,7 @@ description: Describes what we expect from new code written for our product
 * Icons must be imported from the [styled-icons](http://styled-icons.js.org/) library.
 * Tests written with Cypress must follow our [good practices](https://docs.opencollective.com/help/developers/testing-with-cypress) conventions.
 
+## Special tips
+
+* If the issue you're working on require changes in both API and Frontend, give your Git branches the same name. CI will automatically pull the correct API's branch when testing the frontend.
+
