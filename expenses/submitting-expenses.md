@@ -11,7 +11,7 @@ You can submit two kinds of expenses:
 * A **receipt** to be reimbursed for something you already paid for.
 * An **invoice** for your time or work, or if you don't have a receipt.
 
-[Here is an invoice template](https://docs.google.com/document/d/1ROQA11PaYjGtcie-1Ut8cFV5LCISKipSu8sgsY5U7vw/edit?usp=sharing) you can use. Fill out the blue parts, and change the invoicee to the correct Fiscal Host if needed \(the Fiscal Host is shown under the Collective name on their page, and this info should be in the expense policies\).
+[Here is an invoice template](https://docs.google.com/document/d/1IPxQ7uYsbmZM_HOZZiN0z09xxOcPPQn_sSwXZRV3MPM/copy) you can use. Fill out the blue parts, and change the payer to the correct Fiscal Host if needed \(the Fiscal Host is shown under the Collective name on their page, and this info should be in their expense policies, which appear on the 'submit expense' screen for the Collective\).
 
 In order to be paid, submitted expenses must be approved by the Collective's core contributors \(admins\), who ensure valid use of the Collective's funds. 
 
