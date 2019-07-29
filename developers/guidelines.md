@@ -2,7 +2,7 @@
 description: Describes what we expect from new code written for our product
 ---
 
-# Best practices and code guidelines
+# Best Practice Guidelines
 
 
 
