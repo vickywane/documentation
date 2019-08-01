@@ -96,23 +96,6 @@ For VSCode users, you can use the following snippet to make your life easier:
 
 #### Add the language on Crowdin
 
-* Go to [https://crowdin.com/project/opencollective/settings\#integration](https://crowdin.com/project/opencollective/settings#integration)
-* Double click on `master`
-
-![](../.gitbook/assets/image%20%287%29.png)
-
-* Click on the html files ignore pattern
-
-![](../.gitbook/assets/image%20%284%29.png)
-
-* Add an entry like `*.${locale}.html` and click `Save`
-
-![](../.gitbook/assets/image.png)
-
-* Click `Save` on the main modal
-
-![](../.gitbook/assets/image%20%285%29.png)
-
 * Go to [https://crowdin.com/project/opencollective/settings\#translations](https://crowdin.com/project/opencollective/settings#translations), click on `Target languages` pick the language and click `Update` 
 
 ![](../.gitbook/assets/image%20%283%29.png)
