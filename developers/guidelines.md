@@ -1,5 +1,7 @@
 ---
-description: Describes what we expect from new code written for our product
+description: >-
+  Describes what we expect from new code. Also includes special tips to help you
+  getting started!
 ---
 
 # Best Practice Guidelines
@@ -8,6 +10,7 @@ description: Describes what we expect from new code written for our product
 
 * When adding new dependencies, we use [fixed versions](https://docs.npmjs.com/about-semantic-versioning).
 * Don't commit `package-lock.json` if you're not making any changes to the libraries.
+* If the issue you're working on require changes in both API and Frontend, give your Git branches the same name. CI will automatically pull the correct API's branch when testing the Frontend.
 
 ### Frontend rules
 
@@ -17,7 +20,5 @@ description: Describes what we expect from new code written for our product
 * Icons must be imported from the [styled-icons](http://styled-icons.js.org/) library.
 * Tests written with Cypress must follow our [good practices](https://docs.opencollective.com/help/developers/testing-with-cypress) conventions.
 
-## Special tips
 
-* If the issue you're working on require changes in both API and Frontend, give your Git branches the same name. CI will automatically pull the correct API's branch when testing the frontend.
 
