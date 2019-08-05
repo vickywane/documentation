@@ -19,9 +19,10 @@
 1. Go to the dashboard of the host you want to process payments for.
 2. Refill the Paypal pre-approval limit by clicking the button on the dashboard, logging into the correct Paypal for that host, and clicking “approve”. 
 3. Return to the host dashboard.
-4. Find an expense that has a green 'pay with paypal' button and is for less than $2,000. You can go one Collective at a time via the dropdown menu, or filter all by "approved".
-5. Open the attached receipt or invoice and ensure it's [valid](../expenses/submitting-expenses.md#documentation-requirements).
-6. Click the 'pay with paypal' button and pay the expense.
+4. Select the "ready to pay" filter.
+5. Find an expense that has a green 'pay with paypal' button and is for less than $2,000. You can go one Collective at a time via the dropdown menu, or filter all by "approved".
+6. Open the attached receipt or invoice and ensure it's [valid](../expenses/submitting-expenses.md#documentation-requirements).
+7. Click the 'pay with paypal' button and pay the expense.
 
 #### For expenses over $2,000
 
@@ -32,40 +33,34 @@ Paypal only allows pre-approval of $2,000 the pay via the API, so larger expense
 3. Open Paypal in another tab and go to 'send or receive money' and choose 'friends or family'.
 4. Put in the user's email address and the amount.
 5. Set the currency to USD for sending and receiving.
-6. Past the URL of the expense as the note.
+6. Paste the URL of the expense as the note.
 7. Complete the payment in Paypal.
 8. Return to the expense page and click 'edit'.
 9. Change the payment method to "other".
 10. Save the expense and re-approve it.
-11. Put the Paypal fee in the box if any.
+11. Put the Paypal fee in the box, if any.
 12. Click 'record as paid'.
+
+**For people who can't use Paypal or who have request bank transfers:**  
+Pay the expense via Transferwise or ACH and follow steps 8-12 above.
 
 ### Problems & Responses
 
-1. Insufficient balance \(system will not allow payment\)
-2. No valid receipt/invoice \(check attached file meets [requirements](../expenses/submitting-expenses.md#documentation-requirements)\)
-3. Not enough funds to cover fees \(system will error and estimate fee amount\)
-4. Not approved by core contributor \(no green ‘pay’ button\)   
-
-If there is an issue with an expense, comment on it to notify the submitter.
-
-**Note:** if you ask the user to do anything that requires them to edit the expense, you have to un-approve it first \(otherwise it's not editable by them\). To do this, edit the expense and make an insignificant change \(like adding a training space in the description\), then save it but don't click 'approve'.
+If there is an issue with an expense, comment on it to notify the submitter. If you ask the user to do anything that requires them to edit the expense, you have to un-approve it first. To do this, edit the expense and make an insignificant change \(like adding a space in the description\), then save it. Don't click 'approve'. After they have made the change, you will need to approve the expense before paying it.
 
 #### Invoice or receipt missing or invalid
 
-In order to reimburse the expense you submitted, it must have a valid invoice or receipt. If you need help, please see [our info about submitting expenses](../expenses/submitting-expenses.md). There's an invoice template available. Click 'Edit' on this expense to upload a new file.
+In order to reimburse the expense you submitted, it must have a valid invoice or receipt. Click 'Edit' on this expense to upload a new file. If you need help, see: [info about submitting expenses](https://docs.opencollective.com/help/expenses/submitting-expenses). 
 
 #### Paypal address not provided
 
-For the moment, we are only able to pay via Paypal. Please click 'edit' on your expense, select 'Paypal' from the dropdown menu, and input your Paypal email address. Thanks!
+For the moment, we are only able to pay via Paypal. Please click 'edit' on your expense, select 'Paypal' from the dropdown menu, and input your Paypal email address. 
 
-_**Note:** if you switch the payment method to Paypal yourself, it will pull in the user's email address. However, we can't assume that's the correct Paypal address as it might be different._
+_**Note:** if you switch the payment method to Paypal yourself, it will pull in the user's email address. However, we can't always assume that's the correct Paypal address._
 
 #### Fees not covered
 
-Since your expense equals all the funds in the Collective, the system won’t put it through due to insufficient funds to cover the Paypal fees \($3\). Please click ‘edit’ and revise the amount to $3 less. Thank you!
-
-**Note:** If you try to pay the expense, the system will tell you the estimated fee amount. You can also just reduce the amount of the expense yourself and just put it through, but inform the user with a comment so they aren't surprised by the reduced total.
+If you try to pay an expense totalling 100% of the Collective balance, you may get an error saying there is insufficient funds to cover fees. If the amount is small, edit the total down slightly to help it go through. If it's larger API fees will be high, so pay the expense manually and reduce the amount to cover fees.
 
 ### Special Cases
 
@@ -121,9 +116,5 @@ Process:
 4. Select host's Collective
 5. Click Add Funds
 6. 0% host fee
-7. Source is that host
-
-
-
-##   
+7. Source is that host  
 

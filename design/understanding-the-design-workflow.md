@@ -1,3 +1,7 @@
+---
+description: General knowledge intended to understand the workflow of OpenCollective Design
+---
+
 # Design Workflow
 
 ## Mapping our process

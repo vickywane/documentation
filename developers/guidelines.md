@@ -12,6 +12,7 @@ description: Describes what we expect from new code written for our product
 * When adding new dependencies, we use [fixed versions](https://docs.npmjs.com/about-semantic-versioning).
 * Icons must be imported from the [styled-icons](http://styled-icons.js.org/) library.
 * Tests written with Cypress must follow our [good practices](https://docs.opencollective.com/help/developers/testing-with-cypress) conventions.
+* Don't commit `package-lock.json` if you're not making any changes to the libraries.
 
 ## Special tips
 
