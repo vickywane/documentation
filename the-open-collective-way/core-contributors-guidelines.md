@@ -1,12 +1,10 @@
 # Core Contributors Guidelines
 
-## Core contributors Guidelines:
+**Work in the open**. It saves a lot of time. There should be little to no distinction between an internal and external contributor.
+
+**Seek advice** but make your call. Make sure you ping anyone internally or externally that could add valuable feedback to what you are working on.
 
 **Be mindful of everyone else’s time:** don’t block others. Think about how someone can take over from you, don’t become a bottleneck.
-
-**Seek advice** but make your call.
-
-**Work in the open**. It saves a lot of time.
 
 **Apply rough consensus**. You don’t need everyone to sign off on something.
 
@@ -14,7 +12,7 @@
 
 **Deliver.** Schedules are flexible but…
 
-...**Show up for** \(online\) meetups, let the team know if you can’t make it.Trust by default, don’t break the trust. Don’t lie.
+...**Show up for** \(online\) meetups, let the team know if you can’t make it. Trust by default, don’t break the trust. Don’t lie.
 
 **Support and encourage contributions.** When someone contributes, it means they care.
 
