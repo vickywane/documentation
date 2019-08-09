@@ -18,12 +18,11 @@
 
 **Take care of yourself**, it’s a marathon - not a sprint. Take care of each other. We are all doing our best.
 
-Expect **review requests** to be replied  in 24h hours \(excluding weekends\), after this period you can merge.
+Expect **review requests** to be replied in 24h hours \(excluding weekends\), after this period you can merge.
 
 Ensure you have **proper RFCs** for important changes
 
-**You’re responsible** for deploying what you develop 
+**You’re responsible** for deploying what you develop
 
-**It’s everyone’s responsibility to make sure we are all as autonomous as possible**.  
-
+**It’s everyone’s responsibility to make sure we are all as autonomous as possible**.
 
