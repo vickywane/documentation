@@ -8,7 +8,7 @@
   * [Team](about/team.md)
   * [Investors](about/investors.md)
   * [Contributing](about/contributing.md)
-  * [Terminology](about/glossary.md)
+  * [Terminology](about/terminology.md)
 * [The Open Collective Way](the-open-collective-way/README.md)
   * [Values](the-open-collective-way/values.md)
   * [Community Guidelines](the-open-collective-way/community-guidelines.md)
