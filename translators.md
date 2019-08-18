@@ -16,7 +16,7 @@ We use Crowdin to manage all our translations. You can join and contribute on: [
 
 Words between brackets are variables that meant to be replaced by dynamic values.
 
-For exemple the string:
+For example the string:
 
 ```text
 Hello {collectiveName}!
