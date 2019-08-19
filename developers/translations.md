@@ -68,6 +68,38 @@ The order of the words may change from a language to another. For this reason we
 </div>
 ```
 
+### Translate links inline
+
+In some parts of the code we translate links like this:
+
+```jsx
+// Please don't do that!
+<FormattedMessage
+  id="ReadTheDocs"
+  defaultMessage="Please check our {documentationLink} to learn more!"
+  values={{
+    documentationLink: (
+      <a href="https://docs.opencollective.com">
+        <FormattedMessage id="documentation" defaultMessage="documentation" />
+      </a>
+    ),
+  }}
+/>
+```
+
+This is bad because we're creating two strings and translators loose the context when they translate one. You should do this instead:
+
+```jsx
+<FormattedMessage
+  id="ReadTheDocs"
+  defaultMessage="Please check our <link>documentation</link> to learn more!"
+  values={{
+    // eslint-disable-next-line react/display-name
+    link: msg => <a href="https://docs.opencollective.com">{msg}</a>,
+  }}
+/>
+```
+
 ## FormattedMessage
 
 The `FormattedMessage` component is the main way to translate strings. To use it, you just need to add the following import:
