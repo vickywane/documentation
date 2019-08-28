@@ -1,12 +1,12 @@
 # About
 
-While the Internet has been very good so far at helping people do things together, it is still very difficult for groups to collect money and use it transparently. As a result, we see initiatives, projects, movements popping up here and there that disappear quickly from lack of funding. Imagine how many wonderful things don’t happen in the world because funding - which is oxygen for most organizations - is difficult to sustain. Without an easy way to raise and spend money, it’s hard to manage and grow many of these seeds of an idea that could change the world.
+While the Internet is a great tool for helping people collaborate, it is still extremely difficult for groups to collect funds and use them transparently. As a result, we see initiatives, projects, and movements popping up here and there only to disappear quickly due to lack of funds. Imagine how many wonderful things didn't happen because funding - which is arguably the oxygen for most organizations - is difficult to sustain. Without an easy way to raise and manage finances, most of the ideas that can change the world are rarely able to break open from seed, let alone grow into a full-fledged tree.
 
-Meetups, open source projects, parent associations, neighborhood associations, pet projects, clubs, unions, movements, non-profits, business incubators - in order to operate, all of them are forced to use a physical glass jar, ask a sponsor to directly pay their expenses or front the huge overhead of setting up and managing a corporation or a non-profit. It’s either inefficient and opaque or it’s overkill.
+To be able to operate, meetups, open-source projects, parent associations, neighborhood associations, pet projects, clubs, unions, movements, non-profits, business incubators - all are either forced to use a physical glass jar, asking a sponsor to directly pay for their expenses, or front the huge overhead of setting up and managing a corporation or a non-profit. Even if they manage to achieve it in a way that in neither inefficient nor opaque, it is overkill.
 
-Open Collective enables groups to quickly set up a collective, raise funds and manage them transparently.
+This is the problem which Open Collective solves. We enable groups to quickly set up a collective, raise funds and manage them transparently.
 
-We want all those seeds to have a chance to grow, to bring their ideas to life. We believe everyone should have the tools to create the organizations of tomorrow. And we are dedicating ourselves to making that happen!
+We want all those seeds to have a chance to grow and give the ideas a fighting chance to reach their true potential. We believe everyone should have the tools to create the organizations of tomorrow. And we are dedicating ourselves to make that happen!
 
 Contact us: info@opencollective.com
 
