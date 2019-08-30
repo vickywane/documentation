@@ -2,22 +2,25 @@
 
 ## Info For Expense Submitters Getting Paid
 
-If you are filling invoices for more than $600 USD \(or equivalent\) per year to a Collective with a [Fiscal Host](../hosts/) in the US \(such as the Open Source Collective\), you will need to send them one of these forms:
+### For US-based Fiscal Hosts
 
-* US nationals/residents fill out [this form](https://www.irs.gov/pub/irs-pdf/fw9.pdf) - W9
-* Non-US nationals/residents use [this form](https://www.irs.gov/pub/irs-pdf/fw8ben.pdf) - W8-BEN
+If you are filling invoices for more than $600 USD per year to a Collective with a [Fiscal Host](../hosts/) in the US \(receipt reimbursements don't count toward the $600 limit, only invoices\), you will need to send them a from W9 \(for US persons\) or W8-BEN/E \(for non-US persons\). The fiscal host admin should contact you if you are required to submit a form.
 
-Reimbursed expenses don't count toward the $600 limit, only invoices.
-
-For tax purposes, you will essentially be treated as an independent contractor. If your host is in the US, you will be issued a 1099 if your earnings exceed $600. [Here](https://turbotax.intuit.com/tax-tools/tax-tips/Self-Employment-Taxes/Filing-IRS-Form-W-9/INF19741.html)'s a good explanation of how W-9s work for independent contractors, and there's more info on what a 1099 is [here](https://turbotax.intuit.com/tax-tools/tax-tips/Self-Employment-Taxes/What-is-an-IRS-1099-Form-/INF14810.html). 
+For tax purposes, you will likely be treated as an independent contractor and you will be issued a 1099 if your earnings exceed $600. [Here](https://turbotax.intuit.com/tax-tools/tax-tips/Self-Employment-Taxes/Filing-IRS-Form-W-9/INF19741.html)'s a good explanation of how W-9s work for independent contractors, and there's more info on what a 1099 is [here](https://turbotax.intuit.com/tax-tools/tax-tips/Self-Employment-Taxes/What-is-an-IRS-1099-Form-/INF14810.html). 
 
 If you don’t meet the $600 threshold, simply report your earnings as miscellaneous self-employment income when you file your taxes.
 
-Open Collective has a little robot that helpfully puts a comment on expenses that go over the limit \(for Collectives we host\), reminding you about the tax form. Sometimes the little robot makes mistakes, but it's trying to be helpful!
+### For the Open Source Collective
 
-If you are being paid by a Collective with a Fiscal Host not managed by Open Collective or located in another country, please get information about tax requirements directly form them. You should consult an accountant to get informed about any tax or reporting obligations that apply.
+As US-based entity, Open Source Collective must collect tax forms as described above. Unlike other hosts, it has an automated tax form system. 
 
-## Info For Collectives Paying People
+When you submit an expense that puts you over the $600 threshold, you will be sent an email with a link to complete your tax form online. This email will come from HelloWorks, the system we use to handle the forms. 
+
+Your expenses will not be paid out to you until you submit the tax form.
+
+_**Note:** Going forward, invoice expenses and receipt expenses will be differentiated. However, they were not in the past, so receipt expenses might be mistakenly counting toward the $600 threshold. If that's the case for you and you don't wish to submit the tax form, please contact_ [_support@opencollective.com_](mailto:support@opencollective.com) _so we can sort it out._
+
+## Info For Collectives Paying Expenses
 
 Collectives that live under the umbrella of a [Fiscal Host](../hosts/),  don't need to worry about accounting and tax obligations, because the host manages that \(this is the awesome value of fiscal hosting\). If you need tax or accounting information for some reason, get in touch with your fiscal host. 
 

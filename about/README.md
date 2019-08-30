@@ -58,23 +58,23 @@ Subscribe to our [Talks Playlist on YouTube](https://www.youtube.com/playlist?li
 
 ## FAQ
 
-### What is Open Collective?   <a id="what-is-opencollective"></a>
+### What is Open Collective? <a id="what-is-opencollective"></a>
 
 OpenCollective is a platform where communities can collect and disburse money transparently, to sustain and grow their projects.
 
-### Why Open Collective?   <a id="why-opencollective"></a>
+### Why Open Collective? <a id="why-opencollective"></a>
 
 Internet has been really good at helping people do great things together. But things still get complicated once money is involved. These challenges hold communities back from getting all the support they need from backers and sponsors to achieve their mission.
 
 We enable communities to have economic power, so they can sustain themselves and have a larger impact in the world.
 
-### How does it work?   <a id="how-does-it-work"></a>
+### How does it work? <a id="how-does-it-work"></a>
 
 Our platform provides tools for legal entities to fiscally sponsor Collectives under their umbrella, empowering people to create associations without friction. It's like an API between the legacy world of banks and taxes and the emerging future of digitally powered distributed collaborations.
 
 The goal of OpenCollective is to create a [New Form of Association for the Internet Generation](https://medium.com/open-collective/a-new-form-of-association-for-the-internet-generation-part-1-6d6c4f5dd27f#.fgb60dorq).
 
-### Why Open Source?   <a id="why-open-source"></a>
+### Why Open Source? <a id="why-open-source"></a>
 
 For starters, we are believers in the open source philosophy. Our code is open source, and so are the Collectives we host. We think transparency in technology and finances is important.
 
