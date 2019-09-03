@@ -18,6 +18,8 @@ When you submit an expense that puts you over the $600 threshold, you will be se
 
 Your expenses will not be paid out to you until you submit the tax form.
 
+![](../.gitbook/assets/tax_banner.png)
+
 _**Note:** Going forward, invoice expenses and receipt expenses will be differentiated. However, they were not in the past, so receipt expenses might be mistakenly counting toward the $600 threshold. If that's the case for you and you don't wish to submit the tax form, please contact_ [_support@opencollective.com_](mailto:support@opencollective.com) _so we can sort it out._
 
 ## Info For Collectives Paying Expenses
