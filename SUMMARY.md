@@ -60,6 +60,7 @@
   * [Becoming a Fiscal Host](hosts/become-host.md)
   * [Create a Fiscal Host](hosts/create-a-fiscal-host.md)
   * [Fiscal Host Settings](hosts/fiscal-host-settings.md)
+  * [Invoices](hosts/invoices.md)
   * [Payouts](hosts/payouts.md)
   * [Host Dashboard](hosts/host-dashboard.md)
   * [Add Funds Manually](hosts/add-funds-manually.md)
