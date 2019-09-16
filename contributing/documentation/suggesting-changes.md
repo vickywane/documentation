@@ -84,7 +84,9 @@ GitBook also created a few shortcodes for special attributes. Learn more about t
 
 ![Screenshot of the Pull request page. It shows a box for the title of the Pull request, another for any comments. Below them, there's a Create pull request button.](/.gitbook/assets/Contributing_Documentation_Suggesting_changes_New_pull_request_2019-04-29.png)
 
-**7.** Congratulations, you submitted a pull request! 🎉 Our documentation admins will review it and merge them into our documentation if approved.
+{% hint style="success" %}
+Congratulations, you submitted a pull request! 🎉 Our documentation admins will review it and merge them to our documentation if approved.
+{% endhint %}
 
 ## Adding new images
 
@@ -142,4 +144,4 @@ Assets of any kind \(images, GIFs...\) should be stored on the **.gitbook/assets
 
 ![Screenshot of the Open pull request page showing a comparison between the base repository (opencollective/documentation on the master branch) and the head repository (your fork on the branch new-assets)](/.gitbook/assets/Contributing_Suggesting_changes_Open_pull_request_fork_2019_09_16.png)
 
-If you have any other questions about contributing to our documentation, please reach out to support@opencollective.com or join our `#documentation` channel on [Slack](https://opencollective.slack.com).
+If you have any other questions about contributing to our documentation, please reach out to support@opencollective.com or join our `documentation` channel on [Slack](https://opencollective.slack.com).
