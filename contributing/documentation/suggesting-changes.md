@@ -88,9 +88,9 @@ GitBook also created a few shortcodes for special attributes. Learn more about t
 Congratulations, you submitted a pull request! 🎉 Our documentation admins will review it and merge them to our documentation if approved.
 {% endhint %}
 
-## Adding new images
+## Adding new media
 
-Assets of any kind \(images, GIFs...\) should be stored on the **.gitbook/assets** folder.
+Media of any kind \(images, GIFs...\) should be stored on the **.gitbook/assets** folder.
 
 **1.** Clone our documentation repository to your account.
 
