@@ -21,7 +21,7 @@ You are encouraged to use contractions as long as it doesn't make sentences diff
 
 | Use | Avoid |
 | :--- | :--- |
-| It's, can't, wouldn't, you're, you've, don't or do not | It is, cannot, would not, it'll, It's \(as in 'it has'\) |
+| It's \(as in 'it is'\), can't, wouldn't, you're, you've, don't or do not | It is, cannot, would not, it'll, it's \(as in 'it has'\) |
 
 ### **Capitalization**
 
