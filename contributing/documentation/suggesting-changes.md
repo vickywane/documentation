@@ -144,4 +144,22 @@ Media of any kind \(images, GIFs...\) should be stored on the **.gitbook/assets*
 
 ![Screenshot of the Open pull request page showing a comparison between the base repository (opencollective/documentation on the master branch) and the head repository (your fork on the branch new-assets)](/.gitbook/assets/Contributing_Suggesting_changes_Open_pull_request_fork_2019_09_16.png)
 
+{% hint style="warning" %}
+Don't forget to add any new pages to the `SUMMARY.md` file, and remember to link them to their source file. New unsorted pages should be added as items on an unordered list:
+
+```Text
+* [New page](folder/new-page/README.md)
+  * [New subpage](folder/new-page/new-subpage.md)
+* [Another new page](folder/another-new-page.md)
+```
+
+New sections should be added as h2 headings:
+
+```Text
+## New section
+* [New page](folder/new-page.md)
+```
+
+{% endhint %}
+
 If you have any other questions about contributing to our documentation, please reach out to support@opencollective.com or join our `documentation` channel on [Slack](https://opencollective.slack.com).
