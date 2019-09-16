@@ -6,7 +6,7 @@ This is the place to find all help and documentation related to Open Collective.
 
 To suggest changes, click the Github icon on any docs page and make a pull request. If you're not sure how to do that, read our [step-by-step guide](contributing/documentation/suggesting-changes).
 
-If you can't find the answer you're looking for, contact us at **[support@opencollective.com](mailto:support@opencollective.com)** or on our **[Slack](https://opencollective.slack.com)**.
+If you can't find the answer you're looking for, contact us at [support@opencollective.com](mailto:support@opencollective.com) or on our [Slack](https://opencollective.slack.com).
 
 ## Overall FAQ
 
@@ -42,7 +42,7 @@ You've come to the right place! These docs explain the whole platform in detail.
 
 ### How can I contact you?
 
-Email [support@opencollective.com](mailto:support@opencollective.com) or join our [Slack](https://opencollective.slack.com).
+Email [support@opencollective.com](mailto:support@opencollective.com) or join our [Slack](https://opencollective.slack.com)!
 
 ### How can I contribute?
 
