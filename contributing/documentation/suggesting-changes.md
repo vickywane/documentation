@@ -6,7 +6,7 @@ description: 'Want to make our documentation even better? First of all, thank yo
 
 To edit our docs, you must have a GitHub account. If you already have one, make sure you are logged in. If you don't, please [create one](https://github.com/join).
 
-We also recommend you to read our style guide before submitting any changes. It serves as a reference of our writing style and our expectations for documentation.
+We also recommend you to read our [style guide](contributing/documentation/style-guide/) before submitting any changes. It serves as a reference of our writing style and our expectations for documentation.
 
 ## Understanding GitBook's integration with GitHub
 
@@ -54,7 +54,7 @@ Its mirror to GitHub, on the other hand, would have the following structure:
 * Groups of pages are controlled by folders named after the group title \(i.e. `a-group-of-pages`\).
 * Nested pages have a similar structure to groups of pages; however, a `README.md` file with the contents of the parent page must be added to the folder named after the parent page title.
 
-GitBook also created a few shortcodes for special attributes. Learn more about them reading our style guide.
+GitBook also created a few shortcodes for special attributes. Learn more about them reading our [style guide](contributing/documentation/style-guide/).
 
 ## Editing existing pages
 
@@ -74,7 +74,7 @@ GitBook also created a few shortcodes for special attributes. Learn more about t
 
 ![Screenshot of a version of our Contributing page on GitHub showing the Edit this file button as a pencil icon.](/.gitbook/assets/Contributing_Documentation_Suggesting_changes_Edit_this_file_2019-09-16.png)
 
-**4.** Make any edits you need, remembering to always format them using Markdown. To understand better GitBook's implementation of Markdown, check [their reference guide](https://docs.gitbook.com/content-editing/markdown) and our style guide.
+**4.** Make any edits you need, remembering to always format them using Markdown. To understand better GitBook's implementation of Markdown, check [their reference guide](https://docs.gitbook.com/content-editing/markdown) and our [style guide](contributing/documentation/style-guide/).
 
 **5.** When you are done making changes, scroll down and write a short description of your changes. Select the option **Create a new branch for this commit and start a pull request** and click on **Propose file change**. This will direct you to the **Pull request** page.
 
