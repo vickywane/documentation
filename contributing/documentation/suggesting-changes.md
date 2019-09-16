@@ -142,4 +142,4 @@ Assets of any kind \(images, GIFs...\) should be stored on the **.gitbook/assets
 
 ![Screenshot of the Open pull request page showing a comparison between the base repository (opencollective/documentation on the master branch) and the head repository (your fork on the branch new-assets)](/.gitbook/assets/Contributing_Suggesting_changes_Open_pull_request_fork_2019_09_16.png)
 
-If you have any other questions about contributing to our documentation, please reach out to **support@opencollective.com**.
+If you have any other questions about contributing to our documentation, please reach out to support@opencollective.com or join our `#documentation` channel on [Slack](https://opencollective.slack.com).
