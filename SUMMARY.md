@@ -25,7 +25,7 @@
 * [Collectives](collectives/README.md)
   * [Creating a Collective](collectives/create-collective.md)
   * [Quick Start Guide](collectives/quick-start-guide.md)
-  * [Edit Collective](collectives/edit-collective.md)
+  * [Customize Collective](collectives/customize-collective.md)
   * [Add or Change Members](collectives/add-or-change-members.md)
   * [Add Fiscal Host](collectives/add-or-change-fiscal-host.md)
   * [Change Fiscal Host](collectives/change-fiscal-host.md)

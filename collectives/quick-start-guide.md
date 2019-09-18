@@ -8,21 +8,19 @@ In order to receive money or pay out expenses, you need a [Fiscal Host](../hosts
 
 ### 1. Make your Collective your own
 
-Log in and hover over elements to edit them, or go to 'edit Collective'. 
+Update your images and main color and add about info. [Here's how](customize-collective.md).
 
-If you want to change something without an edit option, we can usually do it manually, so please email [support@opencollective.com](mailto:support@opencollective.com). 
+### 2. Add Core Contributors
 
-### 2. Add more Core Contributors
+If you have collaborators on your project who can help you manage your page and approve expenses add them as Core Contributors by going to 'edit Collective' and clicking 'Core Contributors'. 
 
-If you have collaborators on your project who can help you manage your page and approve expenses add them as Core Contributors by going to 'edit Collective' and clicking 'Members'. 
-
-### 3. Add Backers & Sponsors to your Github and website 
+### 3. Add Financial Contributors to your Github and website 
 
 See our available [website](https://github.com/OpenCollective/OpenCollective/wiki/Website-banner) and [Github](https://github.com/opencollective/opencollective/wiki/Github-banner) banners.
 
 ### 4. Start tracking expenses
 
-Submit expenses through your Collective, so others can see where money will be spent \(even if you don't have any yet\). This builds trust with potential Backers.
+[Submit expenses](../expenses/submitting-expenses.md) through your Collective, so others can see where money will be spent \(even if you don't have any yet\). This builds trust with potential Backers.
 
 ### 5. Spread the word
 
