@@ -1,5 +1,11 @@
 # Customize Collective
 
+## Edit Settings
+
+To access all settings for your Collective, click the cog icon next to your logo image.
+
+![](../.gitbook/assets/screen-shot-2019-09-18-at-11.24.36-am.png)
+
 ## Page Sections
 
 As an admin, all sections will appear in your view, with invitations to add content. However, any sections without content in will not appear to other users \(for example, Updates and About\).

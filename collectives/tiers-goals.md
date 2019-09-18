@@ -1,8 +1,6 @@
-# Tiers
+# Tiers & Goals
 
-You may want to define the different amounts for Backers and Sponsors to contribute to your Collective.
-
-To set these up, log in and go to 'edit Collective', and head to the 'Tiers' section.
+Use tiers to define different amounts for financial contributions. Go to 'edit Collective', and head to the 'Tiers' section.
 
 #### Configuration for Tiers:
 

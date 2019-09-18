@@ -18,11 +18,11 @@ Reimburse expenses and pay invoices.
 
 Automatic financial reporting and accountability.
 
-### [Tiers](../collectives/tiers.md)
+### [Tiers](../collectives/tiers-goals.md)
 
 Levels or rewards for backers and sponsors.
 
-### [Goals](../collectives/goals.md)
+### [Goals]()
 
 Funding milestones you're reaching for.
 
