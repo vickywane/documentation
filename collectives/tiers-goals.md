@@ -18,6 +18,8 @@ To update them, go to 'edit Collective', and head to the 'Tiers' section.
 * **Button text:** the action word on the Tier card users click \(eg. donate, join, contribute\)
 * **Goal:** target amount you're trying to raise in this tier \(leave blank if none\)
 
+![](../.gitbook/assets/tiersgoals.png)
+
 To add more, click the blue "add another tier" button.
 
 Don't forget to **save** your changes ****so they show up on your Collective page.
