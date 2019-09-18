@@ -1,21 +1,26 @@
 # Tiers & Goals
 
-Use tiers to define different amounts for financial contributions. Go to 'edit Collective', and head to the 'Tiers' section.
+Use tiers to define different amounts for financial contributions. Tiers can also have associated goals.
+
+To update them, go to 'edit Collective', and head to the 'Tiers' section.
 
 #### Configuration for Tiers:
 
-* **Type:** donation or ticket sale \(for [events](events.md)\)
-* **Name:** e.g. _Backer,_ _Backer Plus, Silver Sponsor, Gold Sponsor_
-* **Description:** What reward backers at this level get or what it means
-* **Amount:** the price
+* **Type:** generic, membership, service, product, donation
+* **Name:** e.g. _Gold Sponsor, Member, Supporter_
+* **Description:** What this tier means or reward included
+* **Amount type:** fixed or flexible \(users can adjust it\)
+* **Suggested amounts:** default options for contributors to pick from
+* **Default amount:** pre-set starting amount
+* **Minimum amount:** for tiers that have a minimum
 * **Interval:** Once, monthly, or yearly
-* **Quantity:** if you want the Tier to be limited \(for unlimited leave empty\)
+* **Available Quantity:** if you want the Tier to be limited \(for unlimited leave empty\)
+* **Button text:** the action word on the Tier card users click \(eg. donate, join, contribute\)
+* **Goal:** target amount you're trying to raise in this tier \(leave blank if none\)
 
 To add more, click the blue "add another tier" button.
 
 Don't forget to **save** your changes ****so they show up on your Collective page.
-
-![](../.gitbook/assets/screen-shot-2019-01-24-at-3.10.00-pm.png)
 
 ## Support Tiers
 
