@@ -17,8 +17,9 @@ To update them, go to 'edit Collective', and head to the 'Tiers' section.
 * **Available Quantity:** if you want the Tier to be limited \(for unlimited leave empty\)
 * **Button text:** the action word on the Tier card users click \(eg. donate, join, contribute\)
 * **Goal:** target amount you're trying to raise in this tier \(leave blank if none\)
+* **Force standalone page:** if you want to force the creation of a page for this tier
 
-![](../.gitbook/assets/tiersgoals.png)
+![Tier edition](../.gitbook/assets/image%20%281%29.png)
 
 To add more, click the blue "add another tier" button.
 
