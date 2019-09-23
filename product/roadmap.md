@@ -58,6 +58,13 @@ We are re-focusing on projects that want to manage funds through the platform an
   * Way fewer issues with invoices \(fewer expense comments\)
   * Use of the new features \(ex batch expenses\)
 
+## **Back your Stack**
+
+* Owner: François 
+* Status: Ready to Deploy 
+* Metrics: 
+  * Subscriptions created to Back your Stack. 
+
 ## **Key questions for prioritization** 
 
 **This is what we ask ourselves to decide what gets done and what doesn't.** 
