@@ -62,6 +62,10 @@ _**Note:** if you switch the payment method to Paypal yourself, it will pull in 
 
 If you try to pay an expense totalling 100% of the Collective balance, you may get an error saying there is insufficient funds to cover fees. If the amount is small, edit the total down slightly to help it go through. If it's larger API fees will be high, so pay the expense manually and reduce the amount to cover fees.
 
+**Tax form Required**
+
+You should have received an email from HelloWorks requesting you fill out a tax form. We are not able to process this payment until we receive your form. Please find the email and follow the instructions. [More info.](https://docs.opencollective.com/help/expenses/tax-information#for-the-open-source-collective)
+
 ### Special Cases
 
 #### Do not touch
