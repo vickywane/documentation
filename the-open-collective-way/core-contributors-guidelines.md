@@ -24,5 +24,14 @@ Ensure you have **proper RFCs** for important changes
 
 **You’re responsible** for deploying what you develop
 
-**It’s everyone’s responsibility to make sure we are all as autonomous as possible**.
+**It’s everyone’s responsibility to make sure we are all as autonomous as possible. To achieve that we use these questions to prioritize what gets done:** 
+
+* Does this serve our mission? 
+* Will this make us financially sustainable within a year?
+* Is it feasible to build and maintain with our team and runway?
+* Can this make us move faster?
+* Does this increase quality and not technical debt?
+* Will this bring us more Collective and financial contributors?
+* Is this already solved elsewhere or is it our unique contribution?
+* Can we measure the success of  this?
 

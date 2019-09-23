@@ -18,6 +18,7 @@
   * [Core contributors: Leave](the-open-collective-way/core-contributors-leave.md)
   * [Core Contributors: Compensation](the-open-collective-way/core-contributors-compensation.md)
 * [Product](product/README.md)
+  * [Roadmap](product/roadmap.md)
   * [Comparison](product/comparison.md)
   * [User Profile](product/user-profile.md)
   * [Currencies](product/currencies.md)

@@ -22,10 +22,6 @@ Automatic financial reporting and accountability.
 
 Levels or rewards for backers and sponsors.
 
-### [Goals]()
-
-Funding milestones you're reaching for.
-
 ### [Events](../collectives/events.md)
 
 Tickets sales go straight to your Collective budget.
