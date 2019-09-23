@@ -1,7 +1,8 @@
 ---
 description: >-
-  We'll be updating our Product Roadmap periodically. You can also read below
-  how we prioritize features and projects.
+  We'll be updating our Product Roadmap periodically. You'll also find below
+  guidelines for prioritizing features and projects as well as a template for
+  new projects.
 ---
 
 # Roadmap
@@ -77,4 +78,22 @@ We are re-focusing on projects that want to manage funds through the platform an
 * Will this bring us more Collective and financial contributors?
 * Is this already solved elsewhere or is it our unique contribution?
 * Can we measure the success of  this?
+
+## Template for new projects
+
+* Github issue
+  * explain the feature. 
+  * Link to other opened issues or data. 
+  * Include details below.
+* Kickoff
+  * Organize a special meeting or on a scheduled one. 
+* Project owner. 
+  * Role: Facilitator, decision-maker, producer. 
+  * It's ultimately responsible for \(needs to do or organize who does\)
+    * Delivery 
+    * Q&A
+    * Docs & Comms 
+    * Post-ship plan for maintenance 
+* Success metric\(s\)
+* Timeframe - kickoff and delivery, main milestones / roadmap
 
