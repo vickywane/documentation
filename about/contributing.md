@@ -8,6 +8,8 @@ description: >-
 
 First, thank you for considering contributing to Open Collective! It's people like you that make this such a great community. We welcome any type of contribution, not only code. 
 
+Check out our [Roadmap](https://docs.opencollective.com/help/product/roadmap) for the latest priorities.  
+
 You can help with:
 
 * **QA**: file [bug reports](https://github.com/opencollective/opencollective/issues), the more details you can give the better
@@ -36,5 +38,5 @@ Want to get paid for contributing code? Check out our [bounty program](../develo
 
 The bigger the pull request, the longer it will take to review and merge. Try to break down large pull requests into smaller chunks. If it's a bug fix, it will probably be quickly merged and deployed. If it's a new feature, it will need more testing and review.
 
-**If you have any questions, reach out to us on** [**Slack**](https://slack.opencollective.com)**.**
+**If you have any questions, reach out to** 
 
