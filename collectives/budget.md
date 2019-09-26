@@ -48,14 +48,15 @@ Open the “RAW FILE” tab inside the file.
 
 ### Import CSV
 
-**Make sure to check these settings are applied:**You will see something like this:Now, you will have to do some tweaks to the data before we can use it…  
+![](https://paper-attachments.dropbox.com/s_D19E76E8026880734906183F5F67A13D8F5770AC8212DCC2B79CE9738C72C087_1565898598555_Screen+Shot+2019-08-15+at+14.49.48.png)
 
-
-![](https://paper-attachments.dropbox.com/s_D19E76E8026880734906183F5F67A13D8F5770AC8212DCC2B79CE9738C72C087_1565983259029_Schermata+2019-08-16+alle+14.20.15.png)
+**Make sure to check these settings are applied:**
 
 ![](https://paper-attachments.dropbox.com/s_D19E76E8026880734906183F5F67A13D8F5770AC8212DCC2B79CE9738C72C087_1565983068990_Schermata+2019-08-16+alle+14.16.44.png)
 
-![](https://paper-attachments.dropbox.com/s_D19E76E8026880734906183F5F67A13D8F5770AC8212DCC2B79CE9738C72C087_1565898598555_Screen+Shot+2019-08-15+at+14.49.48.png)
+You will see something like this: ****Now, you will have to do some tweaks to the data before we can use it…
+
+![](https://paper-attachments.dropbox.com/s_D19E76E8026880734906183F5F67A13D8F5770AC8212DCC2B79CE9738C72C087_1565983259029_Schermata+2019-08-16+alle+14.20.15.png)
 
 ## Step 4
 
@@ -103,11 +104,11 @@ Select all values except the With cell A6 selected:Right click → “Paste spec
 
 You can personalize the collective banner by using the function “Insert” → “Image” → “Image in cell”. We are using a PNG of 1920x400. We recommend changing the color of that specific cell to match the collective banner background.
 
-![](https://paper-attachments.dropbox.com/s_D19E76E8026880734906183F5F67A13D8F5770AC8212DCC2B79CE9738C72C087_1566168125167_Screen+Shot+2019-08-18+at+17.41.59.png)
-
 ### Publishing
 
 If you go under “File” → “Publish to the web” it will pop out a settings window for this to happen.You decide if you just only publish the URL to access and read\(only\) the file or embed it.
+
+![](https://paper-attachments.dropbox.com/s_D19E76E8026880734906183F5F67A13D8F5770AC8212DCC2B79CE9738C72C087_1566168125167_Screen+Shot+2019-08-18+at+17.41.59.png)
 
 ![](https://paper-attachments.dropbox.com/s_D19E76E8026880734906183F5F67A13D8F5770AC8212DCC2B79CE9738C72C087_1566168397413_Screen+Shot+2019-08-18+at+17.46.27.png)
 
