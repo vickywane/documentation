@@ -109,9 +109,19 @@ GitBook also created a few shortcodes for special attributes. Learn more about t
 Congratulations, you submitted a pull request! 🎉 Our documentation admins will review it and merge them to our documentation if approved.
 {% endhint %}
 
-## Adding new media
+## Adding new media and using it in pages
 
 Media of any kind \(images, GIFs...\) should be stored on the **.gitbook/assets** folder.
+
+{% hint style="info" %} Any new media you add to the documentation should be named following this naming scheme:
+```Text
+Documentation_section_Page_in_which_it_will_be_added_Brief_description_YYYY-MM-DD
+```
+Here's how it looks like for media added to the **Suggesting changes** page:
+```Text
+Contributing_Documentation_Suggesting_changes_New_pull_request_2019-04-29.png
+```
+{% endhint %}
 
 **1.** Clone our documentation repository to your account.
 
@@ -127,9 +137,15 @@ Media of any kind \(images, GIFs...\) should be stored on the **.gitbook/assets*
 
 ![GIF of the process to upload new files.](/.gitbook/assets/Contributing_Documentation_Suggesting_changes_Upload_assets_2019-09-16.gif)
 
-**4.** GitHub will automatically detect your new changes and give you the option to **Compare and pull request**. Click on it.
+**4.** Open the file of the page you want to edit. To embed media to the page, write:
 
-**5.** Create your pull request normally. The base repository should be **opencollective/documentation** using the **master branch** as the base and the head repository should be **your fork** using the **new-assets** branch as a comparison.
+```Text
+![A detailed description of the image](/.gitbook/assets/filename)
+```
+
+**5.** GitHub will automatically detect your new changes and give you the option to **Compare and pull request**. Click on it.
+
+**6.** Create your pull request normally. The base repository should be **opencollective/documentation** using the **master branch** as the base and the head repository should be **your fork** using the **new-assets** branch as a comparison.
 
 ![Screenshot of the Open pull request page showing a comparison between the base repository (opencollective/documentation on the master branch) and the head repository (your fork on the branch new-assets)](/.gitbook/assets/Contributing_Suggesting_changes_Open_pull_request_fork_2019_09_16.png)
 
@@ -183,7 +199,7 @@ New sections should be added as h2 headings:
 
 {% endhint %}
 
-### Creating links to other pages or sections of a page
+## Creating links to other pages or sections of a page
 
 Linking other pages or sections of a page is done in a similar manner to changes to the summary.
 
@@ -206,5 +222,7 @@ The text after `#` symbol \(a hash\) is an element called **anchor**. On GitBook
 * Understanding GitBook's integration with GitHub becomes `#understanding-gitbooks-integration-with-github`
 
 If you aren't sure how an anchor will look like, you can use GitHub to assist you: on every Markdown file, GitHub generates anchors for each section of that document. Click on the two links on the left side of the section title to see the anchor on your browser's address bar.
+
+![Screenshot of the Getting familiar with Git section of this page as rendered by GitHub. An orange arrow points to the two links next to the section title.](/.gitbook/assets/Contributing_Suggesting_changes_Anchor_section_2019_10_01.png)
 
 If you have any other questions about contributing to our documentation, please reach out to support@opencollective.com or join our `documentation` channel on [Slack](https://opencollective.slack.com).
