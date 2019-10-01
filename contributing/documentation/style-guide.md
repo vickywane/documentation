@@ -1,11 +1,10 @@
 ---
-description: >-
-  This is a reference guide to our documentarians. It wasn't created to limit
-  you; instead, it should help you understand the overall style of our
-  documentation and teach you how to reproduce it.
+description: A reference for writing style and formatting
 ---
 
 # Style guide
+
+This is a reference guide to our documentarians. It wasn't created to limit you; instead, it should help you understand the overall style of our documentation and teach you how to reproduce it!
 
 ## Language and writing style
 
