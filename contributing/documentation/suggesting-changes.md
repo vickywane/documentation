@@ -1,12 +1,33 @@
 ---
-description: 'Want to make our documentation even better? First of all, thank you! This page will help you understand better our workflow and the tools we use.'
+description: 'Learn how to edit and add new media, pages and sections'
 ---
 
 # Suggesting changes
 
-To edit our docs, you must have a GitHub account. If you already have one, make sure you are logged in. If you don't, please [create one](https://github.com/join).
+Want to make our documentation even better? First of all, thank you! This page will guide you through our contribution process, presenting you to:
 
-We also recommend you to read our [style guide](contributing/documentation/style-guide/) before submitting any changes. It serves as a reference of our writing style and our expectations for documentation.
+* The tools we use to build our documentation
+* The steps you need to follow to make contributions
+
+To edit our docs, you must have a GitHub account. If you already have one, make sure you are logged in. If you don't, please [create one](https://github.com/join). We also recommend you to read our [style guide](style-guide.md) before submitting any changes. It serves as a reference of our writing style and our expectations for documentation.
+
+## Getting familiar with Git
+
+As collaboration in software development became more complex, involving multiple machines and developers from all over the world, the necessity of a tool that would help them work together without much friction increased. In special, they needed something that would, among other things:
+
+* Avoid conflicts when working with the same codebase simultaneously
+* Alert each developer if there were new updates to the source code before publishing new changes
+* Manage file differences
+* Help investigating what changes caused an error or a break
+* Revert any changes if needed
+
+They needed _distributed version control system_.
+
+**Git** is one of the most popular distributed version control systems used in free and open source projects. Websites such as **GitLab**, **GitHub** or **Bitbucket** are some of the most popular platforms for hosting git **repositories** \(a place where all relevant files to a project are stored\). For instance, our documentation is stored in a repository called [documentation](https://github.com/opencollective/documentation) on our organization profile on GitHub, [opencollective](https://github.com/opencollective). And if you **clone** our repository \(that is, make a copy our repository to your computer\), you'll copy not only all of our files but also the history of all changes they went through since it was created \(including who authored them\)!
+
+This page will cover interactions with our repository through **GitHub**, the platform on which we host our projects. This is the recommended process for those who aren't familiar with Git. If you are a more experienced contributor, feel free to adopt any other workflow you want, but remember to always take into account [GitBook's integration with GitHub](suggesting-changes.md#understanding-gitbooks-integration-with-github) when [modifying](suggesting-changes.md#editing-existing-pages) or [adding new files](suggesting-changes.md#adding-new-media), [sections, pages and subpages](suggesting-changes.md#adding-new-sections-pages-and-subpages).
+
+If you'd like to know more about Git and GitHub, we recommend Git's [official documentation](https://git-scm.com/) and [tutorial](https://git-scm.com/docs/gittutorial) and [GitHub Guides](https://guides.github.com/).
 
 ## Understanding GitBook's integration with GitHub
 
@@ -54,7 +75,7 @@ Its mirror to GitHub, on the other hand, would have the following structure:
 * Groups of pages are controlled by folders named after the group title \(i.e. `a-group-of-pages`\).
 * Nested pages have a similar structure to groups of pages; however, a `README.md` file with the contents of the parent page must be added to the folder named after the parent page title.
 
-GitBook also created a few shortcodes for special attributes. Learn more about them reading our [style guide](contributing/documentation/style-guide/).
+GitBook also created a few shortcodes for special attributes. Learn more about them reading our [style guide](style-guide#special-attributes).
 
 ## Editing existing pages
 
@@ -161,5 +182,29 @@ New sections should be added as h2 headings:
 ```
 
 {% endhint %}
+
+### Creating links to other pages or sections of a page
+
+Linking other pages or sections of a page is done in a similar manner to changes to the summary.
+
+To link another page, write:
+
+```text
+[Page](page.md)
+[A page within a folder](folder/page-within.md)
+```
+
+To link a specific section of a page, write:
+
+```text
+[Specific section in a page](page.md#specific-section)
+```
+
+The text after `#` symbol \(a hash\) is an element called **anchor**. On GitBook, anchors are created by replacing every blank space in a section title with `-` \(hyphens\). Therefore,
+
+* Getting familiar with Git becomes `#getting-familiar-with-git`
+* Understanding GitBook's integration with GitHub becomes `#understanding-gitbooks-integration-with-github`
+
+If you aren't sure how an anchor will look like, you can use GitHub to assist you: on every Markdown file, GitHub generates anchors for each section of that document. Click on the two links on the left side of the section title to see the anchor on your browser's address bar.
 
 If you have any other questions about contributing to our documentation, please reach out to support@opencollective.com or join our `documentation` channel on [Slack](https://opencollective.slack.com).
