@@ -75,7 +75,7 @@ Its mirror to GitHub, on the other hand, would have the following structure:
 * Groups of pages are controlled by folders named after the group title \(i.e. `a-group-of-pages`\).
 * Nested pages have a similar structure to groups of pages; however, a `README.md` file with the contents of the parent page must be added to the folder named after the parent page title.
 
-GitBook also created a few shortcodes for special attributes. Learn more about them reading our [style guide](style-guide#special-attributes).
+GitBook also created a few shortcodes for special attributes. Learn more about them reading our [style guide](https://github.com/opencollective/documentation/tree/0c915d6173307139ebeaaa50dccaba7d7149c9b2/contributing/documentation/style-guide/README.md#special-attributes).
 
 ## Editing existing pages
 
@@ -83,27 +83,27 @@ GitBook also created a few shortcodes for special attributes. Learn more about t
 
 **a.** On certain occasions, you may see a button saying **Edit on GitHub** above the **Table of Contents** on the right side of the page.
 
-![Screenshot of our Welcome page. A GitHub icon along with the text "Edit on GitHub" is seen above the Table of Contents.](/.gitbook/assets/Contributing_Documentation_Suggesting_changes_GitHub_Icon_With_Text_2019_09_16.png)
+![Screenshot of our Welcome page. A GitHub icon along with the text &quot;Edit on GitHub&quot; is seen above the Table of Contents.](../../.gitbook/assets/contributing_documentation_suggesting_changes_github_icon_with_text_2019_09_16.png)
 
 **b.** On others, you may see a GitHub icon on the top of page, next to the title and to the Table of Contents icon.
 
-![Screenshot of our Welcome page. On the right side of the page, next to the title, there are two icons: one of the GitHub logo and another designating the Table of Contents.](/.gitbook/assets/Contributing_Documentation_Suggesting_changes_GitHub_Icon_Small_2019_09_16.png)
+![Screenshot of our Welcome page. On the right side of the page, next to the title, there are two icons: one of the GitHub logo and another designating the Table of Contents.](../../.gitbook/assets/contributing_documentation_suggesting_changes_github_icon_small_2019_09_16.png)
 
 **2.** Click on the GitHub icon. This will direct you to the Markdown file in which the contents of the page are stored.
 
 **3.** Click on the pencil icon \(labeled "Edit this file"\). This will open a basic editing environment in which you are able to costumize aspects like line wrap and indentation.
 
-![Screenshot of a version of our Contributing page on GitHub showing the Edit this file button as a pencil icon.](/.gitbook/assets/Contributing_Documentation_Suggesting_changes_Edit_this_file_2019-09-16.png)
+![Screenshot of a version of our Contributing page on GitHub showing the Edit this file button as a pencil icon.](../../.gitbook/assets/contributing_documentation_suggesting_changes_edit_this_file_2019-09-16.png)
 
-**4.** Make any edits you need, remembering to always format them using Markdown. To understand better GitBook's implementation of Markdown, check [their reference guide](https://docs.gitbook.com/content-editing/markdown) and our [style guide](contributing/documentation/style-guide/).
+**4.** Make any edits you need, remembering to always format them using Markdown. To understand better GitBook's implementation of Markdown, check [their reference guide](https://docs.gitbook.com/content-editing/markdown) and our [style guide](https://github.com/opencollective/documentation/tree/0c915d6173307139ebeaaa50dccaba7d7149c9b2/contributing/documentation/contributing/documentation/style-guide/README.md).
 
 **5.** When you are done making changes, scroll down and write a short description of your changes. Select the option **Create a new branch for this commit and start a pull request** and click on **Propose file change**. This will direct you to the **Pull request** page.
 
-![Screenshot of the Commit changes box. There are boxes for a brief description of the changes, an extended one, a selection menu for email addresses to associate with the commit, options to commit directly to the current branch or to create a new branch and a pull request (which opens an option to name your branch as you like) and buttons to either Propose file change or Cancel.](/.gitbook/assets/Contributing_Documentation_Suggesting_changes_Commit_and_propose_2019-04-29.png)
+![Screenshot of the Commit changes box. There are boxes for a brief description of the changes, an extended one, a selection menu for email addresses to associate with the commit, options to commit directly to the current branch or to create a new branch and a pull request \(which opens an option to name your branch as you like\) and buttons to either Propose file change or Cancel.](../../.gitbook/assets/contributing_documentation_suggesting_changes_commit_and_propose_2019-04-29.png)
 
 **6.** On the **Pull request** page, write a short comment explaining why are proposing those changes \(e.g. improving readability, covering cases that weren't mentioned, adding critical details about our platform\) and publish your pull request clicking on **Create pull request**.
 
-![Screenshot of the Pull request page. It shows a box for the title of the Pull request, another for any comments. Below them, there's a Create pull request button.](/.gitbook/assets/Contributing_Documentation_Suggesting_changes_New_pull_request_2019-04-29.png)
+![Screenshot of the Pull request page. It shows a box for the title of the Pull request, another for any comments. Below them, there&apos;s a Create pull request button.](../../.gitbook/assets/contributing_documentation_suggesting_changes_new_pull_request_2019-04-29.png)
 
 {% hint style="success" %}
 Congratulations, you submitted a pull request! 🎉 Our documentation admins will review it and merge them to our documentation if approved.
@@ -113,12 +113,16 @@ Congratulations, you submitted a pull request! 🎉 Our documentation admins wil
 
 Media of any kind \(images, GIFs...\) should be stored on the **.gitbook/assets** folder.
 
-{% hint style="info" %} Any new media you add to the documentation should be named following this naming scheme:
-```Text
+{% hint style="info" %}
+Any new media you add to the documentation should be named following this naming scheme:
+
+```text
 Documentation_section_Page_in_which_it_will_be_added_Brief_description_YYYY-MM-DD
 ```
+
 Here's how it looks like for media added to the **Suggesting changes** page:
-```Text
+
+```text
 Contributing_Documentation_Suggesting_changes_New_pull_request_2019-04-29.png
 ```
 {% endhint %}
@@ -127,19 +131,19 @@ Contributing_Documentation_Suggesting_changes_New_pull_request_2019-04-29.png
 
 **a**. Click on the **Fork** button at the top of the page.
 
-![Screenshot of the documentation repository showing the Fork button.](/.gitbook/assets/Contributing_Suggesting_changes_Repository_Fork_Button_2019_09_16.png)
+![Screenshot of the documentation repository showing the Fork button.](../../.gitbook/assets/contributing_suggesting_changes_repository_fork_button_2019_09_16.png)
 
 **2.** On your copy of the repository, create a new branch by clicking on **Branch: master**, writing **new-assets** and selecting **Create branch: new assets**.
 
- ![GIF of the process to create a new branch.](/.gitbook/assets/Contributing_Documentation_Suggesting_changes_New_branch_2019-09-16.gif)
+![GIF of the process to create a new branch.](../../.gitbook/assets/contributing_documentation_suggesting_changes_new_branch_2019-09-16.gif)
 
 **3.** Click on the **.gitbook/assets** folder and then click on **Upload files**. You can drag and drop any files you wish to add or find them with your file manager clicking on **choose your files**. Commit your changes.
 
-![GIF of the process to upload new files.](/.gitbook/assets/Contributing_Documentation_Suggesting_changes_Upload_assets_2019-09-16.gif)
+![GIF of the process to upload new files.](../../.gitbook/assets/contributing_documentation_suggesting_changes_upload_assets_2019-09-16.gif)
 
 **4.** Open the file of the page you want to edit. To embed media to the page, write:
 
-```Text
+```text
 ![A detailed description of the image](/.gitbook/assets/filename)
 ```
 
@@ -147,44 +151,50 @@ Contributing_Documentation_Suggesting_changes_New_pull_request_2019-04-29.png
 
 **6.** Create your pull request normally. The base repository should be **opencollective/documentation** using the **master branch** as the base and the head repository should be **your fork** using the **new-assets** branch as a comparison.
 
-![Screenshot of the Open pull request page showing a comparison between the base repository (opencollective/documentation on the master branch) and the head repository (your fork on the branch new-assets)](/.gitbook/assets/Contributing_Suggesting_changes_Open_pull_request_fork_2019_09_16.png)
+![Screenshot of the Open pull request page showing a comparison between the base repository \(opencollective/documentation on the master branch\) and the head repository \(your fork on the branch new-assets\)](../../.gitbook/assets/contributing_suggesting_changes_open_pull_request_fork_2019_09_16.png)
 
 ## Adding new sections, pages and subpages
 
-{% hint style="warning" %} Please create an issue on our documentation repository to discuss your ideas before taking any action.
+{% hint style="warning" %}
+Please create an issue on our documentation repository to discuss your ideas before taking any action.
 
-1. Go to **[our Issue section](https://github.com/opencollective/documentation/issues)** and click on **New issue**. 
+1. Go to [**our Issue section**](https://github.com/opencollective/documentation/issues) and click on **New issue**. 
 2. Describe what changes you are proposing and the motivation behind them: how will them improve our documentation? How should we proceed?
 3. Click on **Submit new issue**.
-
 {% endhint %}
 
 **0.** Follow the same procedure to make a copy of our documentation repository as described on the **Add new images** section. Name your branch **new-pages**, **new-section** or **new-subpages** accordingly.
 
 **1.** To add a new file or folder, click on **Create new file**.
 
-{% hint style="info" %} To create a Markdown file, remember to write the name of the file and add the `.md` extension. {% endhint %}
+{% hint style="info" %}
+To create a Markdown file, remember to write the name of the file and add the `.md` extension.
+{% endhint %}
 
 **a.** If you want to add a new page to an existing section of the documentation, click on the proper folder and then click on **Create new file**. Name your Markdown file and start writing.
 
-{% hint style="info" %} Remember: Your page will be named after the first h1 heading on your Markdown file, and not the name of the file. {% endhint %}
+{% hint style="info" %}
+Remember: Your page will be named after the first h1 heading on your Markdown file, and not the name of the file.
+{% endhint %}
 
 **b.** If you want to add a new section to our documentation, click on **Create new file** directly. Write the name of the section and press `/` as many times you need. Add either a `README.md` file or a normal Markdown file with any name you want.
 
-{% hint style="info" %} Remember: `README.md` creates a page with the same name of your new folder. Markdown files with any other name will create pages with a title using the first h1 heading. {% endhint %}
+{% hint style="info" %}
+Remember: `README.md` creates a page with the same name of your new folder. Markdown files with any other name will create pages with a title using the first h1 heading.
+{% endhint %}
 
-![GIF showing how to add new folders and files.)](/.gitbook/assets/Contributing_Documentation_Suggesting_changes_New_folder_and_files_2019-09-16.gif)
+![GIF showing how to add new folders and files.\)](../../.gitbook/assets/contributing_documentation_suggesting_changes_new_folder_and_files_2019-09-16.gif)
 
 **2.** GitHub will automatically detect your new changes and give you the option to **Compare and pull request**. Click on it.
 
 **3.** Create your pull request normally. The base repository should be **opencollective/documentation** using the **master branch** as the base and the head repository should be **your fork** using the right branch as a comparison.
 
-![Screenshot of the Open pull request page showing a comparison between the base repository (opencollective/documentation on the master branch) and the head repository (your fork on the branch new-assets)](/.gitbook/assets/Contributing_Suggesting_changes_Open_pull_request_fork_2019_09_16.png)
+![Screenshot of the Open pull request page showing a comparison between the base repository \(opencollective/documentation on the master branch\) and the head repository \(your fork on the branch new-assets\)](../../.gitbook/assets/contributing_suggesting_changes_open_pull_request_fork_2019_09_16%20%281%29.png)
 
 {% hint style="warning" %}
 Don't forget to add any new pages to the `SUMMARY.md` file, and remember to link them to their source file. New unsorted pages should be added as items on an unordered list:
 
-```Text
+```text
 * [New page](folder/new-page/README.md)
   * [New subpage](folder/new-page/new-subpage.md)
 * [Another new page](folder/another-new-page.md)
@@ -192,11 +202,10 @@ Don't forget to add any new pages to the `SUMMARY.md` file, and remember to link
 
 New sections should be added as h2 headings:
 
-```Text
+```text
 ## New section
 * [New page](folder/new-page.md)
 ```
-
 {% endhint %}
 
 ## Creating links to other pages or sections of a page
@@ -223,6 +232,7 @@ The text after `#` symbol \(a hash\) is an element called **anchor**. On GitBook
 
 If you aren't sure how an anchor will look like, you can use GitHub to assist you: on every Markdown file, GitHub generates anchors for each section of that document. Click on the two links on the left side of the section title to see the anchor on your browser's address bar.
 
-![Screenshot of the Getting familiar with Git section of this page as rendered by GitHub. An orange arrow points to the two links next to the section title.](/.gitbook/assets/Contributing_Suggesting_changes_Anchor_section_2019_10_01.png)
+![Screenshot of the Getting familiar with Git section of this page as rendered by GitHub. An orange arrow points to the two links next to the section title.](../../.gitbook/assets/contributing_suggesting_changes_anchor_section_2019_10_01.png)
 
 If you have any other questions about contributing to our documentation, please reach out to support@opencollective.com or join our `documentation` channel on [Slack](https://opencollective.slack.com).
+
