@@ -2,11 +2,11 @@
 
 ### **We are on a mission to help collaborative groups collect and spend money transparently.**
 
-Open Collective is an online funding platform for open and transparent communities. We provide the tools to raise and share your finances in full transparency.  ****
+Open Collective is an online funding platform for open and transparent communities. We provide the tools to raise and share your finances in full transparency. _\*\*_
 
 This is the place to find all help and documentation related to Open Collective. It's a work in progress, so please feel free to give us feedback!
 
-To suggest changes, click the Github icon on any docs page and make a pull request. If you're not sure how to do that, read our [step-by-step guide](contributing/documentation/suggesting-changes).
+To suggest changes, click the Github icon on any docs page and make a pull request. If you're not sure how to do that, read our [step-by-step guide](https://github.com/opencollective/documentation/tree/0c915d6173307139ebeaaa50dccaba7d7149c9b2/contributing/documentation/suggesting-changes/README.md).
 
 If you can't find the answer you're looking for, contact us at [support@opencollective.com](mailto:support@opencollective.com) or on our [Slack](https://opencollective.slack.com).
 
@@ -32,7 +32,7 @@ Open Collective is great for collaborative groups, like meetups, open source pro
 
 ### Does it work in my country?
 
-People can contribute from anywhere by credit card, with donations denominated in the [currency](product/currencies.md) of the Fiscal Host. Payouts work everywhere our payment providers, Stripe and Paypal, serve. 
+People can contribute from anywhere by credit card, with donations denominated in the [currency](product/currencies.md) of the Fiscal Host. Payouts work everywhere our payment providers, Stripe and Paypal, serve.
 
 ### Can I get a receipt for my donations?
 
