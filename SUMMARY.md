@@ -1,30 +1,28 @@
 # Table of contents
 
 * [Welcome](README.md)
-
-## About
-
 * [About](about/README.md)
   * [Company](about/company.md)
   * [Pricing](about/pricing.md)
   * [Community Guidelines](about/community-guidelines.md)
-  * [Values](the-open-collective-way/values.md)
   * [Team](about/team.md)
   * [Investors](about/investors.md)
   * [Contributing](about/contributing.md)
   * [Terminology](about/terminology.md)
-  
-## Product
-
+* [The Open Collective Way](the-open-collective-way/README.md)
+  * [Values](the-open-collective-way/values.md)
+  * [Community Guidelines](the-open-collective-way/community-guidelines.md)
+  * [Core Contributors Guidelines](the-open-collective-way/core-contributors-guidelines.md)
+  * [Core Contributors: Communication](the-open-collective-way/core-contributors-communication.md)
+  * [Core Contributors: Expenses](the-open-collective-way/core-contributors-expenses.md)
+  * [Core contributors: Leave](the-open-collective-way/core-contributors-leave.md)
+  * [Core Contributors: Compensation](the-open-collective-way/core-contributors-compensation.md)
 * [Product](product/README.md)
   * [Roadmap](product/roadmap.md)
   * [Comparison](product/comparison.md)
   * [User Profile](product/user-profile.md)
   * [Currencies](product/currencies.md)
   * [Log-in System](product/log-in-system.md)
-
-## Collectives
- 
 * [Collectives](collectives/README.md)
   * [Creating a Collective](collectives/create-collective.md)
   * [Quick Start Guide](collectives/quick-start-guide.md)
@@ -44,9 +42,6 @@
   * [Integrations](collectives/integrations.md)
   * [Zero Collective Balance](collectives/zero-collective-balance.md)
   * [Closing a Collective](collectives/closing-a-collective.md)
-
-## Financial Contributors
-  
 * [Backers & Sponsors](backers-and-sponsors/README.md)
   * [Sponsor FAQ](backers-and-sponsors/sponsor-faq.md)
   * [Payments](backers-and-sponsors/payment.md)
@@ -56,9 +51,11 @@
   * [Bulk Transfers](backers-and-sponsors/bulk-transfers.md)
   * [Website Badge](backers-and-sponsors/website-badge.md)
   * [Sustainer Resources](backers-and-sponsors/sustainer-resources.md)
-  
-## Fiscal Hosts  
-  
+* [Expenses & Getting Paid](expenses/README.md)
+  * [Submitting Expenses](expenses/submitting-expenses.md)
+  * [Expense Comments](expenses/expense-comments.md)
+  * [Edit an Expense](expenses/edit-expense.md)
+  * [Tax Information](expenses/tax-information.md)
 * [Fiscal Hosts](hosts/README.md)
   * [Becoming a Fiscal Host](hosts/become-host.md)
   * [Create a Fiscal Host](hosts/create-a-fiscal-host.md)
@@ -72,21 +69,7 @@
   * [Local Tax Support](hosts/local-tax.md)
   * [Agreement Templates](hosts/sponsor-agreement.md)
   * [Open Source Collective](hosts/open-source-collective.md)
-  
-## Expenses & Getting Paid  
-  
-* [Expenses & Getting Paid](expenses/README.md)
-  * [Submitting Expenses](expenses/submitting-expenses.md)
-  * [Expense Comments](expenses/expense-comments.md)
-  * [Edit an Expense](expenses/edit-expense.md)
-  * [Tax Information](expenses/tax-information.md)
-  
-## Contributing
-
-* [Design](design/README.md)
-  * [Design Workflow](design/understanding-the-design-workflow.md)
-  * [Design Contribution Guidelines](design/untitled.md)
-* [Development](developers/README.md)
+* [Developers](developers/README.md)
   * [Contribution Guide](developers/dev-contribution-guide.md)
   * [Best Practice Guidelines](developers/guidelines.md)
   * [Bounties](developers/bounties.md)
@@ -106,13 +89,6 @@
   * [Translations](developers/translations.md)
   * [Testing with Cypress](developers/testing-with-cypress.md)
   * [Collective's locations](developers/collectives-locations.md)
-* [Documentation](contributing/documentation/README.md)
-  * [Style guide](contributing/documentation/style-guide.md)
-  * [Suggesting changes](contributing/documentation/suggesting-changes.md)
-* [Translation](translators.md)
-
-## Internal
-
 * [Internal](internal/README.md)
   * [Team Retreats](internal/team-retreats.md)
   * [Brussels Summer Team Retreat](internal/brussels-summer-team-retreat.md)
@@ -136,9 +112,12 @@
 * [Projects](projects/README.md)
   * [Maintainerati Berlin 2019](projects/maintainerati-berlin-2019.md)
   * [Season of Docs 2019](projects/season-of-docs-2019.md)
-* [The Open Collective Way](the-open-collective-way/README.md)
-  * [Core Contributors Guidelines](the-open-collective-way/core-contributors-guidelines.md)
-  * [Core Contributors: Communication](the-open-collective-way/core-contributors-communication.md)
-  * [Core Contributors: Expenses](the-open-collective-way/core-contributors-expenses.md)
-  * [Core contributors: Leave](the-open-collective-way/core-contributors-leave.md)
-  * [Core Contributors: Compensation](the-open-collective-way/core-contributors-compensation.md)
+* [Design](design/README.md)
+  * [Design Workflow](design/understanding-the-design-workflow.md)
+  * [Design Contribution Guidelines](design/untitled.md)
+* [Translators](translators.md)
+
+## Contributing
+* [Documentation](contributing/documentation/README.md)
+  * [Style guide](contributing/documentation/style-guide.md)
+  * [Suggesting changes](contributing/documentation/suggesting-changes.md)
