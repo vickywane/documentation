@@ -5,3 +5,11 @@ structure:
   summary: SUMMARY.md
 
 redirects:
+  help/about: about/README.md
+  help/the-open-collective-way: internal/the-open-collective-way/README.md
+  help/the-open-collective-way/core-contributors-guidelines: internal/the-open-collective-way/core-contributors-guidelines.md
+  help/the-open-collective-way/core-contributors-communication: internal/the-open-collective-way/core-contributors-communication.md
+  help/the-open-collective-way/core-contributors-expenses: internal/the-open-collective-way/core-contributors-expenses.md
+  help/the-open-collective-way/core-contributors-leave: internal/the-open-collective-way/core-contributors-leave.md
+  help/the-open-collective-way/core-contributors-compensation: internal/the-open-collective-way/core-contributors-compensation.md
+  
