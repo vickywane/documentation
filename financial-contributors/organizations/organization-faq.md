@@ -1,4 +1,4 @@
-# Sponsor FAQ
+# Organization FAQ
 
 ### Why should we become a Sponsor?
 
@@ -55,7 +55,7 @@ Yes. You can send us funds with a single transaction, and we'll allocate it to y
 
 ### Can we get an invoice in advance?
 
-Yes. Contributions through our platform will automatically generate receipts after payment, but [Fiscal hosts](../hosts/) \(like the Open Source Collective\) can function like any vendor or supplier and provide the documentation you require. If you need an invoice in advance, or for us to register in your vendor system, let us know at support@opencollective.com.
+Yes. Contributions through our platform will automatically generate receipts after payment, but [Fiscal hosts](../fiscal-hosts/) \(like the Open Source Collective\) can function like any vendor or supplier and provide the documentation you require. If you need an invoice in advance, or for us to register in your vendor system, let us know at support@opencollective.com.
 
 ### Who are we transacting with legally?
 
@@ -63,7 +63,7 @@ Open Collectives are under the legal umbrella of their [fiscal host](../hosts/).
 
 Most sponsorships arrangements don't require a separate contract to the standard terms, but we offer a [sponsorship agreement template](../hosts/sponsor-agreement.md#sponsorship-agreement-template) if needed. Sponsorship agreements are set in discussion with the sponsor, the fiscal host, and the Collective together.
 
-### Help me convince my company to became a Sponsor?
+### Help me convince my company to become an organization on Open Collective?
 
 You bet! See [Sustainer Resources](sustainer-resources.md).
 
