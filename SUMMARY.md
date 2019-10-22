@@ -48,7 +48,7 @@
 ## Financial Contributors
 
 * [FAQ](financial-contributors/README.md)
-* [Payments](financial-contributors/payment.md)
+* [Payments](financial-contributors/payments.md)
 * [Website Badge](financial-contributors/website-badge.md)
 * [Organizations](financial-contributors/organizations/README.md)
   * [FAQ](financial-contributors/organizations/organization-faq.md)
@@ -69,15 +69,15 @@
 ## Fiscal Hosts
 
 * [FAQ](fiscal-hosts/README.md)
-* [Becoming a Fiscal Host](fiscal-hosts/become-host.md)
+* [Becoming a Fiscal Host](fiscal-hosts/become-a-fiscal-host.md)
 * [Create a Fiscal Host](fiscal-hosts/create-a-fiscal-host.md)
 * [Fiscal Host Settings](fiscal-hosts/fiscal-host-settings.md)
 * [Invoices](fiscal-hosts/invoices.md)
 * [Payouts](fiscal-hosts/payouts.md)
-* [Host Dashboard](fiscal-hosts/host-dashboard.md)
+* [Host Dashboard](fiscal-hosts/fiscal-host-dashboard.md)
 * [Add Funds Manually](fiscal-hosts/add-funds-manually.md)
 * [Refunds](fiscal-hosts/refunds.md)
-* [Host Fees](fiscal-hosts/host-fees.md)
+* [Host Fees](fiscal-hosts/fiscal-host-fees.md)
 * [Local Tax Support](fiscal-hosts/local-tax.md)
 * [Agreement Templates](fiscal-hosts/sponsor-agreement.md)
 * [Open Source Collective](fiscal-hosts/open-source-collective.md)
@@ -85,10 +85,10 @@
 ## Contributing
 * [Design](contributing/design/README.md)
   * [Design Workflow](contributing/design/understanding-the-design-workflow.md)
-  * [Design Contribution Guidelines](contributing/design/untitled.md)
+  * [Design Contribution Guidelines](contributing/design/contribution-guidelines.md)
 * [Development](contributing/development/README.md)
   * [Contribution Guide](contributing/development/dev-contribution-guide.md)
-  * [Best Practice Guidelines](contributing/development/guidelines.md)
+  * [Best Practice Guidelines](contributing/development/best-practice-guidelines.md)
   * [Bounties](contributing/development/bounties.md)
   * [API](contributing/development/api/README.md)
     * [Members](contributing/development/api/members.md)
