@@ -1,6 +1,4 @@
-# Product
-
-## Features
+# Features
 
 ### [Collectives](../collectives/)
 

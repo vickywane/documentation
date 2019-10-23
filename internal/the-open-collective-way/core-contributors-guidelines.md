@@ -34,4 +34,3 @@ Ensure you have **proper RFCs** for important changes
 * Will this bring us more Collective and financial contributors?
 * Is this already solved elsewhere or is it our unique contribution?
 * Can we measure the success of  this?
-

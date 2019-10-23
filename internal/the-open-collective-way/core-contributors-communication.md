@@ -26,6 +26,3 @@
 **Sprints**
 
 * We strive to meet once a quarter, at least once every 6 months. We’d like you to attend once a year.  Open Collective will cover all the costs.
-
-
-

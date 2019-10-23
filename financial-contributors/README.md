@@ -1,6 +1,4 @@
-# Backers & Sponsors
-
-## FAQ
+# General FAQ
 
 ### Why should I give to a Collective?
 

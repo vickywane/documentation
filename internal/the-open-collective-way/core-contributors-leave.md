@@ -9,4 +9,3 @@
 
 * 25 days paid \(your vacations\)
 * 6  months unpaid. Please note that we are a startup that is not sustainable yet and our situation might change but we will strive to pay you again after 6 months of parental unpaid leave.
-
