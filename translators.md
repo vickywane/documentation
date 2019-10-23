@@ -4,7 +4,7 @@ description: >-
   translations
 ---
 
-# Translation
+# Translators
 
 {% hint style="info" %}
 We use Crowdin to manage all our translations. You can join and contribute on: [https://crowdin.com/project/opencollective/](https://crowdin.com/project/opencollective/)

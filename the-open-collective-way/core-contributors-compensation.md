@@ -7,3 +7,4 @@
 * USD $80,000 \(Ben, Alanna \(prorated\)\)
 
 Entry expectation:We have a mandatory 3 month trial period at the $80,000 / year \(or it’s updated equivalent in following years\).
+
