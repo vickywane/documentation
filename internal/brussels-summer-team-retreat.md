@@ -351,7 +351,7 @@ Ben:
 
 Piet:
 
-* Finally stopped feeling being onboarded 
+* Finally stopped feeling being onboarded
 
   Lowlights:
 
@@ -360,7 +360,7 @@ Piet:
 
   Highlights:
 
-* Seeing the end of the feature that I'm working on 
+* Seeing the end of the feature that I'm working on
 * So valuable to share screen
 
 Xavier:

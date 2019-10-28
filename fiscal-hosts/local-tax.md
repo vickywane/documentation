@@ -37,5 +37,3 @@ If the collective has a VAT number and should be responsible for collecting VAT 
 
 ![](../.gitbook/assets/image%20%285%29.png)
 
-
-

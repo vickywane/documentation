@@ -1,8 +1,8 @@
 # Currencies
 
-### Collectives can receive contributions from all over the world via credit card, in any currency.
+## Collectives can receive contributions from all over the world via credit card, in any currency.
 
-Donation amounts will be denominated in the currency of the Collective's [Fiscal Host](../hosts/), which can be set up in the following currencies \(so far\):
+Donation amounts will be denominated in the currency of the Collective's [Fiscal Host](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/hosts/README.md), which can be set up in the following currencies \(so far\):
 
 * USD
 * EUR

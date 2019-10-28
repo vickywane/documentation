@@ -26,13 +26,12 @@ In response to your feedback, we've made some big improvements to the design and
 
 ## **Homepage Redesign**
 
-We are re-focusing on projects that want to manage funds through the platform and we are re doing our homepage accordingly. 
+We are re-focusing on projects that want to manage funds through the platform and we are re doing our homepage accordingly.
 
 * Owner: Xavier
 * Status: In Progress
 * Launch: October
 * Metrics:
-
   * Collectives create from homepage
   * Page load time
   * Clarity of message \(qualitative\) - we feel confident about
@@ -46,7 +45,7 @@ We are re-focusing on projects that want to manage funds through the platform an
   * More self-hosted and unhosted Collectives created
   * Increase per-Collective revenue
 
-## **Expense Flow Redesign:** 
+## **Expense Flow Redesign:**
 
 * [Issue](https://github.com/opencollective/opencollective/issues/2394)
 * Owner: Alanna \(and Pia\)
@@ -66,9 +65,9 @@ We are re-focusing on projects that want to manage funds through the platform an
 * Metrics: 
   * Subscriptions created to Back your Stack. 
 
-## **Key questions for prioritization** 
+## **Key questions for prioritization**
 
-**This is what we ask ourselves to decide what gets done and what doesn't.** 
+**This is what we ask ourselves to decide what gets done and what doesn't.**
 
 * Does this serve our mission? 
 * Will this make us financially sustainable within a year?

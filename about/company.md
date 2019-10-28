@@ -4,7 +4,7 @@
 
 ### What's the status of your company?
 
-We are a US based C corp registered in Delaware. We also have created other separate entities to act as [Fiscal Hosts](../hosts/), like the [Open Collective Foundation 501c3](https://opencollective.com/foundation), for charitable Open Collectives in the US and the [Open Source Collective 501c6](https://opencollective.com/opensource) for open source projects around the world.
+We are a US based C corp registered in Delaware. We also have created other separate entities to act as [Fiscal Hosts](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/hosts/README.md), like the [Open Collective Foundation 501c3](https://opencollective.com/foundation), for charitable Open Collectives in the US and the [Open Source Collective 501c6](https://opencollective.com/opensource) for open source projects around the world.
 
 ### Where are you based?
 

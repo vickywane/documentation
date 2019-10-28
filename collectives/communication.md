@@ -8,7 +8,7 @@ To create an Update, go to your Collective page and click "Create an Update".
 
 ![](../.gitbook/assets/screen-shot-2019-05-31-at-12.23.38-pm.png)
 
-You can also send Updates via email using  **backers@$collective.opencollective.com**
+You can also send Updates via email using **backers@$collective.opencollective.com**
 
 _$collective = the slug of your Collective, which appears in your Collective URL_
 
@@ -18,7 +18,7 @@ Updates will be emailed and appear in the Updates section of your Collective pag
 
 ## Contacting a Collective
 
-To receive communication via your Collective, senders can email **info@$collective.opencollective.com** to reach the Core Contributors. 
+To receive communication via your Collective, senders can email **info@$collective.opencollective.com** to reach the Core Contributors.
 
 We recommend you share this address, or another email address you prefer, in your Collective description, so people know how to reach you.
 

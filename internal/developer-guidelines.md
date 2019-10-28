@@ -2,7 +2,7 @@
 
 The goal of this page is to document how we are developing Open Collective. What are the good practices, design decisions, architecture, etc.
 
-### Coding Principles
+## Coding Principles
 
 * Everything we do is open source
 * We should use Github Issues as much as possible. Anyone, inside or outside the organization, should be able to pick up an issue
@@ -15,18 +15,18 @@ The goal of this page is to document how we are developing Open Collective. What
 * We use "[config](https://www.npmjs.com/package/config)" to manage environemnt variables.
 * Production or test environment variables should only be kept on heroku \(you can access them using the command `heroku config --json --app opencollective-staging-app`
 
-### Version control \(GIT\)
+## Version control \(GIT\)
 
 * Make clear pull requests with clear commit messages
 
 To avoid unnecessary commits use `git commit --amend` instead of regular `git commit`. If you already pushed, you might have to force push \(`git push origin --force`\), it's usually ok if you're on a feature branch. If you need to rewrite the commit history: `git rebase --interactive HEAD~5`
 
-### Javascript coding rules
+## Javascript coding rules
 
 * We use ES6 syntax \(arrow functions, `const`, ...\) and eslint. Our rules are defined in the [eslint-config-opencollective repo](https://github.com/opencollective/eslint-config-opencollective).
 * We use string interpolation \(``const str = `hello ${var}`;``\)
 
-### Testing and Continuous Integration
+## Testing and Continuous Integration
 
 * We should thrive to have as much test coverage as possible
 * We use cypress.io for end to end tests

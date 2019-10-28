@@ -1,4 +1,4 @@
-# Expenses & Getting Paid
+# FAQ
 
 ## FAQ
 
@@ -10,7 +10,7 @@ Go to the Collective and click "Submit Expense". You will need to upload a valid
 
 ### How are expenses approved?
 
-Anyone can file an expense to any Collective \(in the same way that anyone can make a pull request to any open source project\). To be paid, it must be approved by one of the Core Contributors of that Collective. 
+Anyone can file an expense to any Collective \(in the same way that anyone can make a pull request to any open source project\). To be paid, it must be approved by one of the Core Contributors of that Collective.
 
 Please ensure your expense meets the expense policy of the Collective, which appears on the 'submit expense' form. If you modify an expense, it will have to be approved again. Once paid, it cannot be modified.
 
@@ -20,13 +20,13 @@ Basic data for all expenses, like the amount and description, are public. But at
 
 ### When will I get paid?
 
-Expenses for Collectives in [Fiscal Hosts](../hosts/) managed by Open Collective are paid weekly, on Thursdays. Other hosts have their own policies and schedules.
+Expenses for Collectives in [Fiscal Hosts](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/hosts/README.md) managed by Open Collective are paid weekly, on Thursdays. Other hosts have their own policies and schedules.
 
 ### Can I get paid other than via Paypal?
 
-Right now our system only is able to send outgoing payments using Paypal, and paying by other means is a manual process. 
+Right now our system only is able to send outgoing payments using Paypal, and paying by other means is a manual process.
 
-If the Collective is fiscally hosted by Open Collective \(e.g. the Open Source Collective\), we're only able to send bank transfers for special circumstances, such as a user located in a country Paypal does not serve, or for very large amounts.  
+If the Collective is fiscally hosted by Open Collective \(e.g. the Open Source Collective\), we're only able to send bank transfers for special circumstances, such as a user located in a country Paypal does not serve, or for very large amounts.
 
 We hope to add more choices for automated payments in the future, including bank transfer, cryptocurrency, and other payment platforms.
 

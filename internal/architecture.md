@@ -6,20 +6,20 @@ In Open Collective, every entity is a collective and can be accessed publicly vi
 
 A Collective can be of type:
 
-*  **COLLECTIVE** e.g. [Webpack](https://opencollective.com/webpack)
-*  **EVENT** e.g. [BrusselsTogether Meetup 4](https://opencollective.com/brussels/together/events/meetup-4)
-*  **ORGANIZATION** e.g. [iDoneThis](https://opencollective.com/idonethis), [DigitalOcean](https://opencollective.com/digitalocean), etc.
-*  **USER** e.g. [xdamman](https://opencollective.com/xdamman)
+* **COLLECTIVE** e.g. [Webpack](https://opencollective.com/webpack)
+* **EVENT** e.g. [BrusselsTogether Meetup 4](https://opencollective.com/brussels/together/events/meetup-4)
+* **ORGANIZATION** e.g. [iDoneThis](https://opencollective.com/idonethis), [DigitalOcean](https://opencollective.com/digitalocean), etc.
+* **USER** e.g. [xdamman](https://opencollective.com/xdamman)
 
 ## Members
 
 A Member connects a User to a Collective. It can have multiple roles \(one role per row\):
 
-*  **HOST** legal holder of the bank account that holds the money on behalf of the collective
-*  **ADMIN** users who can approve expenses for the collective \(aka core contributors\)
-*  **MEMBER** aka contributors
-*  **BACKER** users who gave money to the collective
-*  **FOLLOWER** used atm for users interested in an event collective
+* **HOST** legal holder of the bank account that holds the money on behalf of the collective
+* **ADMIN** users who can approve expenses for the collective \(aka core contributors\)
+* **MEMBER** aka contributors
+* **BACKER** users who gave money to the collective
+* **FOLLOWER** used atm for users interested in an event collective
 
 ## Orders
 

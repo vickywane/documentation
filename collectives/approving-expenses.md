@@ -4,7 +4,7 @@
 
 ### How do I know when an expense is pending?
 
-When someone submits an [expense](../expenses/) to your Collective, the Core Contributors will get an email notification. The email will show all the details of the expense, like who submitted it, the amount, and the receipt or invoice. 
+When someone submits an [expense](../expenses-and-getting-paid/expenses.md) to your Collective, the Core Contributors will get an email notification. The email will show all the details of the expense, like who submitted it, the amount, and the receipt or invoice.
 
 You can also view expenses on Open Collective. Click the link from the email notification, or go to your Collective page and click "View all Expenses".
 
@@ -20,9 +20,9 @@ Yes, we recommend you have an [expense policy](expense-policy.md), which will sh
 
 ### What happens when I click Approve?
 
-When you approve an expense, the submitter will get a notification. The [Fiscal Host](../hosts/) admin will also be notified. They review the expense and make sure it has a valid receipt or invoice, and then proceed to pay it.
+When you approve an expense, the submitter will get a notification. The [Fiscal Host](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/hosts/README.md) admin will also be notified. They review the expense and make sure it has a valid receipt or invoice, and then proceed to pay it.
 
 ### What happens when I click Reject?
 
-The submitter will be notified that their expense was rejected. We suggest also putting a [comment](../expenses/expense-comments.md) on the expense to explain why it was rejected.
+The submitter will be notified that their expense was rejected. We suggest also putting a [comment](../expenses-and-getting-paid/expense-comments.md) on the expense to explain why it was rejected.
 

@@ -1,6 +1,6 @@
 # Newsletter
 
-We send a newsletter once a month to our wider community of users and supporters. This is done via Mailchimp. 
+We send a newsletter once a month to our wider community of users and supporters. This is done via Mailchimp.
 
 ## Newsletter Process
 
@@ -14,7 +14,7 @@ Users who create new platform accounts and opt-in to the newsletter need to be a
 
 ### Content
 
-Content can come from a range of sources. 
+Content can come from a range of sources.
 
 Examples:
 
@@ -98,6 +98,4 @@ WHERE t."createdAt" >= '2019-01-01' AND t."createdAt" < '2019-02-01'
   AND t."deletedAt" IS NULL
 ORDER BY t.id ASC
 ```
-
-
 

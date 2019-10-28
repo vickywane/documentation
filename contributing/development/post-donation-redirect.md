@@ -14,7 +14,7 @@ https://opencollective.com/webpack/pay/1000/invoice%201234
 
 You can also append to that url a redirect parameter. That way, after the user donates money, they will be redirected to your URL and we will pass the `transactionid`.
 
-E.g. 
+E.g.
 
 ```text
 https://opencollective.com/octobox/pay/100/month/support%20the%20community?redirect=https://octobox.io/callback

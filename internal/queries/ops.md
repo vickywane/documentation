@@ -1,6 +1,6 @@
 # Ops
 
-### Detect duplicate orders
+## Detect duplicate orders
 
 This will return the orders coming from the same and to collective and same amount within the same minute
 

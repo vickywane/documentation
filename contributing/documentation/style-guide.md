@@ -55,7 +55,7 @@ Everyone is a user, so it's not super helpful when trying to refer to something 
 
 #### **Sponsor**
 
-This is a common word to describe when a company gives money to a project, but it _\*\*_has caused confusion because sometimes sponsorship is defined by the kind of entity making the financial contribution \(company vs individual\), and sometimes it's defined by how much they are contributing \(e.g. some Collectives call everything over $1000 'sponsorship' regardless of who gives it\). Collectives can each define these things for themselves, so it's safer to refer to "individual financial contributor" or "organizational financial contributor".
+This is a common word to describe when a company gives money to a project, but it \_\*\*\_has caused confusion because sometimes sponsorship is defined by the kind of entity making the financial contribution \(company vs individual\), and sometimes it's defined by how much they are contributing \(e.g. some Collectives call everything over $1000 'sponsorship' regardless of who gives it\). Collectives can each define these things for themselves, so it's safer to refer to "individual financial contributor" or "organizational financial contributor".
 
 #### **Backer**
 

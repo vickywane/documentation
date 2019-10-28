@@ -4,7 +4,7 @@
 
 ## About
 
-* [Introduction](about/README.md)
+* [Introduction](about/about.md)
 * [Terminology](about/terminology.md)
 * [Company](about/company.md)
 * [Pricing](about/pricing.md)
@@ -16,7 +16,7 @@
 
 ## Product
 
-* [Features](product/README.md)
+* [Features](product/product.md)
 * [Roadmap](product/roadmap.md)
 * [Comparison](product/comparison.md)
 * [User Profile](product/user-profile.md)
@@ -25,7 +25,7 @@
 
 ## Collectives
 
-* [FAQ](collectives/README.md)
+* [FAQ](collectives/collectives.md)
 * [Creating a Collective](collectives/create-collective.md)
 * [Quick Start Guide](collectives/quick-start-guide.md)
 * [Customize Collective](collectives/customize-collective.md)
@@ -47,7 +47,7 @@
 
 ## Financial Contributors
 
-* [FAQ](financial-contributors/README.md)
+* [FAQ](financial-contributors/financial-contributors.md)
 * [Payments](financial-contributors/payments.md)
 * [Website Badge](financial-contributors/website-badge.md)
 * [Organizations](financial-contributors/organizations/README.md)
@@ -60,15 +60,15 @@
 
 ## Expenses & Getting Paid
 
-* [FAQ](expenses/README.md)
-* [Submitting Expenses](expenses/submitting-expenses.md)
-* [Expense Comments](expenses/expense-comments.md)
-* [Edit an Expense](expenses/edit-expense.md)
-* [Tax Information](expenses/tax-information.md)
+* [FAQ](expenses-and-getting-paid/expenses.md)
+* [Submitting Expenses](expenses-and-getting-paid/submitting-expenses.md)
+* [Expense Comments](expenses-and-getting-paid/expense-comments.md)
+* [Edit an Expense](expenses-and-getting-paid/edit-expense.md)
+* [Tax Information](expenses-and-getting-paid/tax-information.md)
 
 ## Fiscal Hosts
 
-* [FAQ](fiscal-hosts/README.md)
+* [FAQ](fiscal-hosts/fiscal-hosts.md)
 * [Becoming a Fiscal Host](fiscal-hosts/become-a-fiscal-host.md)
 * [Create a Fiscal Host](fiscal-hosts/create-a-fiscal-host.md)
 * [Fiscal Host Settings](fiscal-hosts/fiscal-host-settings.md)
@@ -83,6 +83,7 @@
 * [Open Source Collective](fiscal-hosts/open-source-collective.md)
 
 ## Contributing
+
 * [Design](contributing/design/README.md)
   * [Design Workflow](contributing/design/understanding-the-design-workflow.md)
   * [Design Contribution Guidelines](contributing/design/contribution-guidelines.md)
@@ -109,11 +110,11 @@
 * [Documentation](contributing/documentation/README.md)
   * [Style guide](contributing/documentation/style-guide.md)
   * [Suggesting changes](contributing/documentation/suggesting-changes.md)
-* [Translation](contributing/translation/README.md)
+* [Translation](contributing/translation.md)
 
 ## Internal
 
-* [Scope](internal/README.md)
+* [Scope](internal/internal.md)
 * [Team Retreats](internal/team-retreats.md)
 * [Brussels Summer Team Retreat](internal/brussels-summer-team-retreat.md)
 * [Host Admin Manual](internal/host-admin-manual.md)
@@ -143,3 +144,4 @@
   * [Core Contributors: Expenses](internal/the-open-collective-way/core-contributors-expenses.md)
   * [Core contributors: Leave](internal/the-open-collective-way/core-contributors-leave.md)
   * [Core Contributors: Compensation](internal/the-open-collective-way/core-contributors-compensation.md)
+

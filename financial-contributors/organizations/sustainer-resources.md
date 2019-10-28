@@ -14,11 +14,11 @@ _This is an email that Vincent Voyer and Josh Dzielak from Algolia used to start
 
 ### Google Form Template
 
-![](../.gitbook/assets/image_2_1_vsbdbs.png)
+![](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/financial-contributors/.gitbook/assets/image_2_1_vsbdbs.png)
 
 ## Testimonials
 
-### From Maintainers 
+### From Maintainers
 
 _Please keep adding them &lt;3_
 
@@ -34,7 +34,7 @@ _Please keep adding them &lt;3_
 
 [Coinbase](https://engineering.coinbase.com/coinbase-open-source-fund-may-june-update-9f6fef200b04)
 
-[Manifold](https://blog.manifold.co/manifold-update-human-peter-ef15771feae0) 
+[Manifold](https://blog.manifold.co/manifold-update-human-peter-ef15771feae0)
 
 [Jetruby](https://expertise.jetruby.com/why-your-it-business-should-support-open-source-658c4b7e650d?gi=5ecf81bfc295)
 

@@ -21,15 +21,15 @@
 3. Return to the host dashboard.
 4. Select the "ready to pay" filter.
 5. Find an expense that has a green 'pay with paypal' button and is for less than $2,000. You can go one Collective at a time via the dropdown menu, or filter all by "approved".
-6. Open the attached receipt or invoice and ensure it's [valid](../expenses/submitting-expenses.md#documentation-requirements).
+6. Open the attached receipt or invoice and ensure it's [valid](../expenses-and-getting-paid/submitting-expenses.md#documentation-requirements).
 7. Click the 'pay with paypal' button and pay the expense.
 
 #### For expenses over $2,000
 
-Paypal only allows pre-approval of $2,000 the pay via the API, so larger expenses have to be paid manually. 
+Paypal only allows pre-approval of $2,000 the pay via the API, so larger expenses have to be paid manually.
 
 1. Find an expense for over $2,000 that has a green button and open it in its own tab.
-2. Check the attached receipt or invoice and ensure it's [valid](../expenses/submitting-expenses.md#documentation-requirements).
+2. Check the attached receipt or invoice and ensure it's [valid](../expenses-and-getting-paid/submitting-expenses.md#documentation-requirements).
 3. Open Paypal in another tab and go to 'send or receive money' and choose 'friends or family'.
 4. Put in the user's email address and the amount.
 5. Set the currency to USD for sending and receiving.
@@ -50,11 +50,11 @@ If there is an issue with an expense, comment on it to notify the submitter. If 
 
 #### Invoice or receipt missing or invalid
 
-In order to reimburse the expense you submitted, it must have a valid invoice or receipt. Click 'Edit' on this expense to upload a new file. If you need help, see: [info about submitting expenses](https://docs.opencollective.com/help/expenses/submitting-expenses). 
+In order to reimburse the expense you submitted, it must have a valid invoice or receipt. Click 'Edit' on this expense to upload a new file. If you need help, see: [info about submitting expenses](https://docs.opencollective.com/help/expenses/submitting-expenses).
 
 #### Paypal address not provided
 
-For the moment, we are only able to pay via Paypal. Please click 'edit' on your expense, select 'Paypal' from the dropdown menu, and input your Paypal email address. 
+For the moment, we are only able to pay via Paypal. Please click 'edit' on your expense, select 'Paypal' from the dropdown menu, and input your Paypal email address.
 
 _**Note:** if you switch the payment method to Paypal yourself, it will pull in the user's email address. However, we can't always assume that's the correct Paypal address._
 
@@ -79,7 +79,7 @@ Collectives in the Europe host can request payment via bank transfer \(all other
 
 ### Tax Forms
 
-We have on file [W9](https://www.dropbox.com/home/Open%20Source%20Collective%20501c6/IRS/W9) or [W8-BEN/E](https://www.dropbox.com/home/Open%20Source%20Collective%20501c6/IRS/W8-BEN) forms for users, which are required if we’re paying out $600 or more to a person in a year. The Tax Forms bot will let them know to send theirs through to us via a comment on the expense. Make sure we have one on file before paying an invoice for someone who has earned $600 or more. 
+We have on file [W9](https://www.dropbox.com/home/Open%20Source%20Collective%20501c6/IRS/W9) or [W8-BEN/E](https://www.dropbox.com/home/Open%20Source%20Collective%20501c6/IRS/W8-BEN) forms for users, which are required if we’re paying out $600 or more to a person in a year. The Tax Forms bot will let them know to send theirs through to us via a comment on the expense. Make sure we have one on file before paying an invoice for someone who has earned $600 or more.
 
 **Note:** this does not apply to expense reimbursements, only invoices.
 

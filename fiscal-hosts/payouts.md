@@ -8,9 +8,9 @@ Straight to the bank account attached to your Stripe account, which you connect 
 
 ### How do people withdraw funds from Collectives we host?
 
-To withdraw funds, people submit receipts or invoices as [Expenses](../expenses/). 
+To withdraw funds, people submit receipts or invoices as [Expenses](../expenses-and-getting-paid/expenses.md).
 
-Expenses go through a two-step approval process: 
+Expenses go through a two-step approval process:
 
 1. A core contributor \(admin\) of the individual Collective confirms that the expense is a valid use of funds for their project. 
 2. Then the host admin confirms that the expense meets requirements \(such as having a valid receipt\).
@@ -25,7 +25,7 @@ Right now, we only support PayPal for one-click payouts through the platform. Yo
 
 From your host dashboard you can connect your PayPal account and pre-approve up to $2,000 USD in payouts. Make sure that you are connecting the PayPal account connected to the same bank account as your Stripe account.
 
-On the host dashboard, expenses that have been approved and have sufficient budget will show a "pay" button. With just one click you can pay the expense. After paying out $2,000, you'll need to re-authorize with PayPal \(this is a security feature\). 
+On the host dashboard, expenses that have been approved and have sufficient budget will show a "pay" button. With just one click you can pay the expense. After paying out $2,000, you'll need to re-authorize with PayPal \(this is a security feature\).
 
 For single payments larger than $2,000, make a manual payment.
 

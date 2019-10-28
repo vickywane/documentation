@@ -16,11 +16,11 @@ _See links for more details. Each chapter heading in the docs has its own more s
 
 ### What’s an Open Collective?
 
-An [Open Collective](product/) is a place for communities to collect and disburse money transparently.
+An [Open Collective](product/product.md) is a place for communities to collect and disburse money transparently.
 
 ### Who is Open Collective for?
 
-Open Collective is great for collaborative groups, like meetups, open source projects, [and more](collectives/#what-is-open-collective-good-for)—and for the [sponsors and backers](backers-and-sponsors/) who want to support them.
+Open Collective is great for collaborative groups, like meetups, open source projects, [and more](collectives/collectives.md#what-is-open-collective-good-for)—and for the [sponsors and backers](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/backers-and-sponsors/README.md) who want to support them.
 
 ### How is it different from other platforms?
 
@@ -28,7 +28,7 @@ Open Collective is great for collaborative groups, like meetups, open source pro
 
 ### How much does it cost?
 
-[Pricing](about/pricing.md) is based on a small percentage of funds raised through the platform, 5%-10% depending on your [Fiscal Host](hosts/).
+[Pricing](about/pricing.md) is based on a small percentage of funds raised through the platform, 5%-10% depending on your [Fiscal Host](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/hosts/README.md).
 
 ### Does it work in my country?
 
@@ -36,7 +36,7 @@ People can contribute from anywhere by credit card, with donations denominated i
 
 ### Can I get a receipt for my donations?
 
-Yes! One main purpose of Open Collective is to provide unincorporated projects the legal and financial structures to provide [people](backers-and-sponsors/) receipts and invoices.
+Yes! One main purpose of Open Collective is to provide unincorporated projects the legal and financial structures to provide [people](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/backers-and-sponsors/README.md) receipts and invoices.
 
 ### Where can I learn more?
 

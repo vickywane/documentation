@@ -8,7 +8,7 @@
 This is the account for the individual who is the host admin. Normally it's associated with a human name. It will manage your host, which normally has an organization name.
 
 **Create a Collective**  
-This can be the Collective for your host's budget \(to receive host fees if you charge them and be transparent\), or for the main project you will be hosting. 
+This can be the Collective for your host's budget \(to receive host fees if you charge them and be transparent\), or for the main project you will be hosting.
 
 **Select "use your own host"**
 
@@ -32,8 +32,5 @@ Go to 'edit Collective' &gt; fiscal host and select 'use your own host'. Follow 
 
 Follow the same steps as above, except instead of selecting "create organization", select the existing Organization you'd like to use from the drop down menu.
 
-
-
-[**Next: customize your fiscal host and set the host fee.**](fiscal-host-settings.md)  
-
+[**Next: customize your fiscal host and set the host fee.**](fiscal-host-settings.md)
 

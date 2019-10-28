@@ -50,7 +50,7 @@ Helper to quickly create a collective that use designated by `email` will be an 
 **`cy.addCreditCardToCollective({ collectiveSlug })`**
 {% endhint %}
 
-Adds a default test credit card  to the collective referenced by `collectiveSlug`
+Adds a default test credit card to the collective referenced by `collectiveSlug`
 
 ### Forms
 

@@ -6,7 +6,7 @@ description: >-
 
 # Design Contribution Guidelines
 
-As an open community, Open Collective Design aims for designing new ways to create, share and deliver value from a design point of view. 
+As an open community, Open Collective Design aims for designing new ways to create, share and deliver value from a design point of view.
 
 ### What do I need to know first?
 
@@ -31,12 +31,10 @@ Empowering products enhance our abilities as humans without dictating our behavi
 * Give people the control they need to manage the algorithms that shape their experiences.
 * Give people the control they need to manage privacy and anonymity.
 * Enable focus by avoiding unnecessary notifications.
+* _“Utility alone won’t assuage us. We want empowerment. We want to be better people. We want technology to enhance our capabilities and increase our sense of agency without dictating the rhythm of our lives.”_
+* _Jesse Weaver_
 
-1. _“Utility alone won’t assuage us. We want empowerment. We want to be better people. We want technology to enhance our capabilities and increase our sense of agency without dictating the rhythm of our lives.”_
-2. _Jesse Weaver_
-
-[https://medium.com/s/user-friendly/the-future-of-digital-product-design-is-about-human-empowerment-6a025bc330a](https://medium.com/s/user-friendly/the-future-of-digital-product-design-is-about-human-empowerment-6a025bc330a)  
-
+[https://medium.com/s/user-friendly/the-future-of-digital-product-design-is-about-human-empowerment-6a025bc330a](https://medium.com/s/user-friendly/the-future-of-digital-product-design-is-about-human-empowerment-6a025bc330a)
 
 ### 2. Finite
 
@@ -60,11 +58,11 @@ Lack of transparency erodes trust in a product. We can prevent this erosion by d
 
 ## The process
 
-![](../.gitbook/assets/3%20%283%29.png)
+![](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/contributing/.gitbook/assets/3%20%283%29.png)
 
-**Exploration/Ideation:** 
+**Exploration/Ideation:**
 
-Understanding the context \(Particular and general\) that the project involves,  and think about specific solutions to that project.
+Understanding the context \(Particular and general\) that the project involves, and think about specific solutions to that project.
 
 **Creation/Definition:**
 
@@ -92,21 +90,19 @@ The first thing you encounter with is this primary breakdown of the work:
 * [02 → OpenCollective.com](https://www.figma.com/files/project/994190/02-%E2%86%92-OpenCollective.com)
 * [01 → BackYourStack.com](https://www.figma.com/files/project/994191/03-%E2%86%92-BackYourStack.com)
 
-![](../.gitbook/assets/4%20%283%29.png)
+![](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/contributing/.gitbook/assets/4%20%283%29.png)
 
 **UX/UI Contribution**
 
 Most of the projects related with interface design will be hosted inside the [02 → OpenCollective.com](https://www.figma.com/files/project/994190/02-%E2%86%92-OpenCollective.com) folder, that breaks down again the efforts with this organization:
 
-![](../.gitbook/assets/5%20%284%29.png)
+![](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/contributing/.gitbook/assets/5%20%284%29.png)
 
 The next level is each individual file, that may include several interface elements, pages and flows of the platform and the website, it looks something like [this](https://www.figma.com/file/e71tBo0Sr8J7R5n6iMkqI42d/OC.COM-07-%2F-Collectives?node-id=182%3A0):
 
-![](../.gitbook/assets/figma-file-visualization.png)
+![](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/contributing/.gitbook/assets/figma-file-visualization.png)
 
 Here you can obtain assets, individual characteristics of each elements and make specific questions.
-
-
 
 {% hint style="info" %}
 All of these naming conventions are consistent along the other digital tools.
@@ -122,17 +118,17 @@ Every task is linked with the OpenCollective team and the code repository throug
 
 We break down big goals to specific tasks using the following logic:
 
-![](../.gitbook/assets/6.png)
+![](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/contributing/.gitbook/assets/6.png)
 
 There are different ways to get in the loop of design-related tasks in GitHub:
 
 1. [**KanBan Board**](https://github.com/opencollective/opencollective/projects/2)
 
-![](../.gitbook/assets/7%20%281%29.png)
+![](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/contributing/.gitbook/assets/7%20%281%29.png)
 
 1. [**Searching for design labels in the complete issue list.**](https://github.com/opencollective/opencollective/issues)
 
-![](../.gitbook/assets/8%20%282%29.png)![](../.gitbook/assets/9.png)
+![](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/contributing/.gitbook/assets/8%20%282%29.png)![](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/contributing/.gitbook/assets/9.png)
 
 ### [TeamWeek](https://teamweek.com/)
 
@@ -140,13 +136,13 @@ TeamWeek is the platform where our progress will be tracked and communicated wit
 
 When you first enter TeamWeek you see again the same effort breakdown:
 
-![](../.gitbook/assets/10.png)
+![](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/contributing/.gitbook/assets/10.png)
 
 Inside any of those roadmaps you will see something like this:
 
 Where each epic will be tracked consistently throughout all of our tools.
 
-![](../.gitbook/assets/11.png)
+![](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/contributing/.gitbook/assets/11.png)
 
 ## Getting familiar with the process of OC Design
 
@@ -168,5 +164,5 @@ In order to achieve this common ground, the design collective has created a **co
 
 The following diagram describes the ideal workflow of a sprint of 10 working days, all the way from planning the sprint to the demo day where the series of design solutions are presented with a public release.
 
-![](../.gitbook/assets/12.png)
+![](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/contributing/.gitbook/assets/12.png)
 

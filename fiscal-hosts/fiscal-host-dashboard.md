@@ -4,7 +4,7 @@
 
 ## **FAQ**
 
-### How do  I get to the Host Dashboard? 
+### How do  I get to the Host Dashboard?
 
 Click the button on your host page, while logged in as host admin.
 
@@ -26,7 +26,7 @@ Paypal allows you to pre-approve $2,000 at a time to be paid through the API. Th
 
 When you click "refill balance" you will be prompted to log in to Paypal, and afterward you'll be taken back to your dashboard.
 
-You can see the connected Paypal account in the top right. This is the account expenses will be paid out of. 
+You can see the connected Paypal account in the top right. This is the account expenses will be paid out of.
 
 If you manage multiple Paypal accounts, make sure it's the right one! If it's not correct, open Paypal in another tab and manually log out, then click "refill balance" and use credentials for the right account.
 
@@ -56,13 +56,13 @@ Green button for manual payments. After paying via another method \(bank transfe
 
 #### Edit
 
-Host admins have permission to edit expenses at any time. For example, someone wasn't able to attach their receipt and emailed it instead, and you are adding it for them. 
+Host admins have permission to edit expenses at any time. For example, someone wasn't able to attach their receipt and emailed it instead, and you are adding it for them.
 
 **Note:** If you edit an expense, it much be re-approved.
 
 #### Open Expense
 
-If you click the title of an individual expense, you will go to that expense's page. There, you can see all details and read or add [comments](../expenses/expense-comments.md).
+If you click the title of an individual expense, you will go to that expense's page. There, you can see all details and read or add [comments](../expenses-and-getting-paid/expense-comments.md).
 
 ### Payment Error Troubleshooting
 
@@ -77,8 +77,4 @@ Common reasons for a payment to fail after clicking the "Pay with Paypal" button
   * Edit the expense total down to leave enough for the fees and inform the user by leaving a comment
 * User's Paypal account is restricted
   * Ask the user to log into Paypal and resolve the issue on their side
-
-
-
-
 

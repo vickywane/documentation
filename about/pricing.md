@@ -6,53 +6,42 @@
 
 _Read on for more details._
 
-## 
+| I want to... |  | cost |
+| :--- | :--- | :--- |
+
+
+| Create a Collective | An instant page online to tell the world about your project | free |
+| :--- | :--- | :--- |
+
+
+| Submit expenses | Track costs transparently to show what funds are for | free |
+| :--- | :--- | :--- |
+
+
+| Create events | Free registrations for conferences, meetups, webinars | free |
+| :--- | :--- | :--- |
+
+
+| Post updates | Keep your community in the loop | free |
+| :--- | :--- | :--- |
+
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">I want to...</th>
-      <th style="text-align:left"></th>
-      <th style="text-align:left">cost</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Create a Collective</td>
-      <td style="text-align:left">An instant page online to tell the world about your project</td>
-      <td style="text-align:left">free</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Submit expenses</td>
-      <td style="text-align:left">Track costs transparently to show what funds are for</td>
-      <td style="text-align:left">free</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Create events</td>
-      <td style="text-align:left">Free registrations for conferences, meetups, webinars</td>
-      <td style="text-align:left">free</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Post updates</td>
-      <td style="text-align:left">Keep your community in the loop</td>
-      <td style="text-align:left">free</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Receive money</td>
-      <td style="text-align:left">Donations, sponsorship, ticket sales</td>
-      <td style="text-align:left">
+      <th style="text-align:left">Receive money</th>
+      <th style="text-align:left">Donations, sponsorship, ticket sales</th>
+      <th style="text-align:left">
         <p>5% platform fee</p>
         <p>+ host fee (see below)
           <br />+ payment processor fees</p>
-      </td>
+      </th>
     </tr>
-    <tr>
-      <td style="text-align:left">Pay out money</td>
-      <td style="text-align:left">Reimburse expenses and pay invoices</td>
-      <td style="text-align:left">payment processor fees</td>
-    </tr>
-  </tbody>
-</table>## Pricing FAQ
+  </thead>
+  <tbody></tbody>
+</table>| Pay out money | Reimburse expenses and pay invoices | payment processor fees |
+| :--- | :--- | :--- |
+
 
 ### Can I use Open Collective for free?
 
@@ -62,7 +51,7 @@ You can set up a Collective absolutely free. However, there are fees to accept a
 
 A fiscal host is a legal company or individual who enables financial transactions, holds funds, and takes care of liability and taxes for a Collective. Fiscal Hosts make it possible for Collectives to transact without incorporating their own legal entity. Each Fiscal Host sets its own fees, most commonly 0% and 5%.
 
-[More info about Fiscal Hosts](../hosts/).
+[More info about Fiscal Hosts](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/hosts/README.md).
 
 ## Examples <a id="docs-internal-guid-bbc579cc-7fff-c7e7-cc88-4b3cac120c2c"></a>
 
@@ -88,5 +77,5 @@ Fiscal Hosts managed by Open Collective charge only the regular platform fee and
 
 ### Can I put money through the system and still use it for free somehow?
 
-Yes, it’s possible. To do so, you'd need to set up and manage both the Fiscal Hosting side and the software hosting side yourself. So, you’ll need to set up and maintain your own legal entity and your own servers running an instance of the Open Collective open source software. Maintaining a legal entity involves tax and legal liability, admin overhead,  and a lot of paperwork, and maintaining servers running your own software involves a lot of technical skill and effort. That’s why many Collectives find that it’s good value to pay Open Collective to provide these services.
+Yes, it’s possible. To do so, you'd need to set up and manage both the Fiscal Hosting side and the software hosting side yourself. So, you’ll need to set up and maintain your own legal entity and your own servers running an instance of the Open Collective open source software. Maintaining a legal entity involves tax and legal liability, admin overhead, and a lot of paperwork, and maintaining servers running your own software involves a lot of technical skill and effort. That’s why many Collectives find that it’s good value to pay Open Collective to provide these services.
 

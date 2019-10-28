@@ -36,5 +36,3 @@ To change your cover image, click the 'edit cover' button.
 
 ![](../.gitbook/assets/cover-image.gif)
 
-
-

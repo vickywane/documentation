@@ -30,5 +30,3 @@ You can sign up using a pseudonym. We understand that not everyone can or wants 
 
 If you are getting paid through the platform, we need some personally identifiable information. However, these documents \(invoices and tax forms, for example\) are not public and only admins will see them.
 
-
-

@@ -24,7 +24,7 @@ Add or update the people who have access to admin your host organization, pay ex
 
 ### Expenses
 
-This is a very important section, where you can input your expense policy. This information shows up at the top of the screen when people are submitting new expenses to Collectives you host. 
+This is a very important section, where you can input your expense policy. This information shows up at the top of the screen when people are submitting new expenses to Collectives you host.
 
 ![](../.gitbook/assets/screen-shot-2019-02-02-at-7.49.14-pm.png)
 

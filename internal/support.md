@@ -21,7 +21,7 @@ Please keep the status of tickets you've worked on up to date.
 
 ### Tags
 
-We use tags to track different categories of tickets, to help us understand what problems are most common and prioritise updates to the platform to fix them. 
+We use tags to track different categories of tickets, to help us understand what problems are most common and prioritise updates to the platform to fix them.
 
 Please add tags to tickets you work on to help our data gathering. You can see a list of all tags and how many tickets each has associated in the [tags section of the admin panel](https://opencollective.freshdesk.com/a/admin/tags).
 

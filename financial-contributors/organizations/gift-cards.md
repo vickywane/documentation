@@ -10,9 +10,9 @@ See our dedicated [Gift Cards](https://opencollective.com/gift-cards) page for a
 
 ## Create gift cards
 
-To create Gift Cards for your [Organization](organizations.md), go to **Edit Organization** and then **Gift Cards**. From there you'll also be able to see your pending and redeemed gift cards.
+To create Gift Cards for your [Organization](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/financial-contributors/organizations/organizations.md), go to **Edit Organization** and then **Gift Cards**. From there you'll also be able to see your pending and redeemed gift cards.
 
-![](../.gitbook/assets/peek-26-03-2019-08-42.gif)
+![](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/financial-contributors/.gitbook/assets/peek-26-03-2019-08-42.gif)
 
 We currently offer three options for gift cards distribution.
 
@@ -20,7 +20,7 @@ We currently offer three options for gift cards distribution.
 
 You can give us a list of emails and we'll send the gift cards out, or you can generate gift card codes and send them out yourself.
 
-![](../.gitbook/assets/giftcards.gif)
+![](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/financial-contributors/.gitbook/assets/giftcards.gif)
 
 ### 2. Download the list of redeem codes/links - Perfect for custom materials
 

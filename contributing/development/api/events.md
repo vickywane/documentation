@@ -1,6 +1,6 @@
 # Events
 
-### List events
+## List events
 
 `/:collectiveSlug/events.json`
 
@@ -38,7 +38,7 @@ Notes:
 * `url` is the url of the page of the event on opencollective.com
 * `info` is the url to get the detailed information about the event in json
 
-### Get event info <a id="get-info"></a>
+## Get event info <a id="get-info"></a>
 
 `/:collectiveSlug/events/:eventSlug.json`
 
@@ -79,7 +79,7 @@ Notes:
 * `url` is the url of the page of the event on opencollective.com
 * `attendees` is the url to get the list of attendees in JSON
 
-### Get list of attendees <a id="get-list-of-attendees"></a>
+## Get list of attendees <a id="get-list-of-attendees"></a>
 
 `/:collectiveSlug/events/:eventSlug/attendees.json`
 

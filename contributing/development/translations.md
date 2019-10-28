@@ -121,7 +121,6 @@ For VSCode users, you can use the following snippet to make your life easier:
     "description": "Put the given string in a FormattedMessage"
   }
 }
-
 ```
 
 ## Add a new language
@@ -130,7 +129,7 @@ For VSCode users, you can use the following snippet to make your life easier:
 
 * Go to [https://crowdin.com/project/opencollective/settings\#translations](https://crowdin.com/project/opencollective/settings#translations), click on `Target languages` pick the language and click `Update` 
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/contributing/.gitbook/assets/image%20%287%29.png)
 
 * Language is ready for translation!
 

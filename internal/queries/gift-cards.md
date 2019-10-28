@@ -1,6 +1,6 @@
 # Gift Cards
 
-### Gift cards created and claims per month
+## Gift cards created and claims per month
 
 ```text
 SELECT 
@@ -18,9 +18,7 @@ WHERE pm.service='opencollective'
 GROUP by month
 ```
 
-###  
-
-### Total amount donated using gift cards by issuer and currency
+## Total amount donated using gift cards by issuer and currency
 
 ```text
 SELECT max(spmc.slug) as "gift card issuer", sum(amount) / 100 as "totalAmount", t.currency
@@ -35,9 +33,7 @@ WHERE t.type = 'CREDIT'
 GROUP BY spm."CollectiveId", t.currency
 ```
 
-
-
-### Total number of Github contributors reached
+## Total number of Github contributors reached
 
 This query will show a company how many unique contributors are participating to projects they have donated to through gift cards. Useful for companies that are donating to open-source as a way to promote their services to developers.
 

@@ -6,17 +6,17 @@
 
 ```text
 SELECT 
-	to_char(date_trunc('month', t."createdAt"), 'YYYY-mm') as "month", 
-	COUNT(DISTINCT(t."HostCollectiveId")) as "activeHosts", 
-	COUNT(DISTINCT(t."CollectiveId")) as "activeCollectives",
-	COUNT(DISTINCT(t."FromCollectiveId")) as "activeBackers"
+    to_char(date_trunc('month', t."createdAt"), 'YYYY-mm') as "month", 
+    COUNT(DISTINCT(t."HostCollectiveId")) as "activeHosts", 
+    COUNT(DISTINCT(t."CollectiveId")) as "activeCollectives",
+    COUNT(DISTINCT(t."FromCollectiveId")) as "activeBackers"
 FROM "Transactions" t
 
 LEFT JOIN "Collectives" c On (t."CollectiveId" = c.id AND c.type LIKE 'COLLECTIVE')
 
 WHERE t."deletedAt" IS NULL AND ((t."OrderId" IS NOT NULL AND t.type LIKE 'CREDIT') 
-	OR (t."ExpenseId" IS NOT NULL AND t.type LIKE 'DEBIT')) AND
-	t."createdAt" BETWEEN '2016/01/01' AND '2019/01/01'
+    OR (t."ExpenseId" IS NOT NULL AND t.type LIKE 'DEBIT')) AND
+    t."createdAt" BETWEEN '2016/01/01' AND '2019/01/01'
 GROUP BY "month" ORDER BY "month"
 ```
 
@@ -24,33 +24,33 @@ per year with total donations and platform fees per currency \(USD and EUR\):
 
 ```text
 SELECT 
-	to_char(date_trunc('year', t."createdAt"), 'YYYY') as "year", 
-	COUNT(DISTINCT(t."HostCollectiveId")) as "activeHosts", 
-	COUNT(DISTINCT(t."CollectiveId")) as "activeCollectives",
-	COUNT(DISTINCT(t."FromCollectiveId")) as "activeBackers",
-	SUM(
-	CASE WHEN t."OrderId" IS NOT NULL AND t.type='CREDIT' AND t.currency = 'USD' THEN t.amount / 100
-	END
-	) as "totalDonations (USD)",
-	SUM(
-	CASE WHEN t."OrderId" IS NOT NULL AND t.type='CREDIT' AND t.currency = 'EUR' THEN t.amount / 100
-	END
-	) as "totalDonations (EUR)",
-	SUM(
-	CASE WHEN t."OrderId" IS NOT NULL AND t.type='CREDIT' AND t.currency = 'USD' THEN -t."platformFeeInHostCurrency" / 100
-	END
-	) as "Platform fee (USD)",
-	SUM(
-	CASE WHEN t."OrderId" IS NOT NULL AND t.type='CREDIT' AND t.currency = 'EUR' THEN -t."platformFeeInHostCurrency" / 100
-	END
-	) as "Platform fee (EUR)"
+    to_char(date_trunc('year', t."createdAt"), 'YYYY') as "year", 
+    COUNT(DISTINCT(t."HostCollectiveId")) as "activeHosts", 
+    COUNT(DISTINCT(t."CollectiveId")) as "activeCollectives",
+    COUNT(DISTINCT(t."FromCollectiveId")) as "activeBackers",
+    SUM(
+    CASE WHEN t."OrderId" IS NOT NULL AND t.type='CREDIT' AND t.currency = 'USD' THEN t.amount / 100
+    END
+    ) as "totalDonations (USD)",
+    SUM(
+    CASE WHEN t."OrderId" IS NOT NULL AND t.type='CREDIT' AND t.currency = 'EUR' THEN t.amount / 100
+    END
+    ) as "totalDonations (EUR)",
+    SUM(
+    CASE WHEN t."OrderId" IS NOT NULL AND t.type='CREDIT' AND t.currency = 'USD' THEN -t."platformFeeInHostCurrency" / 100
+    END
+    ) as "Platform fee (USD)",
+    SUM(
+    CASE WHEN t."OrderId" IS NOT NULL AND t.type='CREDIT' AND t.currency = 'EUR' THEN -t."platformFeeInHostCurrency" / 100
+    END
+    ) as "Platform fee (EUR)"
 FROM "Transactions" t
 
 LEFT JOIN "Collectives" c On (t."CollectiveId" = c.id AND c.type LIKE 'COLLECTIVE')
 
 WHERE t."deletedAt" IS NULL
 AND ((t."OrderId" IS NOT NULL AND t.type LIKE 'CREDIT') 
-	OR (t."ExpenseId" IS NOT NULL AND t.type LIKE 'DEBIT'))
+    OR (t."ExpenseId" IS NOT NULL AND t.type LIKE 'DEBIT'))
 GROUP BY "year" ORDER BY "year"
 ```
 
@@ -58,13 +58,13 @@ GROUP BY "year" ORDER BY "year"
 
 ```text
 select 
-	date_trunc('month', t."createdAt") as "month", 
-	count(distinct("FromCollectiveId")) 
+    date_trunc('month', t."createdAt") as "month", 
+    count(distinct("FromCollectiveId")) 
 from "Transactions" t
 
 where "deletedAt" is null 
-	and "FromCollectiveId" != "HostCollectiveId" 
-	and type ilike 'credit'
+    and "FromCollectiveId" != "HostCollectiveId" 
+    and type ilike 'credit'
 GROUP BY "month" ORDER BY "month"
 ```
 
@@ -72,7 +72,7 @@ GROUP BY "month" ORDER BY "month"
 
 ```text
 select 
-	count(distinct("FromCollectiveId"))
+    count(distinct("FromCollectiveId"))
 
 from "Transactions" t
 
@@ -85,78 +85,78 @@ For all the collectives created in a given month, how many of them are still act
 
 ```text
 WITH "collectivesCreated" as (
-	SELECT 
-		c."createdAt" as "createdAt", 
-		c.slug, 
-		min(t."createdAt") as "firstTransaction", 
-		max(t."createdAt") as "latestTransaction", 
-		EXTRACT(day from (min(t."createdAt") - c."createdAt")) as "daysToFirstTransaction",
-		EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) as "activeDays",
-		
-		CASE 
-    		WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) >= 7 THEN 1
-    		WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) < 7 THEN 0
-    		WHEN min(t."createdAt") IS NULL THEN 0
-		END as "active7",
-		
-		CASE 
-    		WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) >= 14 THEN 1
-    		WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) < 14 THEN 0
-    		WHEN min(t."createdAt") IS NULL THEN 0
-		END as "active14",
-		
-		CASE 
-    		WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) >= 30 THEN 1
-    		WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) < 30 THEN 0
-    		WHEN min(t."createdAt") IS NULL THEN 0
-		END as "active30",
-		
-		CASE 
-    		WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) >= 60 THEN 1
-    		WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) < 60 THEN 0
-    		WHEN min(t."createdAt") IS NULL THEN 0
-		END as "active60",
+    SELECT 
+        c."createdAt" as "createdAt", 
+        c.slug, 
+        min(t."createdAt") as "firstTransaction", 
+        max(t."createdAt") as "latestTransaction", 
+        EXTRACT(day from (min(t."createdAt") - c."createdAt")) as "daysToFirstTransaction",
+        EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) as "activeDays",
 
-		CASE 
-    		WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) >= 90 THEN 1
-    		WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) < 90 THEN 0
-    		WHEN min(t."createdAt") IS NULL THEN 0
-		END as "active90",
+        CASE 
+            WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) >= 7 THEN 1
+            WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) < 7 THEN 0
+            WHEN min(t."createdAt") IS NULL THEN 0
+        END as "active7",
 
-		CASE 
-    		WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) >= 180 THEN 1
-    		WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) < 180 THEN 0
-    		WHEN min(t."createdAt") IS NULL THEN 0
-		END as "active180",
+        CASE 
+            WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) >= 14 THEN 1
+            WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) < 14 THEN 0
+            WHEN min(t."createdAt") IS NULL THEN 0
+        END as "active14",
 
-		CASE 
-    		WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) >= 365 THEN 1
-    		WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) < 365 THEN 0
-    		WHEN min(t."createdAt") IS NULL THEN 0
-		END as "active365"
-		
-	FROM "Collectives" c 
-	LEFT JOIN "Transactions" t ON (c.id=t."CollectiveId" and t."createdAt" < '2018-02-01')
-	WHERE c.type ilike 'collective'
-	GROUP BY c.id)
-	
+        CASE 
+            WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) >= 30 THEN 1
+            WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) < 30 THEN 0
+            WHEN min(t."createdAt") IS NULL THEN 0
+        END as "active30",
+
+        CASE 
+            WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) >= 60 THEN 1
+            WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) < 60 THEN 0
+            WHEN min(t."createdAt") IS NULL THEN 0
+        END as "active60",
+
+        CASE 
+            WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) >= 90 THEN 1
+            WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) < 90 THEN 0
+            WHEN min(t."createdAt") IS NULL THEN 0
+        END as "active90",
+
+        CASE 
+            WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) >= 180 THEN 1
+            WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) < 180 THEN 0
+            WHEN min(t."createdAt") IS NULL THEN 0
+        END as "active180",
+
+        CASE 
+            WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) >= 365 THEN 1
+            WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) < 365 THEN 0
+            WHEN min(t."createdAt") IS NULL THEN 0
+        END as "active365"
+
+    FROM "Collectives" c 
+    LEFT JOIN "Transactions" t ON (c.id=t."CollectiveId" and t."createdAt" < '2018-02-01')
+    WHERE c.type ilike 'collective'
+    GROUP BY c.id)
+
 SELECT 
-	to_char("createdAt", 'YYYY-mm') as "month", 
-	count(*) as "totalCollectivesCreated", 
-	SUM(active7) as "active7days",
-	SUM(active14) as "active14days",
-	SUM(active30) as "active30days",
-	SUM(active60) as "active60days",
-	SUM(active90) as "active90days",
-	SUM(active180) as "active180days",
-	SUM(active365) as "active365days",
-	ROUND((SUM(active7)::FLOAT::numeric/count(*)::FLOAT::numeric),3) AS "percent7days",
-	ROUND((SUM(active14)::FLOAT::numeric/count(*)::FLOAT::numeric),3) AS "percent14days",
-	ROUND((SUM(active30)::FLOAT::numeric/count(*)::FLOAT::numeric),3) AS "percent30days",
-	ROUND((SUM(active60)::FLOAT::numeric/count(*)::FLOAT::numeric),3) AS "percent60days",
-	ROUND((SUM(active90)::FLOAT::numeric/count(*)::FLOAT::numeric),3) AS "percent90days",
-	ROUND((SUM(active180)::FLOAT::numeric/count(*)::FLOAT::numeric),3) AS "percent180days",
-	ROUND((SUM(active365)::FLOAT::numeric/count(*)::FLOAT::numeric),3) AS "percent365days"
+    to_char("createdAt", 'YYYY-mm') as "month", 
+    count(*) as "totalCollectivesCreated", 
+    SUM(active7) as "active7days",
+    SUM(active14) as "active14days",
+    SUM(active30) as "active30days",
+    SUM(active60) as "active60days",
+    SUM(active90) as "active90days",
+    SUM(active180) as "active180days",
+    SUM(active365) as "active365days",
+    ROUND((SUM(active7)::FLOAT::numeric/count(*)::FLOAT::numeric),3) AS "percent7days",
+    ROUND((SUM(active14)::FLOAT::numeric/count(*)::FLOAT::numeric),3) AS "percent14days",
+    ROUND((SUM(active30)::FLOAT::numeric/count(*)::FLOAT::numeric),3) AS "percent30days",
+    ROUND((SUM(active60)::FLOAT::numeric/count(*)::FLOAT::numeric),3) AS "percent60days",
+    ROUND((SUM(active90)::FLOAT::numeric/count(*)::FLOAT::numeric),3) AS "percent90days",
+    ROUND((SUM(active180)::FLOAT::numeric/count(*)::FLOAT::numeric),3) AS "percent180days",
+    ROUND((SUM(active365)::FLOAT::numeric/count(*)::FLOAT::numeric),3) AS "percent365days"
 
 FROM "collectivesCreated" 
 GROUP BY month ORDER BY month NULLS FIRST
@@ -168,62 +168,62 @@ For all the collectives created in a given month, how many of them are still act
 
 ```text
 WITH "collectivesCreated" as (
-	SELECT 
-		c."createdAt" as "createdAt", 
-		c.slug, 
-		min(t."createdAt") as "firstTransaction", 
-		max(t."createdAt") as "latestTransaction", 
-		EXTRACT(day from (min(t."createdAt") - c."createdAt")) as "daysToFirstTransaction",
-		EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) as "activeDays",
-		
-		CASE 
-    		WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) >= 7 THEN 1
-    		WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) < 7 THEN 0
-    		WHEN min(t."createdAt") IS NULL THEN 0
-		END as "active7",
-		
-		CASE 
-    		WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) >= 14 THEN 1
-    		WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) < 14 THEN 0
-    		WHEN min(t."createdAt") IS NULL THEN 0
-		END as "active14",
-		
-		CASE 
-    		WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) >= 30 THEN 1
-    		WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) < 30 THEN 0
-    		WHEN min(t."createdAt") IS NULL THEN 0
-		END as "active30",
-		
-		CASE 
-    		WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) >= 60 THEN 1
-    		WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) < 60 THEN 0
-    		WHEN min(t."createdAt") IS NULL THEN 0
-		END as "active60",
+    SELECT 
+        c."createdAt" as "createdAt", 
+        c.slug, 
+        min(t."createdAt") as "firstTransaction", 
+        max(t."createdAt") as "latestTransaction", 
+        EXTRACT(day from (min(t."createdAt") - c."createdAt")) as "daysToFirstTransaction",
+        EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) as "activeDays",
 
-		CASE 
-    		WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) >= 90 THEN 1
-    		WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) < 90 THEN 0
-    		WHEN min(t."createdAt") IS NULL THEN 0
-		END as "active90"
+        CASE 
+            WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) >= 7 THEN 1
+            WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) < 7 THEN 0
+            WHEN min(t."createdAt") IS NULL THEN 0
+        END as "active7",
 
-	FROM "Collectives" c 
-	LEFT JOIN "Transactions" t ON (c.id=t."CollectiveId" and t."ExpenseId" is not null and t."createdAt" < '2018-02-01')
-	WHERE c.type ilike 'collective'
-	GROUP BY c.id)
-	
+        CASE 
+            WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) >= 14 THEN 1
+            WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) < 14 THEN 0
+            WHEN min(t."createdAt") IS NULL THEN 0
+        END as "active14",
+
+        CASE 
+            WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) >= 30 THEN 1
+            WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) < 30 THEN 0
+            WHEN min(t."createdAt") IS NULL THEN 0
+        END as "active30",
+
+        CASE 
+            WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) >= 60 THEN 1
+            WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) < 60 THEN 0
+            WHEN min(t."createdAt") IS NULL THEN 0
+        END as "active60",
+
+        CASE 
+            WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) >= 90 THEN 1
+            WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) < 90 THEN 0
+            WHEN min(t."createdAt") IS NULL THEN 0
+        END as "active90"
+
+    FROM "Collectives" c 
+    LEFT JOIN "Transactions" t ON (c.id=t."CollectiveId" and t."ExpenseId" is not null and t."createdAt" < '2018-02-01')
+    WHERE c.type ilike 'collective'
+    GROUP BY c.id)
+
 SELECT 
-	to_char("createdAt", 'YYYY-mm') as "month", 
-	count(*) as "totalCollectivesCreated", 
-	SUM(active7) as "active7days",
-	SUM(active14) as "active14days",
-	SUM(active30) as "active30days",
-	SUM(active60) as "active60days",
-	SUM(active90) as "active90days",
-	ROUND((SUM(active7)::FLOAT::numeric/count(*)::FLOAT::numeric),3) AS "percent7days",
-	ROUND((SUM(active14)::FLOAT::numeric/count(*)::FLOAT::numeric),3) AS "percent14days",
-	ROUND((SUM(active30)::FLOAT::numeric/count(*)::FLOAT::numeric),3) AS "percent30days",
-	ROUND((SUM(active60)::FLOAT::numeric/count(*)::FLOAT::numeric),3) AS "percent60days",
-	ROUND((SUM(active90)::FLOAT::numeric/count(*)::FLOAT::numeric),3) AS "percent90days"
+    to_char("createdAt", 'YYYY-mm') as "month", 
+    count(*) as "totalCollectivesCreated", 
+    SUM(active7) as "active7days",
+    SUM(active14) as "active14days",
+    SUM(active30) as "active30days",
+    SUM(active60) as "active60days",
+    SUM(active90) as "active90days",
+    ROUND((SUM(active7)::FLOAT::numeric/count(*)::FLOAT::numeric),3) AS "percent7days",
+    ROUND((SUM(active14)::FLOAT::numeric/count(*)::FLOAT::numeric),3) AS "percent14days",
+    ROUND((SUM(active30)::FLOAT::numeric/count(*)::FLOAT::numeric),3) AS "percent30days",
+    ROUND((SUM(active60)::FLOAT::numeric/count(*)::FLOAT::numeric),3) AS "percent60days",
+    ROUND((SUM(active90)::FLOAT::numeric/count(*)::FLOAT::numeric),3) AS "percent90days"
 
 FROM "collectivesCreated" 
 GROUP BY month ORDER BY month NULLS FIRST
@@ -234,60 +234,59 @@ GROUP BY month ORDER BY month NULLS FIRST
 For all the monthly subscriptions that started in a given month, how many are still active after 3 months?
 
 ```text
-
 WITH "activeSubscriptions" as (
-	SELECT 
-		s."createdAt" as "createdAt", 
-		min(t."createdAt") as "firstTransaction", 
-		max(t."createdAt") as "latestTransaction", 
-		EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) as "activeDays",
-	
-		CASE 
-		    WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) >= 90 THEN 1
-		    WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) < 90 THEN 0
-		END as "active90",
-		
-		CASE 
-		    WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) >= 60 THEN 1
-		    WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) < 60 THEN 0
-		END as "active60",
-		
-		CASE
-			WHEN (max(fc.type) ilike 'user') THEN 1
-			ELSE 0
-		END as "isUser",
-		
-		CASE
-			WHEN (max(fc.type) ilike 'organization') THEN 1
-			ELSE 0
-		END as "isOrg"
-	
-	FROM "Transactions" t 
-	
-	LEFT JOIN "Orders" d ON (d.id=t."OrderId" and t."createdAt" < '2018-03-01') 
-	LEFT JOIN "Subscriptions" s ON s.id=d."SubscriptionId" 
-	LEFT JOIN "Collectives" fc on fc.id = d."FromCollectiveId"
-	
-	WHERE s.interval = 'month'
-	GROUP BY s.id
+    SELECT 
+        s."createdAt" as "createdAt", 
+        min(t."createdAt") as "firstTransaction", 
+        max(t."createdAt") as "latestTransaction", 
+        EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) as "activeDays",
+
+        CASE 
+            WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) >= 90 THEN 1
+            WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) < 90 THEN 0
+        END as "active90",
+
+        CASE 
+            WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) >= 60 THEN 1
+            WHEN EXTRACT(day from (max(t."createdAt") - min(t."createdAt"))) < 60 THEN 0
+        END as "active60",
+
+        CASE
+            WHEN (max(fc.type) ilike 'user') THEN 1
+            ELSE 0
+        END as "isUser",
+
+        CASE
+            WHEN (max(fc.type) ilike 'organization') THEN 1
+            ELSE 0
+        END as "isOrg"
+
+    FROM "Transactions" t 
+
+    LEFT JOIN "Orders" d ON (d.id=t."OrderId" and t."createdAt" < '2018-03-01') 
+    LEFT JOIN "Subscriptions" s ON s.id=d."SubscriptionId" 
+    LEFT JOIN "Collectives" fc on fc.id = d."FromCollectiveId"
+
+    WHERE s.interval = 'month'
+    GROUP BY s.id
 )
 
 SELECT 
-	to_char("createdAt", 'YYYY-mm') as "month", 
-	/* total subscription counts */
-	count(*) as "totalSubscriptionsCreated",
-	SUM("isUser") as "totalSubscriptionsCreatedByUsers",
-	SUM("isOrg") as "totalSubscriptionsCreatedByOrgs",
-	
-	/* 60-day subscription calcs */
-	SUM(active60) as "totalActiveAfter60days",  
-	SUM(active60 * "isUser") as "totalActiveByUsersAfter60days",
-	SUM(active60 * "isOrg") as "totalActiveByOrgsAfter60days",
-	
-	/* 90-day subscription calcs */
-	SUM(active90) as "totalActiveAfter90days",
-	SUM(active90 * "isUser") as "totalActiveByUsersAfter90days",
-	SUM(active90 * "isOrg") as "totalActiveByOrgsAfter90days"	
+    to_char("createdAt", 'YYYY-mm') as "month", 
+    /* total subscription counts */
+    count(*) as "totalSubscriptionsCreated",
+    SUM("isUser") as "totalSubscriptionsCreatedByUsers",
+    SUM("isOrg") as "totalSubscriptionsCreatedByOrgs",
+
+    /* 60-day subscription calcs */
+    SUM(active60) as "totalActiveAfter60days",  
+    SUM(active60 * "isUser") as "totalActiveByUsersAfter60days",
+    SUM(active60 * "isOrg") as "totalActiveByOrgsAfter60days",
+
+    /* 90-day subscription calcs */
+    SUM(active90) as "totalActiveAfter90days",
+    SUM(active90 * "isUser") as "totalActiveByUsersAfter90days",
+    SUM(active90 * "isOrg") as "totalActiveByOrgsAfter90days"    
 FROM "activeSubscriptions" GROUP BY month ORDER BY month
 ```
 
@@ -301,9 +300,9 @@ left join "Subscriptions" s on s.id = o."SubscriptionId"
 where o."processedAt" is not null and o."SubscriptionId" is not null and o."deletedAt" is null and s."deletedAt" is null and s."activatedAt" is not null)
 
 select 
-	to_char("activatedAt", 'YYYY-mm') as "month", /* change to "deactivatedAt" to get deactivated count */
-	count(*) as "subsCount"
-	
+    to_char("activatedAt", 'YYYY-mm') as "month", /* change to "deactivatedAt" to get deactivated count */
+    count(*) as "subsCount"
+
 from subs
 
 Group by "month" order by "month"
@@ -373,22 +372,22 @@ WHERE t."createdAt" > '2018-05-01'
 
 ```text
 select
-	to_char(t."createdAt", 'YYYY-mm') as "month",
-	sum(t.amount)/100 as amount,
-	max(t.currency) as currency,
-	c.slug as "fromCollective"
+    to_char(t."createdAt", 'YYYY-mm') as "month",
+    sum(t.amount)/100 as amount,
+    max(t.currency) as currency,
+    c.slug as "fromCollective"
 
 from "Transactions" t
 inner join "Collectives" c on c.id = t."FromCollectiveId"
 
 where
-	amount > 0 and
-	"CollectiveId" != 1 and
-	t."platformFeeInHostCurrency" < 0 and
-	t."deletedAt" IS NULL and
-	((t."OrderId" IS NOT NULL AND t.type LIKE 'CREDIT')
-	OR (t."ExpenseId" IS NOT NULL AND t.type LIKE 'DEBIT'))
-	AND c.type ilike 'organization'
+    amount > 0 and
+    "CollectiveId" != 1 and
+    t."platformFeeInHostCurrency" < 0 and
+    t."deletedAt" IS NULL and
+    ((t."OrderId" IS NOT NULL AND t.type LIKE 'CREDIT')
+    OR (t."ExpenseId" IS NOT NULL AND t.type LIKE 'DEBIT'))
+    AND c.type ilike 'organization'
     AND ((t."RefundTransactionId" IS NOT NULL AND
           t."data"->'refund' IS NULL AND
           t.type = 'CREDIT') OR t."RefundTransactionId" IS NULL)
@@ -465,21 +464,21 @@ having coalesce(sum(t.amount), 0) > 100;
 
 ```text
 select 
-	to_char(t."createdAt", 'YYYY-mm') as "month",
-	sum(t.amount)/100 as amount,
-	max(t.currency) as currency,
-	c.slug as "collective"
+    to_char(t."createdAt", 'YYYY-mm') as "month",
+    sum(t.amount)/100 as amount,
+    max(t.currency) as currency,
+    c.slug as "collective"
 
 from "Transactions" t
 inner join "Collectives" c on c.id = t."CollectiveId"
 
 where 
-	amount > 0 and 
-	"CollectiveId" != 1 and
-	t."platformFeeInHostCurrency" < 0 and
-	t."deletedAt" IS NULL and
-	((t."OrderId" IS NOT NULL AND t.type LIKE 'CREDIT') 
-	OR (t."ExpenseId" IS NOT NULL AND t.type LIKE 'DEBIT'))
+    amount > 0 and 
+    "CollectiveId" != 1 and
+    t."platformFeeInHostCurrency" < 0 and
+    t."deletedAt" IS NULL and
+    ((t."OrderId" IS NOT NULL AND t.type LIKE 'CREDIT') 
+    OR (t."ExpenseId" IS NOT NULL AND t.type LIKE 'DEBIT'))
 
 
 group by c.slug, "month"
@@ -490,11 +489,11 @@ order by c.slug
 
 ```text
 SELECT 
-	to_char(date_trunc('week', c."createdAt"), 'YYYY-mm-dd') as "month",
-	count(*) filter (where tags::text ilike '%open source%') as "newOpenSourceCollectives",
-	count(*) filter (where tags::text ilike '%tech meetup%') as "newTechMeetups",
-	count(*) filter (where ((tags::text not ilike '%open source%' AND tags::text not ilike '%tech meetup%') OR tags is null)) as "newOtherCollectives",
-	COUNT(*) as "totalNewCollectives"
+    to_char(date_trunc('week', c."createdAt"), 'YYYY-mm-dd') as "month",
+    count(*) filter (where tags::text ilike '%open source%') as "newOpenSourceCollectives",
+    count(*) filter (where tags::text ilike '%tech meetup%') as "newTechMeetups",
+    count(*) filter (where ((tags::text not ilike '%open source%' AND tags::text not ilike '%tech meetup%') OR tags is null)) as "newOtherCollectives",
+    COUNT(*) as "totalNewCollectives"
 FROM "Collectives" c
 
 WHERE c.type ilike 'collective' and "createdAt" is not null and "createdAt" > '2016-01-01'
@@ -843,8 +842,8 @@ select
     sum("amount") as "origAmount",
     date_trunc('month', "createdAt") as "givenMonth",
     case 
-    	when "SubscriptionId" is Null THEN false
-    	else true
+        when "SubscriptionId" is Null THEN false
+        else true
     end as "recurring"
  from "Transactions"
  where "type" = 'DONATION' and "PaymentMethodId" is NOT NULL
@@ -859,16 +858,16 @@ Note: it doesn't include expenses \(yet\).
 
 ```text
 select 
-	t."GroupId",
-	g."name",
-	t."txnCurrency",
-	sum(t."amount") as "origAmount",
-	date_trunc('month', t."createdAt") as "givenMonth",
-	cast(sum(t."platformFeeInTxnCurrency") as FLOAT)/100 as "platformFee",
-	cast(sum(t."hostFeeInTxnCurrency") AS FLOAT)/100 as "hostFee",
-	cast(sum(t."paymentProcessorFeeInTxnCurrency") AS FLOAT)/100 as "stripeFee",
-	cast(sum(t."amountInTxnCurrency") as FLOAT)/100 as "totalDonationsInTxnCurrency",
-	count(t."id") as "numDonations"
+    t."GroupId",
+    g."name",
+    t."txnCurrency",
+    sum(t."amount") as "origAmount",
+    date_trunc('month', t."createdAt") as "givenMonth",
+    cast(sum(t."platformFeeInTxnCurrency") as FLOAT)/100 as "platformFee",
+    cast(sum(t."hostFeeInTxnCurrency") AS FLOAT)/100 as "hostFee",
+    cast(sum(t."paymentProcessorFeeInTxnCurrency") AS FLOAT)/100 as "stripeFee",
+    cast(sum(t."amountInTxnCurrency") as FLOAT)/100 as "totalDonationsInTxnCurrency",
+    count(t."id") as "numDonations"
 from "Transactions" t
 LEFT JOIN "Groups" g on t."GroupId" = g."id"
 where "type" = 'DONATION' and "txnCurrency" IS NOT NULL and "PaymentMethodId" is NOT NULL
@@ -907,14 +906,14 @@ Change UserId to other hosts to find out for anyone else.
 
 ```text
 select  
-	cast(COALESCE(sum(t."netAmountInGroupCurrency"), 0) as float)/100 as "hostBalance"
+    cast(COALESCE(sum(t."netAmountInGroupCurrency"), 0) as float)/100 as "hostBalance"
 from "UserGroups" ug
 left join "Transactions" t on t."GroupId" = ug."GroupId"
 
 where (ug."UserId" = 40 or ug."UserId" = 772)
-	and ug.role like 'HOST' 
-	and ug."GroupId" not in (1, 7, 34) /* remove opencollective, tipbox and ispcwa (because it's negative) */
-	and t."deletedAt" is null
+    and ug.role like 'HOST' 
+    and ug."GroupId" not in (1, 7, 34) /* remove opencollective, tipbox and ispcwa (because it's negative) */
+    and t."deletedAt" is null
 ```
 
 #### Estimate how many subscriptions are marked active but haven't had a transaction in last 30 days

@@ -2,11 +2,11 @@
 
 ## Open Collective Design
 
-![](../.gitbook/assets/b1.-banner-1.png)
+![](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/contributing/.gitbook/assets/b1.-banner-1.png)
 
 ### What is Open Collective Design?
 
-Open Collective Design is a collective of its own that aims for the decentralization of the design solutions and its production process, inside Open Collective platform and in the real world. The Collective needs, first and foremost, to deliver the design solutions that the company and any of its other initiatives require in a fast-paced, iterative way. Second, this process will open gradually, following a strategy that fosters the integration of people in the community and the interaction between them and the platform. 
+Open Collective Design is a collective of its own that aims for the decentralization of the design solutions and its production process, inside Open Collective platform and in the real world. The Collective needs, first and foremost, to deliver the design solutions that the company and any of its other initiatives require in a fast-paced, iterative way. Second, this process will open gradually, following a strategy that fosters the integration of people in the community and the interaction between them and the platform.
 
 We believe that good ideas are, especially inside the design realm, the result of a series of interactions between other ideas. The implementation of this model will be the cornerstone of the design process itself.
 
@@ -14,7 +14,7 @@ We believe that good ideas are, especially inside the design realm, the result o
 
 **Lead all the design efforts intended to serve the organization or any of its branches.**
 
-Thus, Open Collective Design  particularly engage in design-related tasks such as:
+Thus, Open Collective Design particularly engage in design-related tasks such as:
 
 • Provide high-quality design solutions that help collectives raise donations more effectively.
 
