@@ -18,7 +18,7 @@ Our REST API is still supported but we're not working on it anymore.
   * Get members
   * Get members per tier
   * Get transactions from collective
-* [Events](../../collectives/events.md)
+* [Events]()
   * List events
   * Get event info
   * Get list of attendees

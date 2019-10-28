@@ -20,13 +20,13 @@ You can also find dependencies using [Back Your Stack](https://backyourstack.com
 
 Right now we only support credit card payments via Stripe through the platform. It is possible to pay by other means, such as bank transfer or Paypal, by special agreement with a Collective and their [Fiscal Host](../hosts/).
 
-### Are my donations tax deductible? 
+### Are my donations tax deductible?
 
 It depends on the [fiscal host ](../hosts/)of the Collective. If the host has tax-exempt status, then your donation can be tax deductible. It also may matter which country the host is in, if your country only allows tax exemptions for domestic transactions.
 
 The Open Source Collective 501\(c\)\(6\) is a non-profit that serves as fiscal host to most open source software projects on Open Collective. **Donations to Collectives under the Open Source Collective 501\(c\)\(6\) are not tax deductible.**
 
-Unfortunately, the IRS does not consider producing open source software to be a charitable activity in and of itself, and therefore does not grant tax exempt status. Also, the Open Source Collective hosts projects around the world, and the US only grants tax deductible status to explicitly US-focused entities.  
+Unfortunately, the IRS does not consider producing open source software to be a charitable activity in and of itself, and therefore does not grant tax exempt status. Also, the Open Source Collective hosts projects around the world, and the US only grants tax deductible status to explicitly US-focused entities.
 
 In contrast, the Open Collective Foundation 501\(c\)\(3\), which is home to many open-source related groups primarily focused on education, outreach, and social impact, does qualify for tax-exempt status. If you donate to a Collective under that host, it's tax deductible in the US.
 
@@ -40,7 +40,7 @@ Yes. To do so, go to 'edit profile' and fill in the address field. You can also 
 
 If both Collectives are in the same [fiscal host](../hosts/), you can donate using the balance of a Collective. For example, most open source projects are hosted by the Open Source Collectives, so they can give to each other.
 
-To make a Collective-to-Collective donation, go to the page of the Collective and select your contribution amount. You will be given the option to donate from any Collective you are a core contributor of. 
+To make a Collective-to-Collective donation, go to the page of the Collective and select your contribution amount. You will be given the option to donate from any Collective you are a core contributor of.
 
 ![](../.gitbook/assets/image-2.png)
 

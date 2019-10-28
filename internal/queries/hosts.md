@@ -16,8 +16,6 @@ GROUP BY month
 ORDER BY month DESC
 ```
 
-##  
-
 ## Backers
 
 Top backers within a certain time frame. Example with the host "Open Source Collective 501c6" \(id: 11004\) for 2018:
@@ -37,8 +35,6 @@ WHERE t.type='CREDIT'
 GROUP BY t.currency, t."FromCollectiveId"
 ORDER BY amount DESC
 ```
-
-##  
 
 ## Expenses
 
@@ -72,8 +68,6 @@ LEFT JOIN balances b ON b."CollectiveId" = e."CollectiveId"
 WHERE e.status IN ('PENDING', 'APPROVED') AND e."deletedAt" IS NULL
 ```
 
-###  
-
 ### Get the breakdown of host fees per collective
 
 ```text
@@ -82,8 +76,6 @@ FROM "Transactions" t LEFT JOIN "Collectives" c ON c.id=t."CollectiveId"
 WHERE t.type='CREDIT' AND c."HostCollectiveId" = 9802 AND t."createdAt" < '2018-01-01'
 GROUP BY c.slug ORDER by "totalHostFeesInCents" DESC
 ```
-
-###  
 
 ### US taxes: 1099
 
@@ -98,7 +90,7 @@ WITH "totalExpenses" AS (
   AND e.status = 'PAID'
   GROUP BY "UserId"
  )
- 
+
 SELECT g.slug, u.username, u."firstName", u."lastName", u."email", e.title, e.category, (e.amount/100) as amount, e.currency, e.attachment
 FROM "Expenses" e 
 LEFT JOIN "totalExpenses" te ON te."UserId" = e."UserId"
@@ -111,8 +103,6 @@ AND e.category IN ('Office', 'Engineering', 'Other')
 AND u.username NOT IN ('xdamman', 'piamancini')
 ORDER BY u.id
 ```
-
-###  
 
 ### Hosts and collectives with currency mismatch
 

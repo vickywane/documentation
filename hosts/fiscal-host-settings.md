@@ -37,7 +37,7 @@ We recommend including:
 * An invoice template \([example](https://docs.google.com/document/d/1ROQA11PaYjGtcie-1Ut8cFV5LCISKipSu8sgsY5U7vw/copy)\)
 * Information on where to go for help with expenses
 
-_**Note:**_ [_Collectives can also have an expense policy_](../collectives/expense-policy.md)_, which appears alongside the host policy. This is often focused on what kinds of activities the Collective will approve expenses for._
+_**Note:**_ [_Collectives can also have an expense policy_]()_, which appears alongside the host policy. This is often focused on what kinds of activities the Collective will approve expenses for._
 
 ### Payment Methods
 

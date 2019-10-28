@@ -23,7 +23,7 @@ To update them, go to 'edit Collective', and head to the 'Tiers' section.
 
 To add more, click the blue "add another tier" button.
 
-Don't forget to **save** your changes ****so they show up on your Collective page.
+Don't forget to **save** your changes _\*\*_so they show up on your Collective page.
 
 ## Support Tiers
 

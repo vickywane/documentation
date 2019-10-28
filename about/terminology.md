@@ -9,23 +9,23 @@ description: >-
 
 ## We are all individuals
 
-People are ****_**individuals**_**.** They can form _**entities**_ inside Open Collective, like Organizations and Collectives, which enable collaborative impact and define interactions between individuals.
+People are **\*\*\_**individuals**\_**. **They can form \_**entities\*\*\_ inside Open Collective, like Organizations and Collectives, which enable collaborative impact and define interactions between individuals.
 
 ## Entities & structure
 
 ![](../.gitbook/assets/2%20%282%29.png)
 
-### Individuals ![](../.gitbook/assets/individual.png)  
+### Individuals ![](../.gitbook/assets/individual.png)
 
 Human beings with names. An individual signs up to Open Collective with their email address. An individual can take on different roles throughout the platform.
 
-### Organizations ![](../.gitbook/assets/organization.png) __ 
+### Organizations ![](../.gitbook/assets/organization.png) \_\_
 
 An [Organization](../backers-and-sponsors/organizations.md) represents a company or legal entity in the world, with a shared identity, bank account, credit card, and resources. This is often how Sponsors engage on the platform.
 
 * _**Organization Admins:**_ ![](../.gitbook/assets/individual.png) Individual\(s\) who create and/or manage the Organization profile. They have rights to edit the settings of the Organization, set up financial contributions to Collectives, and set up gift cards, among other things.
 
-### Fiscal Hosts ![](../.gitbook/assets/fiscal-host.png) 
+### Fiscal Hosts ![](../.gitbook/assets/fiscal-host.png)
 
 A [Fiscal Host](../hosts/) is a type of Organization.
 
@@ -34,13 +34,13 @@ Fiscal hosting enables Collectives to transact financially without needing to le
 * _**Fiscal Host Admin:**_ ![](../.gitbook/assets/individual.png) Individual\(s\) who create and/or manage the Fiscal Host. They are responsible for approving new Collectives who want to join the host and paying out expenses approved by Collective admins.
 * Fiscal Host admins want tools and workflows to easily manage their tasks \(paying expenses and approving new Collectives\). They need to charge their fees and keep a useful accounting system. They are often the first point of contact for the Core Contributors of Collectives they host, and many are super-users.
 
-### Collectives ![](../.gitbook/assets/collective.png) 
+### Collectives ![](../.gitbook/assets/collective.png)
 
 The primary entity most representative of the basis of our platform. A Collective represents a project or group that has a mission or purpose in the world, which they raise and spend funds transparently to achieve.
 
 * _**Core Contributors:**_  ![](../.gitbook/assets/individual.png) Individuals who are major contributors and represent the Collective with their face on the Collective page as part of the team.
 * _**Collective Admins:**_ ![](../.gitbook/assets/individual.png) A type of Core Contributor with additional permissions, so they can edit the Collective, change settings, approve expenses, make financial contributions to other Collectives, and receive messages from people trying to contact the Collective.
-* Core Contributors want to make their communities sustainable financially, so receiving financial contributions is first on their priority list. They use tools like [tiers](../collectives/tiers-goals.md), [goals](), and [social media sharing](../collectives/integrations.md#twitter-integration). They are interested in managing and growing their communities by creating [events](../collectives/events.md) and [sending updates](../collectives/communication.md).
+* Core Contributors want to make their communities sustainable financially, so receiving financial contributions is first on their priority list. They use tools like [tiers](../collectives/tiers-goals.md), [goals](terminology.md), and [social media sharing](../collectives/integrations.md#twitter-integration). They are interested in managing and growing their communities by creating [events](../collectives/events.md) and [sending updates](../collectives/communication.md).
 
 #### Event Attendee
 
@@ -58,13 +58,13 @@ Individuals ![](../.gitbook/assets/individual.png) who register to attend a Coll
 
 ## Financial Contributors
 
-### **Organizational Financial Contributor** ![](../.gitbook/assets/organization.png) 
+### **Organizational Financial Contributor** ![](../.gitbook/assets/organization.png)
 
 A company that supports a Collective financially, often at a higher tier. This is often called sponsorship in practice, but can go by other names depending on the Collective's context, such as base supporters, members, etc.
 
 Sponsors often represent companies with accounting and reporting needs. They may want brand exposure, access to or goodwill from a community, tangible benefits like support, or help with their recruiting efforts.
 
-### **Individual Financial Contributor** ![](../.gitbook/assets/individual.png) 
+### **Individual Financial Contributor** ![](../.gitbook/assets/individual.png)
 
 Supports a Collective financially, with a repeating or one-off contribution.
 
@@ -89,15 +89,15 @@ An individual who requests payment from the Collective's budget using the [expen
 
 ## Non-financial Contributors
 
-### Fiscal Hosts ![](../.gitbook/assets/fiscal-host.png) 
+### Fiscal Hosts ![](../.gitbook/assets/fiscal-host.png)
 
 Supporting Collectives by providing the legal and financial infrastructure needed to accept money and make payments.
 
-### Code Contributors ![](../.gitbook/assets/individual.png) 
+### Code Contributors ![](../.gitbook/assets/individual.png)
 
 An individual can contribute with code \(software\) to an open source project with a Collective
 
-### Service Contributors ![](../.gitbook/assets/individual.png) 
+### Service Contributors ![](../.gitbook/assets/individual.png)
 
 An individual who contributes time or skills to a Collective's mission.
 
@@ -138,6 +138,4 @@ There are a lot of names and terms we have used in the past or that have common 
 * **Donate, back, support, join**, or any other synonym for financial contribution: Because different Collectives use different terms, the platform should not try to decide for them. Each community will have its own context. Therefore we have decided to stick with the words "contribute" and "contribution" and add the qualifier "financial" when it's through money.
 * **Subscription:** We used to call recurring financial contributions "subscriptions", but this proved problematic because most Collectives don't think of someone giving $5 a month as "subscribing" to them, and it's also easy to confuse with the concept of subscribing to Updates and getting emails. To emphasize our key action of "contribution" we call it "recurring financial contributions". We are aware this is too long, but we haven't come up with a better idea so far.
 * **Chapter:** Previously, we explored the idea of calling Open Collective branded fiscal hosts \(Open Collective Europe, Open Collective UK, etc\) "chapters". But this concept was not followed up and supported and using the word is confusing. These are simply Fiscal Hosts.
-
-
 

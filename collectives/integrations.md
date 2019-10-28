@@ -15,7 +15,7 @@ Otherwise feel free to open an issue on [https://github.com/opencollective/openc
 
 Connect your Twitter to automatically thank new backers who contribute to your Collective.
 
-Go to "edit Collective" &gt; "Connected Accounts" and click the "Connect Twitter" button. 
+Go to "edit Collective" &gt; "Connected Accounts" and click the "Connect Twitter" button.
 
 ![](../.gitbook/assets/connect-twitter.png)
 

@@ -22,8 +22,7 @@ The transactions view shows the budget lines, and you can filter by credits and 
 
 ### Download CSV
 
-Download CSV file from /transactions page inside your collective.  
-
+Download CSV file from /transactions page inside your collective.
 
 ![](https://paper-attachments.dropbox.com/s_D19E76E8026880734906183F5F67A13D8F5770AC8212DCC2B79CE9738C72C087_1565897884171_Annotation+on+2019-08-15+at+14-37-36.png)
 
@@ -41,8 +40,7 @@ Copy the transactions template into your Google Drive
 
 ### Go to RAW FILE tab
 
-Open the “RAW FILE” tab inside the file.  
-
+Open the “RAW FILE” tab inside the file.
 
 ![](https://paper-attachments.dropbox.com/s_D19E76E8026880734906183F5F67A13D8F5770AC8212DCC2B79CE9738C72C087_1565898315516_Screen+Shot+2019-08-15+at+14.45.05.png)
 
@@ -54,7 +52,7 @@ Open the “RAW FILE” tab inside the file.
 
 ![](https://paper-attachments.dropbox.com/s_D19E76E8026880734906183F5F67A13D8F5770AC8212DCC2B79CE9738C72C087_1565983068990_Schermata+2019-08-16+alle+14.16.44.png)
 
-You will see something like this: ****Now, you will have to do some tweaks to the data before we can use it…
+You will see something like this: _\*\*_Now, you will have to do some tweaks to the data before we can use it…
 
 ![](https://paper-attachments.dropbox.com/s_D19E76E8026880734906183F5F67A13D8F5770AC8212DCC2B79CE9738C72C087_1565983259029_Schermata+2019-08-16+alle+14.20.15.png)
 
@@ -66,9 +64,7 @@ You will see something like this: ****Now, you will have to do some tweaks to th
 2. Select only the numeric values \(From column G to K\)
 3. Click on the three dots on the “Find in sheet” instance
 
- This will open the “Find and replace window”, type a point \(.\) in “Find” and a comma \(,\) in replace with, mark the “Match case” option, then click “Replace all”  
-  
-
+   This will open the “Find and replace window”, type a point \(.\) in “Find” and a comma \(,\) in replace with, mark the “Match case” option, then click “Replace all”
 
 ![](https://paper-attachments.dropbox.com/s_D19E76E8026880734906183F5F67A13D8F5770AC8212DCC2B79CE9738C72C087_1566005487950_Screen+Shot+2019-08-16+at+20.31.16.png)
 
@@ -76,25 +72,22 @@ You will see something like this: ****Now, you will have to do some tweaks to th
 
 ### Change format
 
-To change number formatting to US Dollars. Go to menu item “Format” → “Number” → “US Dollar”.  
-
+To change number formatting to US Dollars. Go to menu item “Format” → “Number” → “US Dollar”.
 
 ![](https://paper-attachments.dropbox.com/s_D19E76E8026880734906183F5F67A13D8F5770AC8212DCC2B79CE9738C72C087_1566165541960_Screen+Shot+2019-08-18+at+16.58.55.png)
 
 ### Sort by oldest to newest
 
-Since the dates of the file run from newest to oldest, it’s better to invert that order, thus being able to add new entries without the need of adding new rows.To do that, first select column “D” \(This is where the date data is listed\)Then go to menu item “Data” → “Sort sheet by column D, A → Z”  
-
+Since the dates of the file run from newest to oldest, it’s better to invert that order, thus being able to add new entries without the need of adding new rows.To do that, first select column “D” \(This is where the date data is listed\)Then go to menu item “Data” → “Sort sheet by column D, A → Z”
 
 ![](https://paper-attachments.dropbox.com/s_D19E76E8026880734906183F5F67A13D8F5770AC8212DCC2B79CE9738C72C087_1566165987231_Screen+Shot+2019-08-18+at+17.06.17.png)
 
-## Step 5 
+## Step 5
 
 ### Copy and paste values in the template
 
 Select all values except the With cell A6 selected:Right click → “Paste special” → “Paste values only”  
-**Voilà!**You will have your totals for expenses and contributions into a nice and visible balance chart. Plus individual transactions sorted by date and differentiated by color codes.  
-
+**Voilà!**You will have your totals for expenses and contributions into a nice and visible balance chart. Plus individual transactions sorted by date and differentiated by color codes.
 
 ![](https://paper-attachments.dropbox.com/s_D19E76E8026880734906183F5F67A13D8F5770AC8212DCC2B79CE9738C72C087_1566167201844_Screen+Shot+2019-08-18+at+17.26.30.png)
 

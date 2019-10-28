@@ -118,6 +118,8 @@
 * [Translators](translators.md)
 
 ## Contributing
+
 * [Documentation](contributing/documentation/README.md)
   * [Style guide](contributing/documentation/style-guide.md)
   * [Suggesting changes](contributing/documentation/suggesting-changes.md)
+

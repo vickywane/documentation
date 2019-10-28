@@ -1,6 +1,6 @@
 # Change Core Contributors
 
-You can add or change the members of your Collective and their roles. 
+You can add or change the members of your Collective and their roles.
 
 * Go to your collective profile
 

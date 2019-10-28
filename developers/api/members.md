@@ -2,7 +2,7 @@
 
 ## Get list of members
 
-We have a [UI for exporting](../../collectives/data-export.md) CSV or JSON data if you prefer.
+We have a [UI for exporting]() CSV or JSON data if you prefer.
 
 `GET https://opencollective.com/:collective/members/[all|users|organizations].json`
 

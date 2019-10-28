@@ -20,7 +20,7 @@ An [Open Collective](product/) is a place for communities to collect and disburs
 
 ### Who is Open Collective for?
 
-Open Collective is great for collaborative groups, like meetups, open source projects, [and more](collectives/#what-is-open-collective-good-for)—and for the [sponsors and backers](backers-and-sponsors/) who want to support them.
+Open Collective is great for collaborative groups, like meetups, open source projects, [and more](collectives/#what-is-open-collective-good-for)—and for the [sponsors and backers]() who want to support them.
 
 ### How is it different from other platforms?
 
@@ -28,7 +28,7 @@ Open Collective is great for collaborative groups, like meetups, open source pro
 
 ### How much does it cost?
 
-[Pricing](about/pricing.md) is based on a small percentage of funds raised through the platform, 5%-10% depending on your [Fiscal Host](hosts/).
+[Pricing]() is based on a small percentage of funds raised through the platform, 5%-10% depending on your [Fiscal Host](hosts/).
 
 ### Does it work in my country?
 
@@ -36,7 +36,7 @@ People can contribute from anywhere by credit card, with donations denominated i
 
 ### Can I get a receipt for my donations?
 
-Yes! One main purpose of Open Collective is to provide unincorporated projects the legal and financial structures to provide [people](backers-and-sponsors/) receipts and invoices.
+Yes! One main purpose of Open Collective is to provide unincorporated projects the legal and financial structures to provide [people]() receipts and invoices.
 
 ### Where can I learn more?
 

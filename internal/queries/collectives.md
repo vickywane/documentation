@@ -1,6 +1,6 @@
 # Collectives
 
-## Stats 
+## Stats
 
 ### Top backers
 
@@ -16,8 +16,6 @@ GROUP BY t."FromCollectiveId"
 ORDER BY "totalAmount" DESC
 ```
 
-###  
-
 ### Revenue breakdown per tier
 
 ```text
@@ -30,8 +28,6 @@ WHERE o."CollectiveId"=19965
   AND o."deletedAt" IS NULL
 GROUP BY o."TierId"
 ```
-
-###  
 
 ### Breakdown of expenses
 
@@ -76,18 +72,14 @@ SELECT
   SUM(t.amount)/100 as "totalDonationsAmount",
   (SUM(t.amount)/100)/count(t.*) as "avgDonation",
   MAX(g.currency) as "currency"
- 
+
 FROM "Transactions" t LEFT JOIN "Collectives" g ON t."CollectiveId" = g.id 
 WHERE t.type='CREDIT' AND t."deletedAt" is NULL AND slug = 'webpack' AND t."PaymentMethodId" IS NOT NULL
 GROUP BY month
 ORDER BY month ASC
 ```
 
-##  
-
 ## Export
-
-###  
 
 ### Export all backers of a collective with private data \(user.email\)
 
@@ -100,30 +92,26 @@ FROM "Collectives" c
 WHERE c.slug='becoworking' AND m.role != 'HOST'
 ```
 
-###  
-
 ### New collectives for the past XX and creator details
 
 ```text
 select 
-	c.id as "collectiveId", 
-	slug, 
-	c."createdAt" as "collectiveCreatedAt", 
-	"HostCollectiveId", 
-	tags,
-	u."firstName" as firstname,
-	u."lastName" as lastname,
-	u.email as email
+    c.id as "collectiveId", 
+    slug, 
+    c."createdAt" as "collectiveCreatedAt", 
+    "HostCollectiveId", 
+    tags,
+    u."firstName" as firstname,
+    u."lastName" as lastname,
+    u.email as email
 from "Collectives" as c
 left join "Users" u on c."CreatedByUserId" = u.id
 where 
-	type ilike 'collective' 
-	and c."deletedAt" is null
-	and u."deletedAt" is null 
-	and c."createdAt" > '2017-11-15';
+    type ilike 'collective' 
+    and c."deletedAt" is null
+    and u."deletedAt" is null 
+    and c."createdAt" > '2017-11-15';
 ```
-
-###  
 
 ### Expenses
 
@@ -147,11 +135,7 @@ LEFT JOIN "Users" u on e."UserId" = u.id
 WHERE e."CollectiveId" = 302
 ```
 
-##  
-
 ## Administration
-
-###  
 
 ### Cancel all active subscriptions
 

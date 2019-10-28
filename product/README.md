@@ -46,5 +46,3 @@ Create an umbrella entity to support a community of Collectives.
 
 Tell the world who you are and show off the Collectives you're managing or supporting.
 
-### 
-

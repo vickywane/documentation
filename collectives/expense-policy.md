@@ -4,7 +4,7 @@ You can specify an expense policy, which appears on the top of the submit expens
 
 To update your expense policy, go to 'edit collective' and click Expenses.
 
-If you have not specified an expense policy, when you view the submit expense page for your Collective, you will see a button asking you to add  one.
+If you have not specified an expense policy, when you view the submit expense page for your Collective, you will see a button asking you to add one.
 
 ![](../.gitbook/assets/screen-shot-2019-02-05-at-5.08.32-pm.png)
 

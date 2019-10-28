@@ -51,5 +51,5 @@ Like most other crowdfunding platforms, Open Collective takes a 5% commission \(
 
 Another additional fee may apply depending on the [fiscal host](../hosts/) \(often 5%\). A fiscal host is the organisation that maintains the bank account behind the scenes and takes care of bookkeeping, taxes, etc. If you operate an organization that can provide these services, you can [fiscally host your own Collective](../hosts/become-host.md), incurring no fiscal hosting fee.
 
-See more details about [fiscal hosts](../hosts/) and [pricing](../about/pricing.md).
+See more details about [fiscal hosts](../hosts/) and [pricing]().
 

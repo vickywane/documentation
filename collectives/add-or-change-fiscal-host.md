@@ -2,9 +2,9 @@
 
 ## Adding a Fiscal Host
 
-In order to raise and spend money, you'll need a [Fiscal Host](../hosts/). There are different hosts that serve different missions, interest areas, and geographic. [See them all here](https://opencollective.com/hosts). 
+In order to raise and spend money, you'll need a [Fiscal Host](../hosts/). There are different hosts that serve different missions, interest areas, and geographic. [See them all here](https://opencollective.com/hosts).
 
-Click on "apply" on any host page, and if your project fits their criteria, they will approve it. 
+Click on "apply" on any host page, and if your project fits their criteria, they will approve it.
 
 ![](../.gitbook/assets/screen-shot-2019-05-05-at-3.03.34-pm.png)
 

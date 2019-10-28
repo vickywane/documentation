@@ -14,7 +14,7 @@ When you [add funds manually](add-funds-manually.md), you have the option to cha
 
 Host admins will receive a monthly host report, including an accounting of host fees.
 
-Many hosts opt to add host fees to a Collective, in order to account for income and expenses transparently. To do so, [create a Collective](../collectives/create-collective.md) under your host, and [manually add](add-funds-manually.md) the fees to it each month.
+Many hosts opt to add host fees to a Collective, in order to account for income and expenses transparently. To do so, [create a Collective]() under your host, and [manually add](add-funds-manually.md) the fees to it each month.
 
 ![](../.gitbook/assets/screen-shot-2019-05-09-at-2.35.53-pm.png)
 

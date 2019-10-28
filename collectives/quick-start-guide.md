@@ -2,7 +2,7 @@
 
 ## You've got a Collective—awesome! Now what?
 
-Once you have a Collective, you can start submitting expenses, edit your page content, and create events for your community right away. 
+Once you have a Collective, you can start submitting expenses, edit your page content, and create events for your community right away.
 
 In order to receive money or pay out expenses, you need a [Fiscal Host](../hosts/). Whether you have a Fiscal Host yet or not, here are some steps you can take to get your Collective started.
 
@@ -12,9 +12,9 @@ Update your images and main color and add about info. [Here's how](customize-col
 
 ### 2. Add Core Contributors
 
-If you have collaborators on your project who can help you manage your page and approve expenses add them as Core Contributors by going to 'edit Collective' and clicking 'Core Contributors'. 
+If you have collaborators on your project who can help you manage your page and approve expenses add them as Core Contributors by going to 'edit Collective' and clicking 'Core Contributors'.
 
-### 3. Add Financial Contributors to your Github and website 
+### 3. Add Financial Contributors to your Github and website
 
 See our available [website](https://github.com/OpenCollective/OpenCollective/wiki/Website-banner) and [Github](https://github.com/opencollective/opencollective/wiki/Github-banner) banners.
 
@@ -26,7 +26,7 @@ See our available [website](https://github.com/OpenCollective/OpenCollective/wik
 
 You can connect your Twitter account to your collective and automatically thank your backers. [Here's how](https://github.com/OpenCollective/OpenCollective/wiki/Twitter).
 
-### 6.  Launch! 
+### 6.  Launch!
 
 Write a blog post, tell people the vision, and explain why you are raising money. For more detailed ideas about helping your Collective launch well, check out [**Ten Steps to Successful Open Source Crowdfunding**](https://medium.com/open-collective/ten-steps-to-successful-open-source-crowdfunding-fa2b43e82687).
 

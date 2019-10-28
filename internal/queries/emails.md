@@ -2,7 +2,7 @@
 
 Queries to get an export of email addresses from the database for various communications.
 
-### Get Backers \(name, email, totalDonations, lastDonation\) of a collective
+## Get Backers \(name, email, totalDonations, lastDonation\) of a collective
 
 ```text
 WITH constants AS (
@@ -37,9 +37,7 @@ WITH constants AS (
     ORDER BY "totalDonations" DESC, m."createdAt" ASC
 ```
 
-###  
-
-### Get RSVPs to an event
+## Get RSVPs to an event
 
 ```text
 SELECT 
@@ -54,17 +52,13 @@ WHERE e.slug = 'september-2018'
 ORDER BY o."createdAt" DESC
 ```
 
-###  
-
-### Fetch all email addresses
+## Fetch all email addresses
 
 ```text
 SELECT email FROM "Users" where "deletedAt" is null and email is not null
 ```
 
-###  
-
-### Fetch email addresses of all admins of collectives on a given host
+## Fetch email addresses of all admins of collectives on a given host
 
 ```text
 SELECT c.slug as collective, uc.slug as profile, m.role, u.email
@@ -78,17 +72,13 @@ AND c."isActive" IS TRUE
 AND c. "deletedAt" IS NULL
 ```
 
-###  
-
-### opt - in newsletter emails
+## opt - in newsletter emails
 
 ```text
 SELECT "createdAt", "firstName", "lastName", email FROM "Users" WHERE "newsletterOptIn" IS TRUE AND "createdAt" > '2018-05-15'
 ```
 
-###  
-
-### All admins of organizations
+## All admins of organizations
 
 \(that have sponsored at least one "open source", "diversity in tech" or "Tech meetups" collective\)
 
