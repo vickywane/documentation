@@ -14,21 +14,21 @@ There are a few possible causes for that:
 
 If you believe that you may have linked the wrong GitHub account to your Open Collective account, you will need to manually revoke access from the current linked GitHub profile. You can do that by either accessing [https://github.com/settings/applications](https://github.com/settings/applications) or following our guide:
 
-1. On GitHub, go to **Settings**.
+**1.** On GitHub, go to **Settings**.
 
 ![](../../.gitbook/assets/fiscal-host_open-source-collective_github-dropdown-menu_2019-10-28.png)
 
-2. On the Settings menu, click on **Applications**.
+**2.** On the Settings menu, click on **Applications**.
 
 ![](../../.gitbook/assets/fiscal-host_open-source-collective_github-settings-interface_2019-10-28.png)
 
-3. On the **Applications** page, open the **Authorized OAuth Apps** tab and look for Open Collective..
+**3.** On the **Applications** page, open the **Authorized OAuth Apps** tab and look for Open Collective..
 
 ![](../../.gitbook/assets/fiscal-host_open-source-collective_github-app-list_2019-10-28%20%281%29.png)
 
 ![](../../.gitbook/assets/fiscal-host_open-source-collective_github-list-oauth-apps_2019-10-28.png)
 
-4. Click on the three dots on the right labeled "Show me more options" to revoke the authorization.  
+**4.** Click on the three dots on the right labeled "Show me more options" to revoke the authorization.  
 
 ![](../../.gitbook/assets/fiscal-host_open-source-collective_github-list-oauth-revoke_2019-10-28.png)
 
