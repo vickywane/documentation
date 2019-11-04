@@ -4,7 +4,7 @@
 
 ## About
 
-* [Introduction](about/about.md)
+* [Introduction](about/introduction.md)
 * [Terminology](about/terminology.md)
 * [Company](about/company.md)
 * [Pricing](about/pricing.md)

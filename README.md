@@ -20,7 +20,7 @@ An [Open Collective](product/product.md) is a place for communities to collect a
 
 ### Who is Open Collective for?
 
-Open Collective is great for collaborative groups, like meetups, open source projects, [and more](collectives/#what-is-open-collective-good-for)—and for the [those]() who want to support them.
+Open Collective is great for collaborative groups, like meetups, open source projects, [and more](https://github.com/opencollective/documentation/tree/8970e5cde29336793a27d3477c088b6238a47a31/collectives/README.md#what-is-open-collective-good-for)—and for the [those](./) who want to support them.
 
 ### How is it different from other platforms?
 

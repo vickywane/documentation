@@ -10,7 +10,7 @@ Open Source Collective offers the option to verify your Collective by showing th
 
 ### What if I can't verify with Github stars?
 
-If your project is not centered on a Github repository, or you can't get the automated verification system to work for you even if you have 100 stars, please request manual verification instead, by [following these steps](osc-verification.md#applying-for-manual-verification). 
+If your project is not centered on a Github repository, or you can't get the automated verification system to work for you even if you have 100 stars, please request manual verification instead, by [following these steps](osc-verification.md#applying-for-manual-verification).
 
 The criteria for alternative verification can be seen in the "how it works" section of the [OSC website](https://www.oscollective.org/), under "accepted projects".
 
@@ -64,7 +64,7 @@ Use the search bar to filter repositories by name:
 
 ![](../.gitbook/assets/fiscal-hosts_open-source-collective_search-bar-pick-a-repo_2019-10-28.gif)
 
-## Manual verification 
+## Manual verification
 
 **To apply for manual verification, follow these steps:**
 
@@ -73,17 +73,15 @@ Use the search bar to filter repositories by name:
 
 ![](../.gitbook/assets/screen-shot-2019-11-04-at-11.52.14-am.png)
 
-3. Select 'Apply to an existing fiscal host'.
+1. Select 'Apply to an existing fiscal host'.
 
 ![](../.gitbook/assets/screen-shot-2019-11-04-at-11.54.09-am.png)
 
-4. Click 'View all fiscal hosts'.
-
-5. Select Open Source Collective.
+1. Click 'View all fiscal hosts'.
+2. Select Open Source Collective.
 
 ![](../.gitbook/assets/screen-shot-2019-11-04-at-11.56.32-am.png)
 
-6. Click "apply with \[Collective name\]", accept the terms and conditions, and click 'continue'.
-
-7. The Collective will then be pending review by the fiscal host admins, who will be automatically notified of your application.
+1. Click "apply with \[Collective name\]", accept the terms and conditions, and click 'continue'.
+2. The Collective will then be pending review by the fiscal host admins, who will be automatically notified of your application.
 
