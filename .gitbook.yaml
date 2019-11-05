@@ -34,7 +34,7 @@ redirects:
   help/developers/dev-contribution-guide: contributing/development/dev-contribution-guide.md
   help/developers/guidelines: contributing/development/best-practice-guidelines.md
   help/developers/bounties: contributing/development/bounties.md
-  help/developers/api: contributing/development/api/README.md
+  /help/developers/api: contributing/development/api/README.md
   help/developers/api/members: contributing/development/api/members.md
   help/developers/api/users-emails: contributing/development/api/users-emails.md
   help/developers/api/collectives: contributing/development/api/collectives.md
