@@ -13,12 +13,12 @@ Our REST API is still supported but we're not working on it anymore.
   * Get list of members
 * [Users / Emails](users-emails.md)
   * Get list of Collective users and emails
-* [Collectives](../../collectives/)
+* [Collectives](collectives.md)
   * Get collective info
   * Get members
   * Get members per tier
   * Get transactions from collective
-* [Events]()
+* [Events](events.md)
   * List events
   * Get event info
   * Get list of attendees
