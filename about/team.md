@@ -19,7 +19,7 @@ Brussels, Belgium
 ## **François Hodierne**
 
 Core contributor  
-Lead developer  
+Engineering Director  
 Berlin, Germany
 
 [Twitter](https://twitter.com/znarf), [GitHub](https://github.com/znarf)
@@ -35,7 +35,7 @@ Wellington, New Zealand
 ## **Benjamin Piouffle**
 
 Core contributor  
-Developer  
+Senior Software Engineer  
 Paris, France
 
 [Twitter](https://twitter.com/betree83), [GitHub](https://github.com/Betree)

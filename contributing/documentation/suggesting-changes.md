@@ -33,8 +33,8 @@ If you'd like to know more about Git and GitHub, we recommend Git's [official do
 
 We use a platform called [GitBook](https://www.gitbook.com/) to host, manage and serve our documentation. GitBook fetches files from our GitHub repository **opencollective/documentation**, reads them and converts them into the pages you can access on **docs.opencollective.org**. A generic structure of a documentation hosted on GitBook would look like this:
 
-{% code-tabs %}
-{% code-tabs-item title="Generic structure of a GitBook" %}
+{% tabs %}
+{% tab title="Generic structure of a GitBook" %}
 ```text
 First page
 ├── A group of pages
@@ -45,13 +45,13 @@ First page
 │   │   ├── A nested page
 │   │   └── Another nested page
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
 Its mirror to GitHub, on the other hand, would have the following structure:
 
-{% code-tabs %}
-{% code-tabs-item title="File tree: Basic structure of a GitBook mirror repository" %}
+{% tabs %}
+{% tab title="File tree: Basic structure of a GitBook mirror repository" %}
 ```text
 ├── .gitbook/
 │    └── assets/
@@ -66,8 +66,8 @@ Its mirror to GitHub, on the other hand, would have the following structure:
 ├── README.md
 └── SUMMARY.md
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
 * The `.gitbook/assets` folder manages every file used in any page.
 * The `SUMMARY.md` file tells GitBook in which order we wish to display our pages and what groups there are in our documentation.
