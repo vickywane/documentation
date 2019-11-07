@@ -1,5 +1,7 @@
 # Introduction
 
+{% embed url="https://www.youtube.com/watch?v=IBU5fSILAe8" %}
+
 While the Internet is a great tool for helping people collaborate, it is still extremely difficult for groups to collect funds and use them transparently. As a result, we see initiatives, projects, and movements popping up here and there only to disappear quickly due to lack of funds. Imagine how many wonderful things didn't happen because funding - which is arguably the oxygen for most organizations - is difficult to sustain. Without an easy way to raise and manage finances, most of the ideas that can change the world are rarely able to break open from seed, let alone grow into a full-fledged tree.
 
 To be able to operate, meetups, open-source projects, parent associations, neighborhood associations, pet projects, clubs, unions, movements, non-profits, business incubators - all are either forced to use a physical glass jar, asking a sponsor to directly pay for their expenses, or front the huge overhead of setting up and managing a corporation or a non-profit. Even if they manage to achieve it in a way that is neither inefficient nor opaque, it is overkill.
@@ -16,19 +18,19 @@ Support: support@opencollective.com
 
 [Subscribe to our blog on Medium](https://medium.com/open-collective)
 
-* [A New Form of Association For the Internet Generation](https://medium.com/open-collective/a-new-form-of-association-for-the-internet-generation-part-1-6d6c4f5dd27f#.i2x2jjp79), Xavier Damman
-* [If you can’t beat them, abstract them.](https://medium.com/open-collective/if-you-can-t-beat-them-abstract-them-b182fc36b24f), Pia Mancini
-* [A New Way to Fund Open Source Projects](https://medium.com/open-collective/a-new-way-to-fund-open-source-projects-91a51b1b7aac#.ky05pse2h), Xavier Damman
-* [Money and Open Source Communities](https://medium.com/open-collective/money-and-open-source-communities-64b1c2f6aec4), Xavier Damman
-* [Let's Talk About Money](https://medium.com/open-collective/lets-talk-about-money-949a55fd2ea1), Aseem Sood
-* [Moving beyond the charity framework](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141), Pia Mancini
-* [From Firms to Collectives](https://medium.com/open-collective/from-firms-to-collectives-c139ae27a4ee), Xavier Damman
-* [Being a Circle in a World Made for Triangles](https://medium.com/open-collective/being-a-circle-in-a-world-made-for-triangles-bc434d823a79), Alanna Irving
-* [Ten Steps to Successful Open Source Crowdfunding](https://medium.com/open-collective/ten-steps-to-successful-open-source-crowdfunding-fa2b43e82687), Alanna Irving
-* [Turning our City into an Open Collective](https://medium.com/open-collective/turning-our-city-into-an-open-collective-93d107f0f86a), Xavier Damman
-* [Cities Are Open Collectives](https://medium.com/open-collective/cities-are-open-collectives-71a8a8e2e9ec), Pia Mancini
-* [From the Internet of Information to the Internet of Actions](https://medium.com/open-collective/from-the-internet-of-information-to-the-internet-of-action-17d799f8a773), Xavier Damman
-* [The New Citizen](https://medium.com/open-collective/the-new-citizen-731d15aa901b), Xavier Damman
+* [A New Form of Association For the Internet Generation](https://blog.opencollective.com/a-new-form-of-association-for-the-internet-generation-part-1/), Xavier Damman
+* [If you can’t beat them, abstract them.](https://blog.opencollective.com/if-you-can-t-beat-them-abstract-them/), Pia Mancini
+* [A New Way to Fund Open Source Projects](https://blog.opencollective.com/a-new-way-to-fund-open-source-projects/), Xavier Damman
+* [Money and Open Source Communities](https://blog.opencollective.com/money-and-open-source-communities/), Xavier Damman
+* [Let's Talk About Money](https://blog.opencollective.com/lets-talk-about-money/), Aseem Sood
+* [Moving beyond the charity framework](https://blog.opencollective.com/moving-beyond-the-charity-framework/), Pia Mancini
+* [From Firms to Collectives](https://blog.opencollective.com/from-firms-to-collectives/), Xavier Damman
+* [Being a Circle in a World Made for Triangles](https://blog.opencollective.com/being-a-circle-in-a-world-made-for-triangles/), Alanna Irving
+* [Ten Steps to Successful Open Source Crowdfunding](https://blog.opencollective.com/ten-steps-to-successful-open-source-crowdfunding/), Alanna Irving
+* [Turning our City into an Open Collective](https://blog.opencollective.com/turning-our-city-into-an-open-collective/), Xavier Damman
+* [Cities Are Open Collectives](https://blog.opencollective.com/cities-are-open-collectives/), Pia Mancini
+* [From the Internet of Information to the Internet of Actions](https://blog.opencollective.com/from-the-internet-of-information-to-the-internet-of-action/), Xavier Damman
+* [The New Citizen](https://blog.opencollective.com/the-new-citizen/), Xavier Damman
 
 ## Talks
 
@@ -52,7 +54,7 @@ Subscribe to our [Talks Playlist on YouTube](https://www.youtube.com/playlist?li
 ## Follow us
 
 * Twitter: [@opencollect](https://twitter.com/opencollect)
-* Medium: [https://medium.com/open-collective](https://medium.com/open-collective)
+* Blog: [https://blog.opencollective.com](https://blog.opencollective.com/)
 * Instagram: [https://instagram.com/opencollectives](https://instagram.com/opencollectives)
 * Facebook: [https://facebook.com/BeOpenCollective](https://facebook.com/BeOpenCollective)
 
@@ -60,7 +62,7 @@ Subscribe to our [Talks Playlist on YouTube](https://www.youtube.com/playlist?li
 
 ### What is Open Collective? <a id="what-is-opencollective"></a>
 
-OpenCollective is a platform where communities can collect and disburse money transparently, to sustain and grow their projects.
+Open Collective is a platform where communities can collect and disburse money transparently, to sustain and grow their projects.
 
 ### Why Open Collective? <a id="why-opencollective"></a>
 
@@ -72,7 +74,7 @@ We enable communities to have economic power, so they can sustain themselves and
 
 Our platform provides tools for legal entities to fiscally sponsor Collectives under their umbrella, empowering people to create associations without friction. It's like an API between the legacy world of banks and taxes and the emerging future of digitally powered distributed collaborations.
 
-The goal of OpenCollective is to create a [New Form of Association for the Internet Generation](https://medium.com/open-collective/a-new-form-of-association-for-the-internet-generation-part-1-6d6c4f5dd27f#.fgb60dorq).
+The goal of Open Collective is to create a [New Form of Association for the Internet Generation](https://medium.com/open-collective/a-new-form-of-association-for-the-internet-generation-part-1-6d6c4f5dd27f#.fgb60dorq).
 
 ### Why Open Source? <a id="why-open-source"></a>
 
