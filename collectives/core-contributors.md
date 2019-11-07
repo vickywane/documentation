@@ -1,24 +1,26 @@
-# Change Core Contributors
+# Core Contributors & Admins
 
-You can add or change the members of your Collective and their roles.
+## Roles
 
-* Go to your collective profile
+**Core Contributors** are the people closely associated with your Collective, who will show up on your Collective page as part of the team.
 
-![](../.gitbook/assets/image%20%283%29.png)
+**Collective Admins** are Core Contributors with extra permissions, like editing the Collective settings and approving expenses. Admins get notifications of activity on your Collective.
 
-* Click on the Edit icon next to your collective's avatar
+## Adding or Changing Core Contributors
+
+1. Go to your Collective page and click the gear next to your Collective logo
 
 ![](../.gitbook/assets/image%20%288%29.png)
 
-* Head to the `Core contributors` tab. Here you can add a new member, remove a member, or change details and roles. 
+2. Head to the `Core contributors` tab. Here you can add, remove, or change people and roles. 
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
 {% hint style="info" %}
-Only Core Contributors can edit the Collective and approve expenses.
+Only **Admins** can edit the Collective and approve expenses. Be sure to select the right role option.
 {% endhint %}
 
-* Once you are done click on `Save` at the bottom of the page
+3. Once you are done click on `Save` at the bottom of the page
 
 ![](../.gitbook/assets/image%20%286%29.png)
 

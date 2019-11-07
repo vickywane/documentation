@@ -37,7 +37,7 @@
 * [Creating a Collective](collectives/create-collective.md)
 * [Quick Start Guide](collectives/quick-start-guide.md)
 * [Customize Collective](collectives/customize-collective.md)
-* [Change Core Contributors](collectives/core-contributors.md)
+* [Core Contributors & Admins](collectives/core-contributors.md)
 * [Tiers & Goals](collectives/tiers-goals.md)
 * [Add Fiscal Host](collectives/add-or-change-fiscal-host.md)
 * [OSC Collective Verification](collectives/osc-verification.md)
