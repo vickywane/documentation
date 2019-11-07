@@ -2,6 +2,10 @@
 
 ### **We are on a mission to help collaborative groups collect and spend money transparently.**
 
+{% embed url="https://www.youtube.com/watch?v=IBU5fSILAe8" %}
+
+\*\*\*\*
+
 Open Collective is an online funding platform for open and transparent communities. We provide the tools to raise and share your finances in full transparency. _\*\*_
 
 This is the place to find all help and documentation related to Open Collective. It's a work in progress, so please feel free to give us feedback!
