@@ -16,7 +16,7 @@ Support: support@opencollective.com
 
 ## Essays
 
-[Subscribe to our blog on Medium](https://medium.com/open-collective)
+[Subscribe to our blog](https://blog.opencollective.com/rss/)
 
 * [A New Form of Association For the Internet Generation](https://blog.opencollective.com/a-new-form-of-association-for-the-internet-generation-part-1/), Xavier Damman
 * [If you can’t beat them, abstract them.](https://blog.opencollective.com/if-you-can-t-beat-them-abstract-them/), Pia Mancini
@@ -74,7 +74,7 @@ We enable communities to have economic power, so they can sustain themselves and
 
 Our platform provides tools for legal entities to fiscally sponsor Collectives under their umbrella, empowering people to create associations without friction. It's like an API between the legacy world of banks and taxes and the emerging future of digitally powered distributed collaborations.
 
-The goal of Open Collective is to create a [New Form of Association for the Internet Generation](https://medium.com/open-collective/a-new-form-of-association-for-the-internet-generation-part-1-6d6c4f5dd27f#.fgb60dorq).
+The goal of Open Collective is to create a [New Form of Association for the Internet Generation](https://blog.opencollective.com/a-new-form-of-association-for-the-internet-generation-part-1/).
 
 ### Why Open Source? <a id="why-open-source"></a>
 
