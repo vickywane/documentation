@@ -21,7 +21,7 @@ Human beings with names. An individual signs up to Open Collective with their em
 
 ### Organizations ![](../.gitbook/assets/organization.png) 
 
-An [Organization](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/backers-and-sponsors/organizations.md) represents a company or legal entity in the world, with a shared identity, bank account, credit card, and resources. This is often how Sponsors engage on the platform.
+An [Organization](../financial-contributors/organizations/) represents a company or legal entity in the world, with a shared identity, bank account, credit card, and resources. This is often how Sponsors engage on the platform.
 
 #### Organization Admins ![](../.gitbook/assets/individual.png) 
 
@@ -29,7 +29,7 @@ Individual\(s\) who create and/or manage the Organization profile. They have rig
 
 ### Fiscal Hosts ![](../.gitbook/assets/fiscal-host.png)
 
-A [Fiscal Host](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/hosts/README.md) is a type of Organization.
+A [Fiscal Host](../fiscal-hosts/fiscal-hosts.md) is a type of Organization.
 
 Fiscal hosting enables Collectives to transact financially without needing to legally incorporate. A fiscal host is a legal company or individual who holds a Collective’s funds in their bank account, and can generate invoices and receipts for Financial Contributors. You can think of a fiscal host as an umbrella organization for the Collectives in it.
 
@@ -84,10 +84,10 @@ They arrive at a Collective many ways:
 * Search from [homepage](https://www.opencollective.com)
 * [Discover page](http://opencollective.com/discover)
 * Direct link to a Collective
-* [Github badges on readme](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/developers/readme-integration.md)
-* Sponsor's page
+* [Github badges on README](../financial-contributors/website-badge.md)
+* Organization's page
 * [BackYourStack](https://www.backyourstack.com)
-* Our [blog](https://medium.com/open-collective) or newsletter
+* Our [blog](https://blog.opencollective.com) or newsletter
 
 #### Expense submitter
 
