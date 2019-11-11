@@ -8,14 +8,14 @@
 
 #### Contribute as...
 
-Select who you'd like to pay as—yourself as an individual, or an [Organization](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/financial-contributors/organizations.md) or [Collective](../collectives/collectives.md) you manage.
+Select who you'd like to pay as—yourself as an individual, or an [Organization](organizations/) or [Collective](../collectives/collectives.md) you manage.
 
 #### Pay with...
 
 1. Credit card - enter the details or use a saved card
-2. [Gift card](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/financial-contributors/gift-cards.md) - select the gift card you want to pay with
-3. Collective - contribute [using the balance of one of your Collectives](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/financial-contributors/collective-to-collective-donations.md) \(if it's in the same host as the one you're donating to\)
-4. [Organization](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/financial-contributors/organizations.md) - contribute using the balance saved to your Organization
+2. [Gift card](organizations/gift-cards.md) - select the gift card you want to pay with
+3. Collective - contribute [using the balance of one of your Collectives](collectives/collective-to-collective-donations.md) \(if it's in the same host as the one you're donating to\)
+4. [Organization](organizations/) - contribute using the balance saved to your Organization
 
 ## Subscriptions
 
