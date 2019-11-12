@@ -6,31 +6,30 @@
 
 _Read on for more details._
 
-| I want to... |  | cost |
-| :--- | :--- | :--- |
+| **I want to...** | **Cost** |
+| :--- | :--- |
 
 
-| Create a Collective | An instant page online to tell the world about your project | free |
-| :--- | :--- | :--- |
+| Create a Collective¹ | Free |
+| :--- | :--- |
 
 
-| Submit expenses | Track costs transparently to show what funds are for | free |
-| :--- | :--- | :--- |
+| Submit expenses² | Free |
+| :--- | :--- |
 
 
-| Create events | Free registrations for conferences, meetups, webinars | free |
-| :--- | :--- | :--- |
+| Create events³ | Free |
+| :--- | :--- |
 
 
-| Post updates | Keep your community in the loop | free |
-| :--- | :--- | :--- |
+| Post updates⁴ | Free |
+| :--- | :--- |
 
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Receive money</th>
-      <th style="text-align:left">Donations, sponsorship, ticket sales</th>
+      <th style="text-align:left">Receive money&#x2075;</th>
       <th style="text-align:left">
         <p>5% platform fee</p>
         <p>+ host fee (see below)
@@ -39,9 +38,21 @@ _Read on for more details._
     </tr>
   </thead>
   <tbody></tbody>
-</table>| Pay out money | Reimburse expenses and pay invoices | payment processor fees |
-| :--- | :--- | :--- |
+</table>| Pay out money⁶ | Payment processor fees |
+| :--- | :--- |
 
+
+¹ An instant page online to tell the world about your project
+
+² Track costs transparently to show what funds are for
+
+³ Free registrations for conferences, meetups, webinars
+
+⁴ Keep your community in the loop
+
+⁵ Receive money: donations, sponsorship, ticket sales
+
+⁶ Reimburse expenses and pay invoices
 
 ### Can I use Open Collective for free?
 
@@ -51,7 +62,7 @@ You can set up a Collective absolutely free. However, there are fees to accept a
 
 A fiscal host is a legal company or individual who enables financial transactions, holds funds, and takes care of liability and taxes for a Collective. Fiscal Hosts make it possible for Collectives to transact without incorporating their own legal entity. Each Fiscal Host sets its own fees, most commonly 0% and 5%.
 
-[More info about Fiscal Hosts](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/hosts/README.md).
+[More info about Fiscal Hosts](../fiscal-hosts/fiscal-hosts.md).
 
 ## Examples <a id="docs-internal-guid-bbc579cc-7fff-c7e7-cc88-4b3cac120c2c"></a>
 
@@ -67,7 +78,7 @@ _\*plus payment processor fees_
 
 ### How are Open Collective's fees determined?
 
-The standard fee for fiscal sponsorship, the service provided by Fiscal Hosts, is 10%. This service is commonly offered by foundations and other organizations who manage funds for unincorporated projects. Open Collective offers not only fiscal sponsorship, but also a great software platform for raising money, paying expenses, record keeping, and transparent budgeting. We charge 5% for Fiscal Hosting \(for those Fiscal Hosts that we manage—other hosts set their own fees\) and 5% for the software platform \(if you put money through the system\), so 10% all together. Payment processing fees are determined by the providers we use, [Paypal](https://www.paypal.com/us/webapps/mpp/paypal-fees) and [Stripe](https://stripe.com/pricing).
+The standard fee for fiscal sponsorship, the service provided by Fiscal Hosts, is 10%. This service is commonly offered by foundations and other organizations who manage funds for unincorporated projects. Open Collective offers not only fiscal sponsorship, but also a great software platform for raising money, paying expenses, record keeping, and transparent budgeting. We charge 5% for Fiscal Hosting \(for those Fiscal Hosts that we manage—other hosts set their own fees\) and 5% for the software platform \(if you put money through the system\), so 10% all together. Payment processing fees are determined by the providers we use, [PayPal](https://www.paypal.com/us/webapps/mpp/paypal-fees) and [Stripe](https://stripe.com/pricing).
 
 ### What about funds flowing outside the Open Collective platform, like manual bank transfers?
 
