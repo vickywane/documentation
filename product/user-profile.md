@@ -6,13 +6,13 @@ You can use your Open Collective user profile to let people know a bit about you
 
 Access profile settings by clicking "edit profile". You can edit your info, images, payment methods, connected accounts, and more.
 
-![](../.gitbook/assets/screen-shot-2019-01-24-at-4.08.21-pm.png)
+![](../.gitbook/assets/product_user_profile_edit_profile_2019-01-28.png)
 
 ### Changing your email
 
 Go to 'edit profile' &gt; Advanced and specify your new email address in the box. You'll get a confirmation and then your new email will be active.
 
-![](../.gitbook/assets/change-email.gif)
+![](../.gitbook/assets/product_user-profile_change-email_2019-04-16.gif)
 
 ### Deleting or Archiving your account
 

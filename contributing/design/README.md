@@ -2,7 +2,7 @@
 
 ## Open Collective Design
 
-![](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/contributing/.gitbook/assets/b1.-banner-1.png)
+![](../.gitbook/assets/contributing_design_open-collective-design-2019-07-09.png)
 
 ### What is Open Collective Design?
 
