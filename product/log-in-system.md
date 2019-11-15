@@ -2,7 +2,7 @@
 
 Open Collective works with a **no-password system,** because our users appreciate not having to remember another password, especially when on mobile.
 
-**How it works:**
+### **How it works**
 
 You type in your email and the system instantly knows if you're an existing user or a new user.
 
