@@ -58,7 +58,7 @@ Lack of transparency erodes trust in a product. We can prevent this erosion by d
 
 ## The process
 
-![](https://github.com/opencollective/documentation/tree/05518c2a8cc051a732f4ec53e9e9c63933f7310b/contributing/.gitbook/assets/contributing_design_design-contributing-guidelines_the-process-2019-07-09.png)
+![](../../.gitbook/assets/contributing_design_design-contributing-guidelines_the-process-2019-07-09.png)
 
 **Exploration/Ideation:**
 
@@ -90,17 +90,17 @@ The first thing you encounter with is this primary breakdown of the work:
 * [02 → OpenCollective.com](https://www.figma.com/files/project/994190/02-%E2%86%92-OpenCollective.com)
 * [01 → BackYourStack.com](https://www.figma.com/files/project/994191/03-%E2%86%92-BackYourStack.com)
 
-![](https://github.com/opencollective/documentation/tree/05518c2a8cc051a732f4ec53e9e9c63933f7310b/contributing/.gitbook/assets/contributing_design_design-contribution-guidelines_breakdown-of-work_2019-07-09.png)
+![](../../.gitbook/assets/contributing_design_design-contribution-guidelines_breakdown-of-work_2019-07-09.png)
 
 **UX/UI Contribution**
 
 Most of the projects related with interface design will be hosted inside the [02 → OpenCollective.com](https://www.figma.com/files/project/994190/02-%E2%86%92-OpenCollective.com) folder, that breaks down again the efforts with this organization:
 
-![](https://github.com/opencollective/documentation/tree/05518c2a8cc051a732f4ec53e9e9c63933f7310b/contributing/.gitbook/assets/contributing_design_design-contribution-guidelines_efforts-breakdown_2019-07-09.png)
+![](../../.gitbook/assets/contributing_design_design-contribution-guidelines_efforts-breakdown_2019-07-09.png)
 
 The next level is each individual file, that may include several interface elements, pages and flows of the platform and the website, it looks something like [this](https://www.figma.com/file/e71tBo0Sr8J7R5n6iMkqI42d/OC.COM-07-%2F-Collectives?node-id=182%3A0):
 
-![](https://github.com/opencollective/documentation/tree/05518c2a8cc051a732f4ec53e9e9c63933f7310b/contributing/.gitbook/assets/contributing_design_design-contributing-guidelines_figma-file-visualization-2019-07-09.png)
+![](../../.gitbook/assets/contributing_design_design-contributing-guidelines_figma-file-visualization-2019-07-09.png)
 
 Here you can obtain assets, individual characteristics of each elements and make specific questions.
 
@@ -118,17 +118,17 @@ Every task is linked with the OpenCollective team and the code repository throug
 
 We break down big goals to specific tasks using the following logic:
 
-![](https://github.com/opencollective/documentation/tree/05518c2a8cc051a732f4ec53e9e9c63933f7310b/contributing/.gitbook/assets/contributing_design_design-contributing-guidelines_breakdown-tasks-2019-07-09.png)
+![](../../.gitbook/assets/contributing_design_design-contributing-guidelines_breakdown-tasks-2019-07-09.png)
 
 There are different ways to get in the loop of design-related tasks in GitHub:
 
 1. [**KanBan Board**](https://github.com/opencollective/opencollective/projects/2)
 
-![](https://github.com/opencollective/documentation/tree/05518c2a8cc051a732f4ec53e9e9c63933f7310b/contributing/.gitbook/assets/contributing_design_design-contributing-guidelines_kanban-board-2019-07-09.png)
+![](../../.gitbook/assets/contributing_design_design-contributing-guidelines_kanban-board-2019-07-09.png)
 
 1. [**Searching for design labels in the complete issue list.**](https://github.com/opencollective/opencollective/issues)
 
-![](https://github.com/opencollective/documentation/tree/05518c2a8cc051a732f4ec53e9e9c63933f7310b/contributing/.gitbook/assets/contributing_design_design-contributing-guidelines_issues-labels-2019-07-09.png.png)![](https://github.com/opencollective/documentation/tree/05518c2a8cc051a732f4ec53e9e9c63933f7310b/contributing/.gitbook/assets/contributing_design_design-contributing-guidelines_labels-2019-07-09.png)
+![](../../.gitbook/assets/contributing_design_design-contributing-guidelines_issues-labels-2019-07-09.png)![](../../.gitbook/assets/contributing_design_design-contributing-guidelines_labels-2019-07-09.png)
 
 ### [TeamWeek](https://teamweek.com/)
 
@@ -136,13 +136,13 @@ TeamWeek is the platform where our progress will be tracked and communicated wit
 
 When you first enter TeamWeek you see again the same effort breakdown:
 
-![](https://github.com/opencollective/documentation/tree/05518c2a8cc051a732f4ec53e9e9c63933f7310b/contributing/.gitbook/assets/contributing_design_design-contributing-guidelines_teamweek-effort-breakdown-2019-07-09.png)
+![](../../.gitbook/assets/contributing_design_design-contributing-guidelines_teamweek-effort-breakdown-2019-07-09.png)
 
 Inside any of those roadmaps you will see something like this:
 
 Where each epic will be tracked consistently throughout all of our tools.
 
-![](https://github.com/opencollective/documentation/tree/05518c2a8cc051a732f4ec53e9e9c63933f7310b/contributing/.gitbook/assets/contributing_design_design-contributing-guidelines_teamweek-tracking-2019-07-09.png)
+![](../../.gitbook/assets/contributing_design_design-contributing-guidelines_teamweek-tracking-2019-07-09.png)
 
 ## Getting familiar with the process of OC Design
 
@@ -164,5 +164,5 @@ In order to achieve this common ground, the design collective has created a **co
 
 The following diagram describes the ideal workflow of a sprint of 10 working days, all the way from planning the sprint to the demo day where the series of design solutions are presented with a public release.
 
-![](https://github.com/opencollective/documentation/tree/05518c2a8cc051a732f4ec53e9e9c63933f7310b/contributing/.gitbook/assets/contributing_design_design-contributing-guidelines_sprint-cycle-2019-07-09.png)
+![](../../.gitbook/assets/contributing_design_design-contributing-guidelines_sprint-cycle-2019-07-09.png)
 
