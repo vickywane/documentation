@@ -24,7 +24,7 @@ Translate Open Collective's interface!
 
 ### **Documentation**
 
-[Suggest changes](../contributing/documentation/suggesting-changes.md) to this documentation!
+Suggest changes to this documentation!
 
 {% page-ref page="../contributing/documentation/" %}
 
