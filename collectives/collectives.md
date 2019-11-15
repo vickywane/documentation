@@ -35,13 +35,13 @@ Some things that make Open Collective special:
 
 * Built for ongoing collaborative communities, not one-off campaigns or individual creators.
 * Open source and designed for financial and technical transparency.
-* Offers fiscal sponsorship as a service, using [Fiscal Hosts](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/hosts/README.md).
+* Offers fiscal sponsorship as a service, using [Fiscal Hosts](../fiscal-hosts/fiscal-hosts.md).
 
 For more details, see the [comparison](../product/comparison.md) page.
 
 ### How does paying people work?
 
-Money contributed to a Collective goes to the bank account of the [Fiscal Host](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/hosts/README.md). When someone wants to be paid, they [submit an expense](../expenses-and-getting-paid/submitting-expenses.md) through your Collective page. After you approve it, the person is reimbursed via PayPal.
+Money contributed to a Collective goes to the bank account of the [Fiscal Host](../fiscal-hosts/fiscal-hosts.md). When someone wants to be paid, they [submit an expense](../expenses-and-getting-paid/submitting-expenses.md) through your Collective page. After you approve it, the person is reimbursed via PayPal.
 
 Expenses are visible publicly, so everyone can see how much money was spent and on what \(though private details like emails, names, and addresses are only visible to that user and the Collective admins\).
 
@@ -49,7 +49,7 @@ Expenses are visible publicly, so everyone can see how much money was spent and 
 
 Like most other crowdfunding platforms, Open Collective takes a 5% commission \(plus payment processing fees, approximately 3%\).
 
-Another additional fee may apply depending on the [fiscal host](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/hosts/README.md) \(often 5%\). A fiscal host is the organisation that maintains the bank account behind the scenes and takes care of bookkeeping, taxes, etc. If you operate an organization that can provide these services, you can [fiscally host your own Collective](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/hosts/become-host.md), incurring no fiscal hosting fee.
+Another additional fee may apply depending on the [fiscal host](../fiscal-hosts/fiscal-hosts.md) \(often 5%\). A fiscal host is the organization that maintains the bank account behind the scenes and takes care of bookkeeping, taxes, etc. If you operate an organization that can provide these services, you can [fiscally host your own Collective](../fiscal-hosts/become-a-fiscal-host.md), incurring no fiscal hosting fee.
 
-See more details about [fiscal hosts](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/hosts/README.md) and [pricing](../about/pricing.md).
+See more details about [fiscal hosts](../fiscal-hosts/fiscal-hosts.md) and [pricing](../about/pricing.md).
 
