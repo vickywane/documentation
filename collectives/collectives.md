@@ -49,7 +49,7 @@ Expenses are visible publicly, so everyone can see how much money was spent and 
 
 Like most other crowdfunding platforms, Open Collective takes a 5% commission \(plus payment processing fees, approximately 3%\).
 
-Another additional fee may apply depending on the [fiscal host](../fiscal-hosts/fiscal-hosts.md) \(often 5%\). A fiscal host is the organization that maintains the bank account behind the scenes and takes care of bookkeeping, taxes, etc. If you operate an organization that can provide these services, you can [fiscally host your own Collective](../fiscal-hosts/become-a-fiscal-host.md), incurring no fiscal hosting fee.
+Another additional fee may apply depending on the [Fiscal Host](../fiscal-hosts/fiscal-hosts.md) \(often 5%\). A fiscal host is the organization that maintains the bank account behind the scenes and takes care of bookkeeping, taxes, etc. If you operate an organization that can provide these services, you can [fiscally host your own Collective](../fiscal-hosts/become-a-fiscal-host.md), incurring no fiscal hosting fee.
 
-See more details about [fiscal hosts](../fiscal-hosts/fiscal-hosts.md) and [pricing](../about/pricing.md).
+See more details about [Fiscal Hosts](../fiscal-hosts/fiscal-hosts.md) and [pricing](../about/pricing.md).
 
