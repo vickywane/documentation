@@ -4,7 +4,7 @@
 
 Once you have a Collective, you can start submitting expenses, edit your page content, and create events for your community right away.
 
-In order to receive money or pay out expenses, you need a [Fiscal Host](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/hosts/README.md). Whether you have a Fiscal Host yet or not, here are some steps you can take to get your Collective started.
+In order to receive money or pay out expenses, you need a [Fiscal Host](../fiscal-hosts/fiscal-hosts.md). Whether you have a Fiscal Host yet or not, here are some steps you can take to get your Collective started.
 
 ### 1. Make your Collective your own
 
@@ -14,9 +14,9 @@ Update your images and main color and add about info. [Here's how](customize-col
 
 If you have collaborators on your project who can help you manage your page and approve expenses add them as Core Contributors by going to 'edit Collective' and clicking 'Core Contributors'.
 
-### 3. Add Financial Contributors to your Github and website
+### 3. Add Financial Contributors to your GitHub and website
 
-See our available [website](https://github.com/OpenCollective/OpenCollective/wiki/Website-banner) and [Github](https://github.com/opencollective/opencollective/wiki/Github-banner) banners.
+See our available [website](https://github.com/OpenCollective/OpenCollective/wiki/Website-banner) and [GitHub](https://github.com/opencollective/opencollective/wiki/Github-banner) banners.
 
 ### 4. Start tracking expenses
 
