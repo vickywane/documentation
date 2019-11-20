@@ -2,28 +2,77 @@
 
 Use tiers to define different amounts for financial contributions. Tiers can also have associated goals.
 
-To update them, go to 'edit Collective', and head to the 'Tiers' section.
+To update them, go to your Collective page, click on the gear icon and head to the **Tiers** section.
 
-#### Configuration for Tiers:
+![](../.gitbook/assets/collectives_tiers-and-goals_settings-menu.png)
 
-* **Type:** generic, membership, service, product, donation
-* **Name:** e.g. _Gold Sponsor, Member, Supporter_
-* **Description:** What this tier means or reward included
-* **Amount type:** fixed or flexible \(users can adjust it\)
-* **Suggested amounts:** default options for contributors to pick from
-* **Default amount:** pre-set starting amount
-* **Minimum amount:** for tiers that have a minimum
-* **Interval:** Once, monthly, or yearly
-* **Available Quantity:** if you want the Tier to be limited \(for unlimited leave empty\)
-* **Button text:** the action word on the Tier card users click \(eg. donate, join, contribute\)
-* **Goal:** target amount you're trying to raise in this tier \(leave blank if none\)
-* **Force standalone page:** if you want to force the creation of a page for this tier
+![](../.gitbook/assets/collectives_tiers-and-goals_tiers-left-menu.png)
 
-![Tier edition](../.gitbook/assets/image%20%281%29.png)
+You should find the following form:
 
-To add more, click the blue "add another tier" button.
+![Tier configuration form](../.gitbook/assets/image%20%281%29.png)
 
-Don't forget to **save** your changes _\*\*_so they show up on your Collective page.
+## Configuration for Tiers
+
+### **Type**
+
+Generic, membership, service, product, donation.
+
+### **Name**
+
+e.g. _Gold Sponsor, Member, Supporter._ This is the only required field to add a new Tier with the default values; all others are optional.
+
+### **Description**
+
+Important information for Financial Contributors such as what does this tier mean or which rewards are included.
+
+### **Amount type**
+
+Fixed or flexible. Flexible amounts can be adjusted by users as they wish.
+
+### **Suggested amounts**
+
+Suggestions for contributors to pick from.
+
+### **Default amount**
+
+A preset starting amount.
+
+### **Minimum amount**
+
+The minimum amount allowed for this contribution, if any.
+
+### **Interval**
+
+The frequency in which such contribution will be charged. It can be a one time contribution, a monthly one, or even yearly.
+
+### **Available quantity**
+
+For limited edition contributions \(such as special edition items, one-time events, etc\).
+
+### **Button text**
+
+The action word on the Tier card users click \(such as donate, join, contribute\). You can also add emojis if you wish!
+
+![Example of a Tier with an emoji](../.gitbook/assets/collectives_tiers-and-goals_tiers-emoji-button.png)
+
+### **Goal**
+
+Target amount you're trying to raise in this Tier.
+
+### **Force standalone page**
+
+If you want to force the creation of a page for this tier. Here's what it looks like:
+
+![](../.gitbook/assets/collectives_tiers-and-goals_tiers-standalone-page.png)
+
+You can access it from your Collective page by clicking on **Read more**.
+
+![](../.gitbook/assets/collectives_tiers-and-goals_tiers-read-more.png)
+
+To add more Tiers, click the blue "add another tier" button.
+
+Don't forget to **save** your changes so they show up on your Collective page.
 
 ## Support Tiers
 
@@ -37,9 +86,9 @@ Here is a template for a basic support tier for your collective:
 
 With the above tier example, your responsibilities as a Collective are:
 
-* adding the sponsor's logo on your website
-* merging the Open Collective's PR on your readme to show their logo \(or doing one yourself\)
-* engaging with them to provide the support you've agreed to via the channels specified
+* Adding the sponsor's logo on your website
+* Merging the Open Collective's PR on your readme to show their logo \(or doing one yourself\)
+* Engaging with them to provide the support you've agreed to via the channels specified
 
 The Sponsor's responsibilities are:
 
