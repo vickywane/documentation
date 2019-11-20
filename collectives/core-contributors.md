@@ -6,6 +6,10 @@
 
 **Collective Admins** are Core Contributors with extra permissions, like editing the Collective settings and approving expenses. Admins get notifications of activity on your Collective.
 
+{% hint style="warning" %}
+**Core Contributors don't have access to the administrative panel of a Collective unless they are also Collective Admins**.
+{% endhint %}
+
 ## Adding or Changing Core Contributors
 
 1. Go to your Collective page and click the gear next to your Collective logo.
