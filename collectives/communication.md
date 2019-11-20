@@ -1,24 +1,40 @@
 # Updates & Comms
 
-## Updates to Backers
+## Updates to Financial Contributors
 
-A lot of Collectives like to periodically email their Backers, to let them know what their donations are enabling, express thanks, or notify everyone of a change.
+A lot of Collectives like to periodically email their Financial Contributors, to let them know what their donations are enabling, express thanks, or notify everyone of a change.
 
-To create an Update, go to your Collective page and click "Create an Update".
+To create an Update, go to your Collective page, head to the **Updates** section and click on **+ Create a new update**.
 
-![](../.gitbook/assets/screen-shot-2019-05-31-at-12.23.38-pm.png)
+![](../.gitbook/assets/collectives_updates-and-comms_create-new-update.png)
 
-You can also send Updates via email using **backers@$collective.opencollective.com**
-
-_$collective = the slug of your Collective, which appears in your Collective URL_
+{% hint style="info" %}
+You can also write and publish Updates through email by sending a message to **backers@`$COLLECTIVE`.opencollective.com** \(in which `$COLLECTIVE` is the slug of your Collective, which appears in your Collective URL.
+{% endhint %}
 
 Updates will be emailed and appear in the Updates section of your Collective page.
 
-![](../.gitbook/assets/screen-shot-2019-02-05-at-6.02.51-pm.png)
+![The Updates section of a Collective page after being populated with two posts.](../.gitbook/assets/collectives_updates-and-comms_all-updates.png)
+
+### Web interface
+
+We offer a rich editor to write your fantastic updates to your Contributors!
+
+![](../.gitbook/assets/collectives_updates-and-comms_regular-update.png.png)
+
+#### Private updates
+
+You can also write and publish exclusive updates for your Contributors by selecting the box on **Private update**.
+
+![](../.gitbook/assets/collectives_updates-and-comms_private-update.png)
+
+And if you wish, you can set it to become public after a certain date.
+
+![](../.gitbook/assets/collectives_updates-and-comms_public-after.gif)
 
 ## Contacting a Collective
 
-To receive communication via your Collective, senders can email **info@$collective.opencollective.com** to reach the Core Contributors.
+To receive communication via your Collective, senders can email **info@`$COLLECTIVE`.opencollective.com** to reach the Core Contributors.
 
 We recommend you share this address, or another email address you prefer, in your Collective description, so people know how to reach you.
 
