@@ -2,13 +2,13 @@
 
 ## Adding a Fiscal Host
 
-In order to raise and spend money, you'll need a [Fiscal Host](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/hosts/README.md). There are different hosts that serve different missions, interest areas, and geographic. [See them all here](https://opencollective.com/hosts).
+In order to raise and spend money, you'll need a [Fiscal Host](../fiscal-hosts/fiscal-hosts.md). There are different hosts that serve different missions, interest areas, and geographic. [See them all here](https://opencollective.com/hosts).
 
 Click on the apply button on any host page, and if your project fits their criteria, they will approve it.
 
 ![](../.gitbook/assets/collectives_add-a-fiscal-host_apply.png)
 
-If you have a legal entity and bank account already, you can also [set up your own fiscal host](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/hosts/become-host.md).
+If you have a legal entity and bank account already, you can also [set up your own fiscal host](../fiscal-hosts/become-a-fiscal-host.md).
 
 If you are an open source project with at least 100 stars on GitHub \(or equivalent other website\), you can apply to create your Collective under the umbrella of the [Open Source Collective](https://opencollective.com/opensource/apply) fiscal host.
 
