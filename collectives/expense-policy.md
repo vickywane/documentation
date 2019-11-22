@@ -2,7 +2,9 @@
 
 You can specify an expense policy, which appears on the top of the submit expense form, to give guidance to expense submitters. Making it clear what expenses will be approved and what submitters need to do will save time for you and them.
 
-To update your expense policy, go to 'edit collective' and click Expenses.
+To update your expense policy, go to your Collective's page, click on the gear icon next to your Collective's logo and go to the **Expenses Policy** page.
+
+![](../.gitbook/assets/collectives_expenses-policy.png)
 
 If you have not specified an expense policy, when you view the submit expense page for your Collective, you will see a button asking you to add one.
 
@@ -20,7 +22,7 @@ If you have not specified an expense policy, when you view the submit expense pa
 
 ## Fiscal Host Expense Policy
 
-Your Fiscal Host can also set an [expense policy](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/hosts/fiscal-host-settings.md#expenses). It will appear on the submit expense page, underneath the Collective policy.
+Your Fiscal Host can also set an [expense policy](../fiscal-hosts/fiscal-host-settings.md#expenses). It will appear on the submit expense page, underneath the Collective policy.
 
 Often times, Collective expense policies are focused on what categories of things are allowed as expenses, while the Fiscal Host policy pertains to required documentation, like details on invoices.
 
