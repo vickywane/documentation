@@ -13,9 +13,9 @@ Otherwise feel free to open an issue on [https://github.com/opencollective/openc
 
 ## Twitter Integration
 
-Connect your Twitter to automatically thank new backers who contribute to your Collective.
+Connect your Twitter to automatically thank new backers who contribute to your Collective! To do so, go to your Collective page, click on the gear icon and head to the **Connected Accounts** page.
 
-Go to "edit Collective" &gt; "Connected Accounts" and click the "Connect Twitter" button.
+![](../.gitbook/assets/collectives_integrations_connected-accounts.png)
 
 ![](../.gitbook/assets/connect-twitter.png)
 
@@ -25,15 +25,15 @@ You can set up Open Collective notifications in your Slack or Gitter channel. Fi
 
 ### Slack Webhook
 
-* In Slack, select menu Apps & Integrations
-* Click Build Your Own &gt; Make a Custom Integration &gt; Incoming WebHooks
+* In Slack, select menu **Apps & Integrations**
+* Click **Build Your Own** &gt; **Make a Custom Integration** &gt; **Incoming WebHooks**
 * Choose a channel, or create a new channel, where the notifications will be sent
-* Click Add Incoming WebHooks Integration
+* Click on **Add Incoming WebHooks Integration**
 
 ### **Gitter Webhook**
 
-* Go to your room's integrations and click Open Collective
-* Copy the provided Webhook URL and click Done
+* Go to your room's integrations and click **Open Collective**
+* Copy the provided Webhook URL and click **Done**
 
 ### For Admins
 

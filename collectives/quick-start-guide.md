@@ -24,7 +24,7 @@ See our available [website](https://github.com/OpenCollective/OpenCollective/wik
 
 ### 5. Spread the word
 
-You can connect your Twitter account to your collective and automatically thank your backers. [Here's how](https://github.com/OpenCollective/OpenCollective/wiki/Twitter).
+You can connect your Twitter account to your collective and automatically thank your backers. [Here's how](integrations.md#twitter-integration).
 
 ### 6.  Launch!
 
