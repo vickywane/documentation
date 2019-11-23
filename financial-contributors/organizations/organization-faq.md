@@ -1,6 +1,6 @@
 # FAQ
 
-## Why should we become a Sponsor?
+## Why should we become an Organization?
 
 * Legally support communities that don't have a legal entity
 * Transparency: you’ll always know what your contributions are being used for, in real time

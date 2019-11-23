@@ -4,7 +4,9 @@ You can set up events for your community and sell tickets that go straight to yo
 
 ## Create an Event
 
-Log in to your Collective and scroll down to the Events section. Click on the "Create event" button.
+Log in to your Collective and scroll down to the Events section. Click on the **Create Event** button.
+
+![](../.gitbook/assets/collectives_events_creating-a-event.png)
 
 * **Template:** if it's your first event, select no template. If you want to copy a previous event, select it.
 * **URL:** the online address your event will have - very important so you don't get a [404 error](events.md#i-cant-see-my-event-listed-or-get-a-404-error).
@@ -56,6 +58,6 @@ You probably forgot to set the URL field when creating the event. Just write to 
 
 If you want to email your event's attendees, you can do it in two different ways:
 
-1. Login to your Collective, go to the event, and under registered people you should see the option for emailing. ![](https://camo.githubusercontent.com/cdddf63b67fd983dd92c8029c880ff93cece67af/68747470733a2f2f646973636f757273652d63646e2d736a63312e636f6d2f7374616e64617264362f75706c6f6164732f6f70656e636f6c6c6563746976652f6f7074696d697a65642f31582f633437633532383536313466343833666634653034616132323737666432363166313839356232615f315f363930783136332e706e67) 
+1. Login to your Collective, go to the event, and under registered people you should see the option for emailing.  
 2. Send an email to _$event@$collective.opencollective.com_ to reach out to all people who RSVPed \($event = the name of your event, $collective = the name of your collective\).
 

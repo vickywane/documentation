@@ -20,13 +20,13 @@ Basic data for all expenses, like the amount and description, are public. But at
 
 ### When will I get paid?
 
-Expenses for Collectives in [Fiscal Hosts](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/hosts/README.md) managed by Open Collective are paid weekly, on Thursdays. Other hosts have their own policies and schedules.
+Expenses for Collectives in [Fiscal Hosts](../fiscal-hosts/fiscal-hosts.md) managed by Open Collective are paid weekly, on Thursdays. Other hosts have their own policies and schedules.
 
-### Can I get paid other than via Paypal?
+### Can I get paid other than via PayPal?
 
-Right now our system only is able to send outgoing payments using Paypal, and paying by other means is a manual process.
+Right now our system only is able to send outgoing payments using PayPal, and paying by other means is a manual process.
 
-If the Collective is fiscally hosted by Open Collective \(e.g. the Open Source Collective\), we're only able to send bank transfers for special circumstances, such as a user located in a country Paypal does not serve, or for very large amounts.
+If the Collective is fiscally hosted by Open Collective \(e.g. the Open Source Collective\), we're only able to send bank transfers for special circumstances, such as a user located in a country PayPal does not serve, or for very large amounts.
 
 We hope to add more choices for automated payments in the future, including bank transfer, cryptocurrency, and other payment platforms.
 

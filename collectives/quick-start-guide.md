@@ -16,7 +16,7 @@ If you have collaborators on your project who can help you manage your page and 
 
 ### 3. Add Financial Contributors to your GitHub and website
 
-See our available [website](https://github.com/OpenCollective/OpenCollective/wiki/Website-banner) and [GitHub](https://github.com/opencollective/opencollective/wiki/Github-banner) banners.
+Check the many ways you can export your data on [Data Export](data-export.md) and our diversity of [Buttons & Banners](widgets.md).
 
 ### 4. Start tracking expenses
 

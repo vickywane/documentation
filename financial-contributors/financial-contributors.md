@@ -16,11 +16,11 @@ You can also find dependencies using [Back Your Stack](https://backyourstack.com
 
 ## What payment methods can I use?
 
-Right now we only support credit card payments via Stripe through the platform. It is possible to pay by other means, such as bank transfer or Paypal, by special agreement with a Collective and their [Fiscal Host](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/hosts/README.md).
+Right now we only support credit card payments via Stripe through the platform. It is possible to pay by other means, such as bank transfer or PayPal, by special agreement with a Collective and their [Fiscal Host](../fiscal-hosts/fiscal-hosts.md).
 
 ## Are my donations tax deductible?
 
-It depends on the [fiscal host ](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/hosts/README.md)of the Collective. If the host has tax-exempt status, then your donation can be tax deductible. It also may matter which country the host is in, if your country only allows tax exemptions for domestic transactions.
+It depends on the [Fiscal Host ](../fiscal-hosts/fiscal-hosts.md)of the Collective. If the host has tax-exempt status, then your donation can be tax deductible. It also may matter which country the host is in, if your country only allows tax exemptions for domestic transactions.
 
 The Open Source Collective 501\(c\)\(6\) is a non-profit that serves as fiscal host to most open source software projects on Open Collective. **Donations to Collectives under the Open Source Collective 501\(c\)\(6\) are not tax deductible.**
 
@@ -30,13 +30,13 @@ In contrast, the Open Collective Foundation 501\(c\)\(3\), which is home to many
 
 ## Can I update the billing address on my receipts?
 
-Yes. To do so, go to 'edit profile' and fill in the address field. You can also add your company name here if needed.
+Yes. To do so, go to your Profile and click on the gear icon next to your avatar. You will find an Address field on the first page:
 
-![](../.gitbook/assets/screen-shot-2019-04-15-at-1.24.52-pm.png)
+![](../.gitbook/assets/financial-contributors_address.jpeg)
 
 ## Can my Collective give to another Collective?
 
-If both Collectives are in the same [fiscal host](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/hosts/README.md), you can donate using the balance of a Collective. For example, most open source projects are hosted by the Open Source Collectives, so they can give to each other.
+If both Collectives are in the same [Fiscal Host](../fiscal-hosts/fiscal-hosts.md), you can donate using the balance of a Collective. For example, most open source projects are hosted by the Open Source Collectives, so they can give to each other.
 
 To make a Collective-to-Collective donation, go to the page of the Collective and select your contribution amount. You will be given the option to donate from any Collective you are a core contributor of.
 

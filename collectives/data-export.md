@@ -1,6 +1,6 @@
 # Data Export
 
-To see the data export options, go to 'edit Collective' &gt; Export.
+To see the data export options, go to your Collective's page, click on the gear icon next to your logo and head to the **Export** page.
 
 ## Widget
 

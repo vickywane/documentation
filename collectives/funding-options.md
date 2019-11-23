@@ -4,9 +4,9 @@ description: Direct donations are not the only way a Collective can receive reve
 
 # Funding Options
 
-We encourage Collectives to get creative about funding channels beyond the standard reward tiers. Get inspired by these ideas, and come up with your own! The Open Collective platform is flexible enough to accomodate all kinds of creative approaches.
+We encourage Collectives to get creative about funding channels beyond the standard reward tiers. Get inspired by these ideas, and come up with your own! The Open Collective platform is flexible enough to accommodate all kinds of creative approaches.
 
-Check with your [fiscal host](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/hosts/README.md) to see if these options are available to you.
+Check with your [Fiscal Host](../fiscal-hosts/fiscal-hosts.md) to see if these options are available to you.
 
 ## Ethical Advertising
 
@@ -18,7 +18,7 @@ We [wrote a blog post](https://medium.com/open-collective/using-ads-to-sustain-o
 
 Give something to your contributors for their donations—swag! Sell t-shirts or other items and put the funds in your Collective budget. Collectives have been using [threadless](https://webpack.threadless.com/mens/t-shirt/regular), [bonfire](https://www.bonfire.com), [teezily](https://www.teezily.com/stores/voltshop) and [cotton bureau](https://cottonbureau.com/products/parcel-t-shirt#/1402774/tee-men-standard-tee-vintage-navy-tri-blend-s).
 
-Usually, you can set up sales revenue to go directly to your fiscal host via Paypal or bank transfer. Then the host can credit the amount to your Collective. Different hosts have different policies, so reach out to them and confirm.
+Usually, you can set up sales revenue to go directly to your fiscal host via PayPal or bank transfer. Then the host can credit the amount to your Collective. Different hosts have different policies, so reach out to them and confirm.
 
 As this is a manual process, hosts generally prefer aggregating transactions and crediting less frequently \(such as once a month\). Get in touch with your fiscal host for details.
 

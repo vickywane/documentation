@@ -20,7 +20,7 @@ Yes, we recommend you have an [expense policy](expense-policy.md), which will sh
 
 ### What happens when I click Approve?
 
-When you approve an expense, the submitter will get a notification. The [Fiscal Host](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/hosts/README.md) admin will also be notified. They review the expense and make sure it has a valid receipt or invoice, and then proceed to pay it.
+When you approve an expense, the submitter will get a notification. The [Fiscal Host](../fiscal-hosts/fiscal-hosts.md) admin will also be notified. They review the expense and make sure it has a valid receipt or invoice, and then proceed to pay it.
 
 ### What happens when I click Reject?
 
