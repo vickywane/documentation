@@ -12,7 +12,7 @@
 
 ## How do I Sponsor a Collective?
 
-Before setting up a Sponsorship, we recommend you create an [Organization](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/financial-contributors/organizations/organizations.md), so you can contribute under your company's name instead of your own.
+Before setting up a Sponsorship, we recommend you create an [Organization](./), so you can contribute under your company's name instead of your own.
 
 Go to the Collective's page and review their Sponsorship tiers. Choose one that suits the level of support you want to give or the reciprocal benefits you care about. Go through the contribution flow and pay using a credit card.
 
@@ -59,9 +59,9 @@ Yes. Contributions through our platform will automatically generate receipts aft
 
 ## Who are we transacting with legally?
 
-Open Collectives are under the legal umbrella of their [fiscal host](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/financial-contributors/hosts/README.md). For most open source software projects, that's the Open Source Collective.
+Open Collectives are under the legal umbrella of their [Fiscal Host](../../fiscal-hosts/fiscal-hosts.md). For most open source software projects, that's the Open Source Collective.
 
-Most sponsorships arrangements don't require a separate contract to the standard terms, but we offer a [sponsorship agreement template](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/financial-contributors/hosts/sponsor-agreement.md#sponsorship-agreement-template) if needed. Sponsorship agreements are set in discussion with the sponsor, the fiscal host, and the Collective together.
+Most sponsorships arrangements don't require a separate contract to the standard terms, but we offer a [sponsorship agreement template](../../fiscal-hosts/sponsor-agreement.md) if needed. Sponsorship agreements are set in discussion with the sponsor, the fiscal host, and the Collective together.
 
 ## Help me convince my company to become an organization on Open Collective?
 
