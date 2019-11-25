@@ -16,7 +16,7 @@ By sharing a host, Collectives are effectively mutualizing the cost and overhead
 
 ### What are some examples of fiscal hosts?
 
-Fiscal Hosts can be in any location and take any form of legal entity \(as long as they have a bank account, Paypal account, and Stripe account\). Each one determines its own policies for which Collectives it will host and what fees it will charge.
+Fiscal Hosts can be in any location and take any form of legal entity \(as long as they have a bank account, PayPal account, and Stripe account\). Each one determines its own policies for which Collectives it will host and what fees it will charge.
 
 Below are the hosts that Open Collective manages, plus some more examples.
 
@@ -39,7 +39,7 @@ Some projects can’t be fiscally hosted by the entities Open Collective runs it
 
 ### Do all Collectives need a fiscal host?
 
-Every Collective that receives or pays out money needs a fiscal host, because they need to connect the host's bank account, Stripe account, and Paypal account to activate Open Collective’s payment features. If you already have a legal company set up, or you are comfortable taking on the responsibility as an individual, you can [fiscally host your own Collective](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/fiscal-hosts/become-host.md).
+Every Collective that receives or pays out money needs a fiscal host, because they need to connect the host's bank account, Stripe account, and Paypal account to activate Open Collective’s payment features. If you already have a legal company set up, or you are comfortable taking on the responsibility as an individual, you can [fiscally host your own Collective](become-a-fiscal-host.md).
 
 ### How do I find a Fiscal Host?
 
@@ -47,5 +47,5 @@ Go to the fiscal host's page and click “Apply to create a Collective”. You c
 
 ### I'm interested in becoming a Fiscal Host
 
-Please see our documentation on [becoming a host](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/fiscal-hosts/become-host.md).
+Please see our documentation on [becoming a Fiscal Host](become-a-fiscal-host.md).
 

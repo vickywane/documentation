@@ -2,7 +2,7 @@
 
 ## Starting from scratch
 
-**Go to** [**https://opencollective.com/create**](https://opencollective.com/create)\*\*\*\*
+**Go to** [**https://opencollective.com/create**](https://opencollective.com/create)
 
 **Follow the steps to sign in to or create an Open Collective account**  
 This is the account for the individual who is the host admin. Normally it's associated with a human name. It will manage your host, which normally has an organization name.
