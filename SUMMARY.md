@@ -117,6 +117,7 @@
   * [Testing with Cypress](contributing/development/testing-with-cypress.md)
   * [Collective's locations](contributing/development/collectives-locations.md)
 * [Documentation](contributing/documentation/README.md)
+  * [Resources for documentarians](contributing/documentation/resources-for-documentarians.md)
   * [Style guide](contributing/documentation/style-guide.md)
   * [Suggesting changes](contributing/documentation/suggesting-changes.md)
 * [Translation](contributing/translation.md)
