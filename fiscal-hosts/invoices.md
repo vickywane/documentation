@@ -38,9 +38,9 @@ Host should check with local authorities to see if this is something you can do 
 
 ## Communicating the invoicing address
 
-![A custom Fiscal Host expense policy](../.gitbook/assets/9aa60d22-204a-4286-86b8-ff4811f74c57.jpeg)
+![](../.gitbook/assets/fiscal-hosts_invoices_submit-expenses-screen_2019-11-25.png)
 
-The Fiscal Host Expense Policy is shown on the Submit Expense page of each Collective you host. To define it, go to the settings of your Fiscal Host profile and edit the 'Expense Policy' section. It can also be useful to link to an invoice template.
+The Fiscal Host Expense Policy is shown on the Submit Expense page of each Collective you host. To define it, go to the settings of your Fiscal Host profile and edit the **Expense Policy** section. It can also be useful to link to an invoice template.
 
-![Edit expense policy](../.gitbook/assets/521d6b2d-74d4-4bd8-b774-a799e06eda1c.jpeg)
+![](../.gitbook/assets/fiscal-hosts_invoices_expenses-policy-settings_2019-11-25.png)
 

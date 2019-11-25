@@ -26,11 +26,11 @@ Click the "connect Stripe" button. Create a Stripe account, or log into your exi
 
 ## If you already have a Collective
 
-Go to 'edit Collective' &gt; fiscal host and select 'use your own host'. Follow the steps from there to create your host and connect your Stripe account.
+Go to your Collective's page, click on the gear next to your logo, head to the Fiscal Host and select **Use your own host**. Follow the steps from there to create your host and connect your Stripe account.
 
 ## If you already have an Organization
 
 Follow the same steps as above, except instead of selecting "create organization", select the existing Organization you'd like to use from the drop down menu.
 
-[**Next: customize your fiscal host and set the host fee.**](fiscal-host-settings.md)
+[**Next: customize your Fiscal Host and set the Fiscal Host fee.**](fiscal-host-settings.md)
 

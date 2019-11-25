@@ -2,13 +2,15 @@
 
 ## How to set up and customize your Fiscal Host
 
-Go to your host page and click "edit organization" to reveal the different settings and options for your host.
+Go to your Fiscal Host page and click on the gear next to your logo to reveal the different settings and options for your Fiscal Host.
 
-![](../.gitbook/assets/screen-shot-2019-01-24-at-5.07.22-pm.png)
+![](../.gitbook/assets/fiscal-hosts_fiscal-hosts-settings_gear-icon.png)
+
+![](../.gitbook/assets/fiscal-hosts_fiscal-hosts-settings_all-settings-2019-11-25.png)
 
 ### Info
 
-Your fiscal host organization's name, description, and links.
+Your Fiscal Host organization's name, description, and links.
 
 Under long description, we advise you to enter detailed information about what kind of Collectives you host, and if you're open to applications from new Collectives. What are your requirements, such as geographical location, nonprofit status, or mission area.
 
