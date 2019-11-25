@@ -2,7 +2,7 @@
 
 Bulk transfer means sending funds via one financial transfer, which you can then give to one or multiple Collectives.
 
-Once the [fiscal host](../../fiscal-hosts/fiscal-hosts.md) confirms the funds have been received, they allocate that amount to your Organization, which you \(and your team\) can then distribute to Collectives as you wish.
+Once the [Fiscal Host](../../fiscal-hosts/fiscal-hosts.md) confirms the funds have been received, they allocate that amount to your Organization, which you \(and your team\) can then distribute to Collectives as you wish.
 
 Different fiscal hosts may have different processes for bulk transfers. Before sending, please confirm their policies and payment details, and let the fiscal host know to expect the funds.
 
