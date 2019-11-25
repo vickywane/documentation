@@ -32,7 +32,7 @@ Both! The person to whom you gave the gift card is the one picking the collectiv
 
 ## Create gift cards
 
-To create Gift Cards for your [Organization](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/financial-contributors/organizations/organizations.md), go to **Edit Organization** and then **Gift Cards**. From there you'll also be able to see your pending and redeemed gift cards.
+To create Gift Cards for your [Organization](./), go to **Edit Organization** and then **Gift Cards**. From there you'll also be able to see your pending and redeemed gift cards.
 
 ![](../../.gitbook/assets/peek-26-03-2019-08-42.gif)
 
