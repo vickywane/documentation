@@ -83,7 +83,7 @@
 * [Fiscal Host Settings](fiscal-hosts/fiscal-host-settings.md)
 * [Invoices](fiscal-hosts/invoices.md)
 * [Payouts](fiscal-hosts/payouts.md)
-* [Host Dashboard](fiscal-hosts/fiscal-host-dashboard.md)
+* [Fiscal Host Dashboard](fiscal-hosts/fiscal-host-dashboard.md)
 * [Add Funds Manually](fiscal-hosts/add-funds-manually.md)
 * [Refunds](fiscal-hosts/refunds.md)
 * [Host Fees](fiscal-hosts/fiscal-host-fees.md)
