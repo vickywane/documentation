@@ -4,7 +4,7 @@
 
 ### For US-based Fiscal Hosts
 
-If you are filling invoices for more than $600 USD per year to a Collective with a [Fiscal Host](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/hosts/README.md) in the US \(receipt reimbursements don't count toward the $600 limit, only invoices\), you will need to send them a from W9 \(for US persons\) or W8-BEN/E \(for non-US persons\). The fiscal host admin should contact you if you are required to submit a form.
+If you are filling invoices for more than $600 USD per year to a Collective with a [Fiscal Host](../fiscal-hosts/fiscal-hosts.md) in the US \(receipt reimbursements don't count toward the $600 limit, only invoices\), you will need to send them a from W9 \(for US persons\) or W8-BEN/E \(for non-US persons\). The fiscal host admin should contact you if you are required to submit a form.
 
 For tax purposes, you will likely be treated as an independent contractor and you will be issued a 1099 if your earnings exceed $600. [Here](https://turbotax.intuit.com/tax-tools/tax-tips/Self-Employment-Taxes/Filing-IRS-Form-W-9/INF19741.html)'s a good explanation of how W-9s work for independent contractors, and there's more info on what a 1099 is [here](https://turbotax.intuit.com/tax-tools/tax-tips/Self-Employment-Taxes/What-is-an-IRS-1099-Form-/INF14810.html).
 
@@ -24,7 +24,7 @@ _**Note:** Going forward, invoice expenses and receipt expenses will be differen
 
 ## Info For Collectives Paying Expenses
 
-Collectives that live under the umbrella of a [Fiscal Host](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/hosts/README.md), don't need to worry about accounting and tax obligations, because the host manages that \(this is the awesome value of fiscal hosting\). If you need tax or accounting information for some reason, get in touch with your fiscal host.
+Collectives that live under the umbrella of a [Fiscal Host](../fiscal-hosts/fiscal-hosts.md), don't need to worry about accounting and tax obligations, because the host manages that \(this is the awesome value of fiscal hosting\). If you need tax or accounting information for some reason, get in touch with your fiscal host.
 
-Some Collectives run [their own Fiscal Host](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/hosts/become-host.md), and they have all the normal tax and reporting obligations of any legal entity. In that case, consult with your accountant to understand the requirements for taxes.
+Some Collectives run [their own Fiscal Host](../fiscal-hosts/become-a-fiscal-host.md), and they have all the normal tax and reporting obligations of any legal entity. In that case, consult with your accountant to understand the requirements for taxes.
 
