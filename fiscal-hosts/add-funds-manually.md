@@ -22,7 +22,7 @@ A short description of those funds.
 
 ### Source
 
-The origin of those funds. It can be your Fiscal Host, another Collective, an Organization.
+The origin of those funds. It can be your Fiscal Host, another Collective, or an Organization.
 
 ### Host fee
 

@@ -4,7 +4,11 @@ You have the option to charge a fee to Collectives who use your services as fisc
 
 ## Setting the host fee
 
-Go to edit host &gt; advanced to change the host fee. Put 0% if you do not want to charge a fee to your Collectives. This is the commission charges on donations made to Collectives in your host through the platform.
+Go to your Fiscal Host page, click on the gear icon next to your logo and head to **Advanced**.
+
+![](../.gitbook/assets/fiscal-hosts_host-fee_advanced-settings_focused_2019-11-25.png.png)
+
+Set your host fee to 0% if you do not want to charge a fee to your Collectives. This is the commission charges on donations made to Collectives in your host through the platform. Don't forget to save your changes!
 
 ## Fees for manual transactions
 
