@@ -2,7 +2,7 @@
 
 If you have entered incorrect information on your expense and it has not yet been approved, you can click "edit" to fix the error. Remember to save your changes.
 
-Unapproved expenses can be edited by the user who [submitted](submitting-expenses.md) them and the [Fiscal Host](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/hosts/README.md) admin.
+Unapproved expenses can be edited by the user who [submitted](submitting-expenses.md) them and the [Fiscal Host](../fiscal-hosts/fiscal-hosts.md) admin.
 
 ![](../.gitbook/assets/screen-shot-2019-01-24-at-6.19.22-pm.png)
 
