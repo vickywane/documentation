@@ -4,14 +4,14 @@
 
 Go to the Collective you're submitting the expense to and click "Submit Expense". You will need to upload a receipt or invoice and provide your contact details and PayPal address.
 
-Each Collective \(and its [Fiscal Host](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/hosts/README.md)\) can specify expense policies and helpful info like the details for invoicing, at the top of the 'new expense' page \([example](https://opencollective.com/webpack/expenses/new)\).
+Each Collective \(and its [Fiscal Host](../fiscal-hosts/fiscal-hosts.md)\) can specify expense policies and helpful info like the details for invoicing, at the top of the 'new expense' page \([example](https://opencollective.com/webpack/expenses/new)\).
 
 You can submit two kinds of expenses:
 
 * A **receipt** to be reimbursed for something you already paid for.
 * An **invoice** for your time or work, or if you don't have a receipt.
 
-[Here is an invoice template](https://docs.google.com/document/d/1IPxQ7uYsbmZM_HOZZiN0z09xxOcPPQn_sSwXZRV3MPM/copy) you can use. Fill out the blue parts, and change the payer to the correct Fiscal Host if needed \(the Fiscal Host is shown under the Collective name on their page, and this info should be in their expense policies, which appear on the 'submit expense' screen for the Collective. If you are a Fiscal Host, [read this](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/hosts/invoices.md) to know what billing address you should ask your collective to use\).
+[Here is an invoice template](https://docs.google.com/document/d/1IPxQ7uYsbmZM_HOZZiN0z09xxOcPPQn_sSwXZRV3MPM/copy) you can use. Fill out the blue parts, and change the payer to the correct Fiscal Host if needed \(the Fiscal Host is shown under the Collective name on their page, and this info should be in their expense policies, which appear on the 'submit expense' screen for the Collective. If you are a Fiscal Host, [read this](../fiscal-hosts/invoices.md) to know what billing address you should ask your collective to use\).
 
 In order to be paid, submitted expenses must be approved by the Collective's core contributors \(admins\), who ensure valid use of the Collective's funds.
 
