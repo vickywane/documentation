@@ -24,7 +24,7 @@ Read our **Terminology** page to know more about all key members of our communit
 
 ### Using our search bar
 
-Use the search bar on the top right to search for specific words or  phrases:
+Use the search bar on the top right to search for specific words or phrases:
 
 ![](.gitbook/assets/welcome-search-bar-2019-11-26.gif)
 
