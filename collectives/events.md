@@ -2,6 +2,10 @@
 
 You can set up events for your community and sell tickets that go straight to your Collective budget.
 
+{% hint style="warning" %}
+This functionality is still in experimental phase.
+{% endhint %}
+
 ## Create an Event
 
 Log in to your Collective and scroll down to the Events section. Click on the **Create Event** button.
