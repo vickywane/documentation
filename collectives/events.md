@@ -1,6 +1,12 @@
+---
+description: >-
+  You can set up events for your community and sell tickets that go straight to
+  your Collective budget.
+---
+
 # Events
 
-You can set up events for your community and sell tickets that go straight to your Collective budget.
+
 
 {% hint style="warning" %}
 This functionality is still in experimental phase.
