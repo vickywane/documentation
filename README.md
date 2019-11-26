@@ -14,6 +14,46 @@ To suggest changes, click the GitHub icon on any docs page and make a pull reque
 
 If you can't find the answer you're looking for, contact us at [support@opencollective.com](mailto:support@opencollective.com) or on our [Slack](https://opencollective.slack.com).
 
+## Find your way to the right page
+
+### Reading more about our community
+
+Read our **Terminology** page to know more about all key members of our community:
+
+{% page-ref page="about/terminology.md" %}
+
+### Using our search bar
+
+Use the search bar on the top right to search for specific words or  phrases:
+
+![](.gitbook/assets/welcome-search-bar-2019-11-26.gif)
+
+### Browsing sections
+
+Want to know more about Open Collective? Read our **About** section:
+
+{% page-ref page="about/introduction.md" %}
+
+Interested in reading more about Open Collective's features? Go to our **Product** section:
+
+{% page-ref page="product/product.md" %}
+
+Are you looking for information on how to start or maintain a Collective? Head to our **Collectives** section:
+
+{% page-ref page="collectives/collectives.md" %}
+
+Would you like to financially contribute to Collective as an Individual or an Organization? Read our Financial Contributors section:
+
+{% page-ref page="financial-contributors/financial-contributors.md" %}
+
+Do you want to know more about how to get paid in our platform? Check out **Expenses & Getting Paid** section:
+
+{% page-ref page="expenses-and-getting-paid/expenses.md" %}
+
+Thinking about hosting Collectives? Go to our **Fiscal Hosts** section:
+
+{% page-ref page="fiscal-hosts/fiscal-hosts.md" %}
+
 ## Overall FAQ
 
 _See links for more details. Each chapter heading in the docs has its own more specific FAQ._
