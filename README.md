@@ -1,5 +1,9 @@
 # Welcome
 
+{% hint style="danger" %}
+**This version of our documentation is deprecated. For the newest version of our documentation, go to** [**docs.opencollective.com/help**](https://docs.opencollective.com/help/)**.**
+{% endhint %}
+
 ### **We are on a mission to help collaborative groups collect and spend money transparently.**
 
 Open Collective is an online funding platform for open and transparent communities. We provide the tools to raise and share your finances in full transparency. _\*\*_
