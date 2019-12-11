@@ -17,7 +17,7 @@ redirects:
   backers-and-sponsors/website-badge: ./financial-contributors/website-badge.md
   backers-and-sponsors/sustainer-resources: ./financial-contributors/organizations/sustainer-resources.md
   expenses: ./expenses/README.md
-  hosts: ./fiscal-hosts/README.md
+  hosts: ./fiscal-hosts/fiscal-hosts.md
   hosts/become-host: ./fiscal-hosts/become-a-fiscal-host.md
   hosts/create-a-fiscal-host: ./fiscal-hosts/create-a-fiscal-host.md
   hosts/fiscal-host-settings: ./fiscal-hosts/fiscal-host-settings.md
