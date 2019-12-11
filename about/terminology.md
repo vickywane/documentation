@@ -35,7 +35,7 @@ Fiscal hosting enables Collectives to transact financially without needing to le
 
 #### **Fiscal Host Admin** ![](../.gitbook/assets/about_terminology_individual_2019-07-09.png)
 
-Individual\(s\) who create and/or manage the Fiscal Host. They are responsible for approving new Collectives who want to join the host and paying out expenses approved by Collective admins.
+Individual\(s\) who create and/or manage the Fiscal Host are responsible for approving new Collectives who want to join the host and paying out expenses approved by Collective admins.
 
 Fiscal Host admins want tools and workflows to easily manage their tasks \(paying expenses and approving new Collectives\). They need to charge their fees and keep a useful accounting system. They are often the first point of contact for the Core Contributors of Collectives they host, and many are super-users.
 
