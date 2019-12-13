@@ -4,7 +4,7 @@ Queries to get an export of email addresses from the database for various commun
 
 ## Get Backers \(name, email, totalDonations, lastDonation\) of a collective
 
-```text
+```sql
 WITH constants AS (
       SELECT id FROM "Collectives" WHERE slug='chsf'
     ), total_donations AS (
@@ -39,7 +39,7 @@ WITH constants AS (
 
 ## Get RSVPs to an event
 
-```text
+```sql
 SELECT 
   to_char(o."createdAt", 'YYYY-MM-DD HH:MI') as "date", o.quantity, (o."totalAmount" / 100) as "totalAmount", o.currency, o."TierId", o.description, 
   c.name, c.description, u.email, c."twitterHandle", c.website, c.image 
@@ -54,13 +54,13 @@ ORDER BY o."createdAt" DESC
 
 ## Fetch all email addresses
 
-```text
-SELECT email FROM "Users" where "deletedAt" is null and email is not null
+```sql
+SELECT email FROM "Users" where "deletedAt" is null
 ```
 
 ## Fetch email addresses of all admins of collectives on a given host
 
-```text
+```sql
 SELECT c.slug as collective, uc.slug as profile, m.role, u.email
 FROM "Members" m
 LEFT JOIN "Collectives" uc ON uc.id = m."MemberCollectiveId"
@@ -87,7 +87,7 @@ WHERE "newsletterOptIn" IS TRUE
 
 \(that have sponsored at least one "open source", "diversity in tech" or "Tech meetups" collective\)
 
-```text
+```sql
 /* 820 collectives selected */
 with collectives AS (
   SELECT id, slug, tags
