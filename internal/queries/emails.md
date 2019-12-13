@@ -72,10 +72,15 @@ AND c."isActive" IS TRUE
 AND c. "deletedAt" IS NULL
 ```
 
-## opt - in newsletter emails
+## Opt-in newsletter emails
 
-```text
-SELECT "createdAt", "firstName", "lastName", email FROM "Users" WHERE "newsletterOptIn" IS TRUE AND "createdAt" > '2018-05-15'
+```sql
+-- Export email for newsletter
+SELECT "createdAt", "firstName", "lastName", "email"
+FROM "Users"
+WHERE "newsletterOptIn" IS TRUE
+  AND "deletedAt" IS NULL
+  AND "createdAt" >= current_date - INTERVAL '2 months' -- Optional: to get only last 2 month's emails
 ```
 
 ## All admins of organizations
