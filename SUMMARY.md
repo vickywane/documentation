@@ -128,6 +128,7 @@
 * [Team Retreats](internal/team-retreats.md)
 * [Brussels Summer Team Retreat](internal/brussels-summer-team-retreat.md)
 * [Host Admin Manual](internal/host-admin-manual.md)
+* [Moderation](internal/moderation.md)
 * [Newsletter](internal/newsletter.md)
 * [Support](internal/support.md)
 * [Issue Labels](internal/issue-labels.md)
