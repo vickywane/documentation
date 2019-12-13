@@ -4,6 +4,10 @@ description: Describe the moderation system works and how the team should use it
 
 # Internal moderation tools
 
+{% hint style="info" %}
+For user documentation about moderation, see [Moderation](../product/moderation.md)
+{% endhint %}
+
 {% hint style="warning" %}
 We don't provide any interface for the moderation features yet. To access them you'll need a direct access to the database - through Forest, PgAdmin, DBeaver...etc
 {% endhint %}
@@ -33,7 +37,7 @@ The specified feature will be blocked for this user.
 
 #### When
 
-User has a strange behavior with a feature. We want to prevent the use of it without blocking access to the others.
+User has a strange behavior with a feature, or is abusing a specific one. We want to prevent the use of it without blocking access to the others. For example, users having bad language in a conversation - we want to prevent them from commenting, but it's ok to have them creating orders.
 
 #### How
 
