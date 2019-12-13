@@ -14,7 +14,7 @@
 
 1. Go to your Collective page and click the gear next to your Collective logo.
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 2. Head to the **Core Contributors** tab. Here you can add, remove, or change people and roles. 
 

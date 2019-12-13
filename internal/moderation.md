@@ -12,7 +12,10 @@ We don't provide any interface for the moderation features yet. To access them y
 
 #### What
 
-All features \(submitting expenses, commenting...\) will be blocked for this user.
+* All features \(submitting expenses, commenting...\) will be blocked for this user.
+* A warning will be displayed at the top of all pages for this user.
+
+![](../.gitbook/assets/image%20%287%29.png)
 
 #### When
 
