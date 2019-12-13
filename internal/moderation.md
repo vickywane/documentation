@@ -2,7 +2,7 @@
 description: Describe the moderation system works and how the team should use it
 ---
 
-# Moderation
+# Internal moderation tools
 
 {% hint style="warning" %}
 We don't provide any interface for the moderation features yet. To access them you'll need a direct access to the database - through Forest, PgAdmin, DBeaver...etc
