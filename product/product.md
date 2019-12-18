@@ -4,7 +4,7 @@
 
 A page to tell the world about your project and engage supporters.
 
-## [Raise Money](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/backers-and-sponsors/README.md)
+## [Raise Money](../financial-contributors/financial-contributors.md)
 
 Accept donations and sponsorship.
 
