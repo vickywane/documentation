@@ -8,7 +8,7 @@ redirects:
   about: ./about/README.md
   product: ./product/README.md
   collectives: ./collectives/README.md
-  backers-and-sponsors: ./financial-contributors/README.md
+  backers-and-sponsors: ./financial-contributors/financial-contributors.md
   backers-and-sponsors/sponsor-faq: ./financial-contributors/organizations/README.md
   backers-and-sponsors/payment: ./financial-contributors/payments.md
   backers-and-sponsors/collective-to-collective-donations: ./financial-contributors/collectives/collective-to-collective-donations.md
