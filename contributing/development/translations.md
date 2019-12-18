@@ -2,7 +2,7 @@
 description: Documenting how we handle translations in the code
 ---
 
-# Translations
+# Internationalization \(i18n\) system
 
 We use [react-intl](https://github.com/yahoo/react-intl) to manage our translations. They are extracted from the code to `src/lang/${locale}.json` files using the `npm run build:langs` command \(CI will notify you if the translation files are outdated\). **Don't translate the strings directly in the files**, we use [Crowdin](https://crowdin.com/project/opencollective) to manage our translatations.
 
@@ -127,23 +127,19 @@ For VSCode users, you can use the following snippet to make your life easier:
 
 #### Add the language on Crowdin
 
-* Go to [https://crowdin.com/project/opencollective/settings\#translations](https://crowdin.com/project/opencollective/settings#translations), click on `Target languages` pick the language and click `Update` 
-
-![](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/contributing/.gitbook/assets/image%20%287%29.png)
-
-* Language is ready for translation!
+Just go to [https://crowdin.com/project/opencollective/settings\#translations](https://crowdin.com/project/opencollective/settings#translations), click on `Target languages` pick the language and click `Update`.
 
 #### Activate the language in the code
 
-To activate a language on the website, we usually wait to have a correct translated ratio \(20-30%\).
+To activate a language on the website, we usually wait to have a correct translated ratio \(20-30%\). Then activate it by adding a new line in [https://github.com/opencollective/opencollective-frontend/blob/master/lib/constants/locales.js](https://github.com/opencollective/opencollective-frontend/blob/master/lib/constants/locales.js).
 
-You will need to:
+## Dealing with Git / merging Crowdin changes
 
-* Copy paste the last line in `frontend/scripts/translate.js` \(replace `it` with your locale code\)
+Crowdin opens a branch at `i18n/crowdin` . It's good to merge this branch at least once a week. The process to follow is this one:
 
-```javascript
-translate('it', defaultMessages, diff.updated);
-```
-
-* Add the locale in `src/components/Footer.js` for the `languages` object
+1. Go to [https://crowdin.com/project/opencollective/settings\#integration](https://crowdin.com/project/opencollective/settings#integration) and click on `Sync now` to force synchronisation.
+2. Go to the frontend repo. Wait for the synchronisation to be done, then pull the `i18n/crowdin` branch
+3. Merge master **into** `i18n/crowdin`, push result. **In case of conflicts, always take the version from `i18n/crowdin`**.
+4. Push the result, wait for CI to pass.
+5. **SQUASH** and merge the changes. Don't forget to **Squash**! This is really important, Crowdin sometimes pushes hundred of commits, we don't want to overload the history.
 

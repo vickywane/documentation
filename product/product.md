@@ -36,7 +36,7 @@ Sponsor Collectives on behalf of a company.
 
 Keep your supporters in the loop about your achievements and news.
 
-## [Fiscal Hosting](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/hosts/README.md)
+## [Fiscal Hosting](../fiscal-hosts/become-a-fiscal-host.md)
 
 Create an umbrella entity to support a community of Collectives.
 
