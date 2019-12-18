@@ -4,7 +4,7 @@
 
 To get help generating an integration like [this](https://github.com/mochajs/mocha#backers) or [this](https://github.com/babel/babel#open-collective-sponsors), follow these steps.
 
-1. Install [Macdown](https://macdown.uranusjr.com/) to make it easy to compare PRs in the last step
+1. Install [Macdown](https://macdown.uranusjr.com/)(for mac) or [atom](https://atom.io/)(for linux) to make it easy to compare PRs in the last step
 2. Install `opencollective-setup`
 
    ```text
