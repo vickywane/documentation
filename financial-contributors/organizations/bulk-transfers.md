@@ -32,7 +32,7 @@ Walnut, CA. 91789, USA
 Bank name: Umpqua Bank  
 Bank address: 450 Sansome St.  
 Account name: Open Source Collective  
-Account Number: 4864122233  
+Account Number: 4866342233  
 ABA: 123205054  
 SWIFT: UMPQUS6P
 
