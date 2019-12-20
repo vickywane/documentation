@@ -149,7 +149,7 @@ Contributing_Documentation_Suggesting_changes_New_pull_request_2019-04-29.png
 
 **5.** GitHub will automatically detect your new changes and give you the option to **Compare and pull request**. Click on it.
 
-**6.** Create your pull request normally. The base repository should be **opencollective/documentation** using the **master branch** as the base and the head repository should be **your fork** using the **new-assets** branch as a comparison.
+**6.** Create your pull request normally. The base repository should be **opencollective/documentation** using the **v2 branch** as the base and the head repository should be **your fork** using the **new-assets** branch as a comparison.
 
 ![Screenshot of the Open pull request page showing a comparison between the base repository \(opencollective/documentation on the master branch\) and the head repository \(your fork on the branch new-assets\)](../../.gitbook/assets/contributing_suggesting_changes_open_pull_request_fork_2019_09_16.png)
 
@@ -187,7 +187,7 @@ Remember: `README.md` creates a page with the same name of your new folder. Mark
 
 **2.** GitHub will automatically detect your new changes and give you the option to **Compare and pull request**. Click on it.
 
-**3.** Create your pull request normally. The base repository should be **opencollective/documentation** using the **master branch** as the base and the head repository should be **your fork** using the right branch as a comparison.
+**3.** Create your pull request normally. The base repository should be **opencollective/documentation** using the **v2 branch** as the base and the head repository should be **your fork** using the right branch as a comparison.
 
 ![Screenshot of the Open pull request page showing a comparison between the base repository \(opencollective/documentation on the master branch\) and the head repository \(your fork on the branch new-assets\)](../../.gitbook/assets/contributing_suggesting_changes_open_pull_request_fork_2019_09_16%20%281%29.png)
 
