@@ -84,5 +84,5 @@ Additionally, regulations are different all over the world. Our platform is the 
 
 ### **Why not use the Blockchain and Cryptocurrency?**
 
-We're excited about about the new possibilities these technologies are creating, and we'd love to explore how they could help us achieve our goals. But just like we won't wait for self-driving cars to become ubiquitous before calling a Lyft, we're very practical about using existing services to solve problems right now. We can already get pretty far using well-established technologies already integrated with global systems. That said, we are actively exploring how to support cryptocurrency on the platform, so if you're interested in that, get in in touch.
+We're excited about the new possibilities these technologies are creating, and we'd love to explore how they could help us achieve our goals. But just like we won't wait for self-driving cars to become ubiquitous before calling a Lyft, we're very practical about using existing services to solve problems right now. We can already get pretty far using well-established technologies already integrated with global systems. That said, we are actively exploring how to support cryptocurrency on the platform, so if you're interested in that, get in in touch.
 
