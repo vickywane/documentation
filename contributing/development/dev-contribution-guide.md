@@ -8,8 +8,8 @@ You'll need to have some basic programming experience with the technologies and 
 
 #### Tools
 
-* **Git & Github** - clone, commit, open a PR using Git with GitHub.   Check out the following tutorials:
-  * [Introduction to git](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)  
+* **Git & Github** - Clone, commit and open a PR using Git with GitHub. Check out the following tutorials:
+  * [Introduction to git](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
   * [Introduction to GitHub](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
   * [Popular git commands and how to use them](https://rogerdudler.github.io/git-guide/)
   * [Git commands in depth](https://medium.com/@george.seif94/a-full-tutorial-on-how-to-use-github-88466bac7d42)
@@ -18,31 +18,31 @@ You'll need to have some basic programming experience with the technologies and 
 
 #### Languages & Frameworks
 
-* **JavaScript/Nodejs** - We recommend having basic experience working with Node, which Open Collective is written in \(frontend & backend\).   Check out these free JavaScript & Node tutorials:
+* **JavaScript/Node.js** - We recommend having basic experience working with Node, which Open Collective is written in \(frontend & backend\). Check out these free JavaScript & Node tutorials:
   * Javascript
-    * [Introduction to basic principles of Javascript ](https://eloquentjavascript.net/)
+    * [Introduction to basic principles of Javascript](https://eloquentjavascript.net/)
     * [Introduction to Javascript - w/ Advanced concepts](https://javascript.info/)
     * [An interactive Javascript tutorial](https://www.learn-js.org/)
-  * Nodejs
-    * [Quick introduction to Nodejs](https://www.tutorialspoint.com/nodejs/nodejs_quick_guide)
-    * [Introduction to Nodejs - w/ quizzes](https://www.tutorialsteacher.com/nodejs/nodejs-tutorials)
-    * [When, how and why to use Nodejs](https://www.netguru.com/blog/use-node-js-backend)
-    * [Differences between Javascript and Nodejs](https://www.educba.com/javascript-vs-node-js/) 
-* **GraphQL** - Our API uses GraphQL, powered by [Sequelize](http://docs.sequelizejs.com/manual/getting-started.html) and [PostgreSQL](https://www.postgresql.org/). Understanding how these work is important to contributing to or fixing the majority of the issues on our API.   To learn more, check out these tutorials & articles:
+  * Node.js
+    * [Quick introduction to Node.js](https://www.tutorialspoint.com/nodejs/nodejs_quick_guide)
+    * [Introduction to Node.js - w/ quizzes](https://www.tutorialsteacher.com/nodejs/nodejs-tutorials)
+    * [When, how and why to use Node.js](https://www.netguru.com/blog/use-node-js-backend)
+    * [Differences between Javascript and Node.js](https://www.educba.com/javascript-vs-node-js/) 
+* **GraphQL** - Our API uses GraphQL, powered by [Sequelize](http://docs.sequelizejs.com/manual/getting-started.html) and [PostgreSQL](https://www.postgresql.org/). Understanding how these work is important to contributing to or fixing the majority of the issues on our API. To learn more, check out these tutorials & articles:
   * [What is GraphQL and how to use it](https://www.howtographql.com/)
   * [Basic concept of GraphQL](https://medium.com/@kalin.chernev/the-guide-to-learn-graphql-i-wish-i-found-few-months-go-97f9d9ca6f12)
   * [Getting GraphQL running](https://www.freecodecamp.org/news/a-beginners-guide-to-graphql-86f849ce1bec/)
   * [Practical GraphQL tutorial](https://blog.digitalocean.com/learning-graphql-by-doing/) 
-* **React & Nextjs** - You'll need to understand React and Nextjs to contribute to issues on the frontend.   Check out the following links:
+* **React & Next.js** - You'll need to understand React and Next.js to contribute to issues on the frontend. Check out the following links:
   * React
     * [Basic React Concepts](https://blog.usejournal.com/a-beginners-guide-to-react-36b19943d58f)
     * [The Beginner react roadmap - path to mastering react](https://www.freecodecamp.org/news/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6/)
     * [React Official documentation](https://reactjs.org/tutorial/tutorial.html)
-  * Nextjs
-    * [Basic introduction to Nextjs](https://medium.com/front-end-weekly/next-js-what-is-it-9cb2f4af8f27)
-    * [Nextjs Official Documentation](https://nextjs.org/docs#how-to-use)
-    * [Basic concepts in Nextjs](https://www.freecodecamp.org/news/an-introduction-to-next-js-for-everyone-507d2d90ab54/)
-    * [Introduction to Nextjs - w/ Advanced concepts](https://flaviocopes.com/nextjs/)
+  * Next.js
+    * [Basic introduction to Next.js](https://medium.com/front-end-weekly/next-js-what-is-it-9cb2f4af8f27)
+    * [Next.js Official Documentation](https://nextjs.org/docs#how-to-use)
+    * [Basic concepts in Next.js](https://www.freecodecamp.org/news/an-introduction-to-next-js-for-everyone-507d2d90ab54/)
+    * [Introduction to Next.js - w/ Advanced concepts](https://flaviocopes.com/nextjs/)
 
 ## Project Structure
 
@@ -96,7 +96,7 @@ We recommend you learn more about our bounty program through the link below:
 
 ### Ask for Help
 
-If you stuck or you have a question, join our slack \#engineering channel through the link below:
+If you are stuck or have a question, join our slack \#engineering channel through the link below:
 
 > [https://slack.opencollective.com/](https://slack.opencollective.com/)
 
