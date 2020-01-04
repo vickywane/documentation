@@ -26,7 +26,7 @@ Will render as **`Hello Webpack!`** if the collective name is Webpack. You must 
 
 ### Select
 
-`select` is a special command that let us render different texts conditionally. The base pattern is:
+`select` is a special command that lets us render different texts conditionally. The base pattern is:
 
 ```text
 {myVariable, select, value1 {Rendered if myVariable=value1} other {Otherwise this}}
