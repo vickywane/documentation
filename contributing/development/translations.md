@@ -4,7 +4,7 @@ description: Documenting how we handle translations in the code
 
 # Internationalization \(i18n\) system
 
-We use [react-intl](https://github.com/yahoo/react-intl) to manage our translations. They are extracted from the code to `src/lang/${locale}.json` files using the `npm run build:langs` command \(CI will notify you if the translation files are outdated\). **Don't translate the strings directly in the files**, we use [Crowdin](https://crowdin.com/project/opencollective) to manage our translatations.
+We use [react-intl](https://github.com/formatjs/react-intl) to manage our translations. They are extracted from the code to `src/lang/${locale}.json` files using the `npm run build:langs` command \(CI will notify you if the translation files are outdated\). **Don't translate the strings directly in the files**, we use [Crowdin](https://crowdin.com/project/opencollective) to manage our translatations.
 
 ## Good practices
 
@@ -138,7 +138,7 @@ To activate a language on the website, we usually wait to have a correct transla
 Crowdin opens a branch at `i18n/crowdin` . It's good to merge this branch at least once a week. The process to follow is this one:
 
 1. Go to [https://crowdin.com/project/opencollective/settings\#integration](https://crowdin.com/project/opencollective/settings#integration) and click on `Sync now` to force synchronisation.
-2. Go to the frontend repo. Wait for the synchronisation to be done, then pull the `i18n/crowdin` branch
+2. Go to the frontend repo. Wait for the synchronisation to be done, then pull the `i18n/crowdin` branch.
 3. Merge master **into** `i18n/crowdin`, push result. **In case of conflicts, always take the version from `i18n/crowdin`**.
 4. Push the result, wait for CI to pass.
 5. **SQUASH** and merge the changes. Don't forget to **Squash**! This is really important, Crowdin sometimes pushes hundred of commits, we don't want to overload the history.
