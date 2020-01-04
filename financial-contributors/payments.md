@@ -10,6 +10,8 @@
 
 Select who you'd like to pay as—yourself as an individual, or an [Organization](organizations/) or [Collective](../collectives/collectives.md) you manage.
 
+You can also contribute anonymously by making an incognito contribution. If you chose to contribute as "incognito", your financial contribution will show up publicly as an incognito donation and it won't link to your public profile. However, in the effort of being transparent and compliant with KYC regulations (Know Your Customer), the fiscal host and the administrators of the collective can export a list of all the financial contributors with their personal information.
+
 #### Pay with...
 
 1. Credit card - enter the details or use a saved card
