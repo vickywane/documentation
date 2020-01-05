@@ -1,8 +1,8 @@
 # README Integration
 
-![](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/contributing/.gitbook/assets/screen-shot-2019-01-24-at-6.28.10-pm.png)
+![](https://github.com/opencollective/documentation/blob/v2/.gitbook/assets/screen-shot-2019-01-24-at-6.28.10-pm.png)
 
-To get help generating an integration like [this](https://github.com/mochajs/mocha#backers) or [this](https://github.com/babel/babel#open-collective-sponsors), follow these steps.
+To get help generating an integration like [this](https://github.com/mochajs/mocha#backers) or [this](https://github.com/babel/babel#sponsors), follow these steps:
 
 1. Install [Macdown](https://macdown.uranusjr.com/) to make it easy to compare PRs in the last step
 2. Install `opencollective-setup`
@@ -18,13 +18,13 @@ To get help generating an integration like [this](https://github.com/mochajs/moc
    { "github_token": "[YOUR_TOKEN]" }
    ```
 
-5. Run cli for a given repo
+5. Run cli for a given repo:
 
    ```text
    $ opencollective-setup setup -r [repo_owner/repo_name] -i
    ```
 
-   Ex: To integrate with MochaJS \([https://github.com/mochajs/mocha](https://github.com/mochajs/mocha)\), run
+   Ex: To integrate with MochaJS \([https://github.com/mochajs/mocha](https://github.com/mochajs/mocha)\), run:
 
    ```text
    opencollective-setup -r mochajs/mocha -i

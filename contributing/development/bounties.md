@@ -24,7 +24,7 @@ Our Bounty model is simple:
 * $300: medium complexity
 * $1,000: high complexity
 
-We want to attract quality contributions. The issue will only be considered complete and approved for payment if the Pull Request is merged by an Open Collective [Core Contributor](https://github.com/orgs/opencollective/teams/core-contributors).
+We want to attract quality contributions. The issue will only be considered complete and approved for payment if the Pull Request is merged by an Open Collective [Core Contributor][core-contributors].
 
 #### Workflow for Bounty Hunters
 
@@ -34,28 +34,29 @@ We want to attract quality contributions. The issue will only be considered comp
 4. You'll be assigned and given an expected timeframe to deliver \(if you aren't able to meet the deadline, the issue may be assigned to someone else\)
 5. Create your solution
 6. Open a Pull Request to get your code reviewed
-7. Incorporate any feedback from [Core Contributors](https://github.com/orgs/opencollective/teams/core-contributors)
-8. PR is reviewed, approved, and merged by a [Core Contributor](https://github.com/orgs/opencollective/teams/core-contributors)
-9. [Submit your invoice as an expense](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/contributing/expenses/submitting-expenses.md) to [Open Collective Engineering](https://opencollective.com/engineering)\*
+7. Incorporate any feedback from [Core Contributors][core-contributors]
+8. PR is reviewed, approved, and merged by a [Core Contributor][core-contributors]
+9. [Submit your invoice as an expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses) to [Open Collective Engineering](https://opencollective.com/engineering)\*
 10. Get paid!
 
-**\*Make invoices out to:**  
-Engineering  
-Open Collective Inc  
-340 S Lemon Ave \#3717  
+**\*Make invoices out to:**
+Engineering
+Open Collective Inc
+340 S Lemon Ave \#3717
 Walnut 91789 CA USA
 
-[Here is an invoice template \(Google Doc\)](https://docs.google.com/document/d/1IPxQ7uYsbmZM_HOZZiN0z09xxOcPPQn_sSwXZRV3MPM/copy) you can use if needed.
+[Here is an invoice template \(Google Doc\)](https://docs.google.com/document/d/1IPxQ7uYsbmZM_HOZZiN0z09xxOcPPQn_sSwXZRV3MPM) you can use if needed.
 
-If you can't issue an invoice, ask to be rewarded with an Open Collective [Gift Card](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/contributing/backers-and-sponsors/gift-cards.md) instead.
+If you can't issue an invoice, ask to be rewarded with an Open Collective [Gift Card](https://docs.opencollective.com/help/financial-contributors/organizations/gift-cards) instead.
 
 #### Workflow for Core Contributors
 
 1. Tag issues with the "bounty" label and amount \(e.g. "$100"\)
 2. Add a comment with a basic explanation of the Bounty process and link to BOUNTY.md, e.g.:
 
-   > A $100 bounty was attached to this issue. Anyone submitting a Pull Request will be rewarded with $100 when the Pull Request is reviewed, accepted and merged. [More info](https://github.com/opencollective/documentation/tree/77e43efbc6aec78bd046c0cb4e5b1f9b93b98cb0/developers/BOUNTY.md).
+   > A $100 bounty was attached to this issue. Anyone submitting a Pull Request will be rewarded with $100 when the Pull Request is reviewed, accepted and merged. [More info](https://github.com/opencollective/opencollective/blob/master/BOUNTY.md).
 
 3. Make sure the issue is understandable for newcomers and expectations are clearly set
-4. When someone asks to pick up ab Bounty, assign them the issue and give them a timeframe for delivery
+4. When someone asks to pick up a Bounty, assign them the issue and give them a timeframe for delivery
 
+[core-contributors]: https://docs.opencollective.com/help/collectives/core-contributors "Core Contributors"

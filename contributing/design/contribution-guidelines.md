@@ -12,7 +12,7 @@ As an open community, Open Collective Design aims for designing new ways to crea
 
 [What is Open Collective?](https://docs.opencollective.com/help/about)
 
-[What are the values of Open Collective?](https://docs.opencollective.com/help/the-open-collective-way/values)
+[What are the values of Open Collective?](https://docs.opencollective.com/help/about/values)
 
 [Open Collective terminology](https://docs.opencollective.com/help/about/terminology)
 
