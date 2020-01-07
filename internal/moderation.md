@@ -12,7 +12,7 @@ For user documentation about moderation, see [Moderation](../product/moderation.
 We don't provide any interface for the moderation features yet. To access them you'll need a direct access to the database - through Forest, PgAdmin, DBeaver...etc
 {% endhint %}
 
-### Limit user account
+## Limit user account
 
 #### What
 
@@ -49,4 +49,12 @@ To see a list of all features names, check [https://github.com/opencollective/op
 
 * Disable access to expenses: `User.data.features.EXPENSES = false` 
 * Disable access to conversations: `User.data.features.CONVERSATIONS = false` 
+
+## Ban users & collectives permanently
+
+Please refer to [this query](https://github.com/opencollective/opencollective-api/blob/master/sql/ban-collectives.sql) to ban users and collectives from the platforms. You'll need to input a list of collective slugs to the query. When banning a user, all the related data \(memberships, expenses, comments...etc\) are \(soft-\) deleted. A special flag is set in `user.data.isBanned` is set to `true`.
+
+User's email will be locked in database, to that it will be impossible for the user to register with the same email address.
+
+
 
