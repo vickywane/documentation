@@ -138,6 +138,7 @@
 * [Architecture](internal/architecture.md)
 * [Testing](internal/testing.md)
 * [Jobs](internal/jobs/README.md)
+  * [Contributors Thanks tweet](internal/jobs/contributors-thanks-tweet.md)
   * [Merge translations](internal/jobs/merge-translations.md)
   * [Missing stripe transactions](internal/jobs/missing-stripe-transactions.md)
   * [Search & destroy spammers](internal/jobs/search-and-destroy-spammers.md)
