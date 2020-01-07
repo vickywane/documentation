@@ -139,6 +139,7 @@
 * [Testing](internal/testing.md)
 * [Jobs](internal/jobs/README.md)
   * [Merge translations](internal/jobs/merge-translations.md)
+  * [Missing stripe transactions](internal/jobs/missing-stripe-transactions.md)
   * [Search & destroy spammers](internal/jobs/search-and-destroy-spammers.md)
 * [Queries](internal/queries/README.md)
   * [Gift Cards](internal/queries/gift-cards.md)
