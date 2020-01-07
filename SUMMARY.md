@@ -138,6 +138,7 @@
 * [Architecture](internal/architecture.md)
 * [Testing](internal/testing.md)
 * [Jobs](internal/jobs/README.md)
+  * [Merge translations](internal/jobs/merge-translations.md)
   * [Search & destroy spammers](internal/jobs/search-and-destroy-spammers.md)
 * [Queries](internal/queries/README.md)
   * [Gift Cards](internal/queries/gift-cards.md)

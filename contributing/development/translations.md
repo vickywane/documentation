@@ -133,13 +133,3 @@ Just go to [https://crowdin.com/project/opencollective/settings\#translations](h
 
 To activate a language on the website, we usually wait to have a correct translated ratio \(20-30%\). Then activate it by adding a new line in [https://github.com/opencollective/opencollective-frontend/blob/master/lib/constants/locales.js](https://github.com/opencollective/opencollective-frontend/blob/master/lib/constants/locales.js).
 
-## Dealing with Git / merging Crowdin changes
-
-Crowdin opens a branch at `i18n/crowdin` . It's good to merge this branch at least once a week. The process to follow is this one:
-
-1. Go to [https://crowdin.com/project/opencollective/settings\#integration](https://crowdin.com/project/opencollective/settings#integration) and click on `Sync now` to force synchronisation.
-2. Go to the frontend repo. Wait for the synchronisation to be done, then pull the `i18n/crowdin` branch.
-3. Merge master **into** `i18n/crowdin`, push result. **In case of conflicts, always take the version from `i18n/crowdin`**.
-4. Push the result, wait for CI to pass.
-5. **SQUASH** and merge the changes. Don't forget to **Squash**! This is really important, Crowdin sometimes pushes hundred of commits, we don't want to overload the history.
-
