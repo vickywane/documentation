@@ -137,6 +137,8 @@
 * [Developer Guidelines](internal/developer-guidelines.md)
 * [Architecture](internal/architecture.md)
 * [Testing](internal/testing.md)
+* [Jobs](internal/jobs/README.md)
+  * [Search & destroy spammers](internal/jobs/search-and-destroy-spammers.md)
 * [Queries](internal/queries/README.md)
   * [Gift Cards](internal/queries/gift-cards.md)
   * [Transactions](internal/queries/transactions.md)
