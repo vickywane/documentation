@@ -8,7 +8,7 @@ description: Monthly job to search and re-conciliate missing Stripe transactions
 
 {% hint style="info" %}
 **Assignee**: Benjamin Piouffle  
-**Frequency**: Weekly
+**Frequency**: Monthly
 {% endhint %}
 
 ## Procedure
