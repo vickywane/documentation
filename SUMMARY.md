@@ -116,6 +116,8 @@
   * [Github Permissions](contributing/development/github-permissions.md)
   * [Internationalization \(i18n\) system](contributing/development/translations.md)
   * [Testing with Cypress](contributing/development/testing-with-cypress.md)
+  * [Testing features](contributing/development/testing-features/README.md)
+    * [Conversations](contributing/development/testing-features/conversations.md)
   * [Collective's locations](contributing/development/collectives-locations.md)
 * [Documentation](contributing/documentation/README.md)
   * [Resources for documentarians](contributing/documentation/resources-for-documentarians.md)
