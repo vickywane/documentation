@@ -23,6 +23,17 @@ PAYPAL_APP_ID=APP-________
 PAYPAL_CLIENT_ID=________________________
 PAYPAL_CLIENT_SECRET=________________________
 ```
+3. Update your host collectives settings in the DB with generated `clientId` and `clientSecret`:
+```ts
+{
+  paymentMethods: {
+    paypal: {
+      clientId: string,
+      clientSecret: string
+    }
+  }
+}
+```
 
 1. Create buyer's credentials on [https://developer.paypal.com/developer/accounts/create](https://developer.paypal.com/developer/accounts/create)
 
