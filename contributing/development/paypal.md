@@ -20,8 +20,6 @@ This is the account you'll use to make the \(fake\) payment. Go to [https://deve
 ```text
 PAYPAL_ENVIRONMENT=sandbox
 PAYPAL_APP_ID=APP-________
-PAYPAL_CLIENT_ID=________________________
-PAYPAL_CLIENT_SECRET=________________________
 ```
 3. Update your host collectives settings in the DB with generated `clientId` and `clientSecret`:
 ```ts
