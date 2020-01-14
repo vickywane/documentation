@@ -25,6 +25,8 @@ description: Monthly job to publicly thank contributors on Open Collective
 
 6. Prepare the Tweet thread on [this doc](https://docs.google.com/document/d/1OdAeOfvGrtyGXgtlLkVI2y7oH0Upozma6TeDtCK2vB8/edit) and send it to Pia
 
+7. Once posted, send the tweet link to Alanna so she can include it in the newsletter
+
 
 
 
