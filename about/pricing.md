@@ -6,11 +6,17 @@
 
 _Read on for more details._
 
+### Single collective and have a bank account.
+
 If you are a **Single Collective and have a bank account** where to receive the money, this will be your plan. If you just want to receive money via Stripe - the fees are 5% + Stripe Fees. You can also choose to manage funds you are receiving elsewhere, for example on a PayPal account, another platform, a t-shirt shop, ticket sales, etc. We call this Add Funds and it's free up to $1000. You can also chose to enable bank transfer payments. This means, enabling your contributors to create a pending donation and receive email instructions with your bank details. You can reconcile the donation when you receive them. This is also free up to $1000. 
 
 ![Starter Plan for Single Collectives.](../.gitbook/assets/screen-shot-2020-01-15-at-12.25.57-pm.png)
 
+### Single collective and don't have access to a bank account for your community.
+
 If you are **Single Collective and don't have access to a bank account**, you need to apply to a Fiscal Host. If you join a Fiscal Host you don't have to pay Open Collective, pricing depends on each host. Check out the [Fiscal Hosts](https://opencollective.com/hosts) on Open Collective.
+
+### An organization and want to create multiple collectives.
 
 If you are an **Organization that wants to become a Fiscal Host** your plan will depend on how many collectives you host as well as your payments options. If you just want to receive money via Stripe - the fees are 5% + Stripe Fees. You can also choose to manage funds you are receiving elsewhere, for example on a PayPal account, another platform, a t-shirt shop, ticket sales, etc. We call this Add Funds and it's free up to $1000. You can also chose to enable bank transfer payments. This means, enabling your contributors to create a pending donation and receive email instructions with your bank details. You can reconcile the donation when you receive them. This is also free up to $1000. When you reach this limit you'll need to go into one of the paid plans according to the number of collectives you host. 
 
