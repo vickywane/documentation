@@ -42,7 +42,7 @@ Notes:
 
 `/:collectiveSlug/events/:eventSlug.json`
 
-E.g. https://opencollective.com/sustainoss/events/2017-442ev.json
+E.g. [https://opencollective.com/sustainoss/events/2017-442ev.json](https://opencollective.com/sustainoss/events/2017-442ev.json)
 
 ```text
 {
@@ -83,7 +83,7 @@ Notes:
 
 `/:collectiveSlug/events/:eventSlug/attendees.json`
 
-E.g. https://opencollective.com/sustainoss/events/2017-442ev/attendees.json?limit=10&offset=0
+E.g. [https://opencollective.com/sustainoss/events/2017-442ev/attendees.json?limit=10&offset=0](https://opencollective.com/sustainoss/events/2017-442ev/attendees.json?limit=10&offset=0)
 
 ```text
 [

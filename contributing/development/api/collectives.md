@@ -173,7 +173,7 @@ PS: For more details on how to have a Client ID/API Key, get in touch.
 
 E.g.
 
-* Including Virtual Card transactions \(transactions that used a virtual card that was issued by the collective): [https://api.opencollective.com/v1/collectives/opencollectiveinc/transactions?api\_key=YOUR\_API\_KEY&includeVirtualCards=true](https://api.opencollective.com/v1/collectives/opencollectiveinc/transactions?api_key=YOUR_API_KEY&includeVirtualCards=true)
+* Including Virtual Card transactions \(transactions that used a virtual card that was issued by the collective\): [https://api.opencollective.com/v1/collectives/opencollectiveinc/transactions?api\_key=YOUR\_API\_KEY&includeVirtualCards=true](https://api.opencollective.com/v1/collectives/opencollectiveinc/transactions?api_key=YOUR_API_KEY&includeVirtualCards=true)
 * NOT Including Virtual Cards: [https://api.opencollective.com/v1/collectives/opencollectiveinc/transactions?api\_key=YOUR\_API\_KEY](https://api.opencollective.com/v1/collectives/opencollectiveinc/transactions?api_key=YOUR_API_KEY)
 * Using `limit=20`, `type=DEBIT` and `offset=5`: [https://api.opencollective.com/v1/collectives/opencollectiveinc/transactions?api\_key=YOUR\_API\_KEY&includeVirtualCards=true&limit=20&type=DEBIT&offset=5](https://api.opencollective.com/v1/collectives/opencollectiveinc/transactions?api_key=YOUR_API_KEY&includeVirtualCards=true&limit=20&type=DEBIT&offset=5)
 

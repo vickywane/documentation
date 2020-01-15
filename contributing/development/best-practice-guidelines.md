@@ -24,3 +24,4 @@ description: >-
   * Icons must be imported from the [styled-icons](http://styled-icons.js.org/) library.
 * Testing
   * Tests written with Cypress must follow our [good practices](https://docs.opencollective.com/help/developers/testing-with-cypress) conventions.
+
