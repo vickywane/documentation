@@ -8,7 +8,7 @@ _Read on for more details._
 
 ### Single collective and have a bank account.
 
-If you are a **Single Collective and have a bank account** where to receive the money, this will be your plan. If you just want to receive money via Stripe - the fees are 5% + Stripe Fees. You can also choose to manage funds you are receiving elsewhere, for example on a PayPal account, another platform, a t-shirt shop, ticket sales, etc. We call this Add Funds and it's free up to $1000. You can also chose to enable bank transfer payments. This means, enabling your contributors to create a pending donation and receive email instructions with your bank details. You can reconcile the donation when you receive them. This is also free up to $1000. 
+If you are a **Single Collective and have a bank account** where to receive the money, this will be your plan. If you just want to receive money via Stripe - the fees are 5% + Stripe Fees. You can also choose to manage funds you are receiving elsewhere, for example on a PayPal account, another platform, a t-shirt shop, ticket sales, etc. We call this Add Funds and it's free up to $1000. You can also chose to enable bank transfer payments. This means, enabling your contributors to create a pending donation and receive email instructions with your bank details. You can reconcile the donation when you receive it. This is also free up to $1000. 
 
 ![Starter Plan for Single Collectives.](../.gitbook/assets/screen-shot-2020-01-15-at-12.25.57-pm.png)
 
