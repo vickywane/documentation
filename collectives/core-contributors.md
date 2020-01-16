@@ -8,7 +8,7 @@ You can add or change the members of your Collective and their roles.
 
 * Click on the Edit icon next to your collective's avatar
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 * Head to the `Core contributors` tab. Here you can add a new member, remove a member, or change details and roles. 
 
@@ -20,5 +20,5 @@ Only Core Contributors can edit the Collective and approve expenses.
 
 * Once you are done click on `Save` at the bottom of the page
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
