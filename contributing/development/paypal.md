@@ -21,16 +21,10 @@ This is the account you'll use to make the \(fake\) payment. Go to [https://deve
 PAYPAL_ENVIRONMENT=sandbox
 PAYPAL_APP_ID=APP-________
 ```
-3. Update your host collectives settings in the DB with generated `clientId` and `clientSecret`:
-```ts
-{
-  paymentMethods: {
-    paypal: {
-      clientId: string,
-      clientSecret: string
-    }
-  }
-}
+3. Manually create a ConnectedAccount with generated `clientId` and `clientSecret`:
+```SQL
+INSERT INTO "ConnectedAccounts" ("service", "clientId", "token", "CollectiveId")
+VALUES (E'paypal', clientId, clientSecret, hostCollectiveId);
 ```
 
 1. Create buyer's credentials on [https://developer.paypal.com/developer/accounts/create](https://developer.paypal.com/developer/accounts/create)
