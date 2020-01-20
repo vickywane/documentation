@@ -24,15 +24,15 @@ Levels or rewards for backers and sponsors.
 
 Tickets sales go straight to your Collective budget.
 
-## [Gift Cards](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/backers-and-sponsors/gift-cards.md)
+## [Gift Cards](../financial-contributors/organizations/gift-cards.md)
 
 Give the gift of giving.
 
-## [Organizations](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/backers-and-sponsors/organizations.md)
+## [Organizations](../financial-contributors/organizations/)
 
 Sponsor Collectives on behalf of a company.
 
-## [Backer Updates](../collectives/communication.md)
+## [Updates](../collectives/communication.md)
 
 Keep your supporters in the loop about your achievements and news.
 
