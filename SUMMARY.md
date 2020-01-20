@@ -131,7 +131,6 @@
 * [Scope](internal/internal.md)
 * [Welcome Document](internal/welcome-document.md)
 * [Team Retreats](internal/team-retreats.md)
-* [Brussels Summer Team Retreat](internal/brussels-summer-team-retreat.md)
 * [Host Admin Manual](internal/host-admin-manual.md)
 * [Internal moderation tools](internal/moderation.md)
 * [Newsletter](internal/newsletter.md)
