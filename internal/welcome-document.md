@@ -11,27 +11,17 @@ description: >-
 
 Some of the information below is included in different parts of this documentation. The goal is to provide an easy Welcome Document with all the relevant information new Open Collective Team Members need to get started. 
 
-Open Collective Way
-
-Core Contributors Guidelines
-
-Communication
-
-Team Retreats
-
-Prioritization Framework
-
-Project Templates
-
-Leave
-
-Expenses
-
-Design
-
-Engineering
-
-Checklist
+* [Open Collective Way](https://docs.opencollective.com/help/internal/welcome-document#the-open-collective-way)
+* [Core Contributors Guidelines](https://docs.opencollective.com/help/internal/welcome-document#core-contributors-guidelines)
+* [Communication](https://docs.opencollective.com/help/internal/welcome-document#communication)
+* [Team Retreats](https://docs.opencollective.com/help/internal/welcome-document#team-retreats) 
+* [Prioritization Framework](https://docs.opencollective.com/help/internal/welcome-document#prioritization-framework)
+* [Project Templates](https://docs.opencollective.com/help/internal/welcome-document#project-templates)
+* [Leave](https://docs.opencollective.com/help/internal/welcome-document#project-templates)
+* [Expenses](https://docs.opencollective.com/help/internal/welcome-document#expenses)
+* [Design Collective](https://docs.opencollective.com/help/internal/welcome-document#design-collective)
+* [Engineering Collective](https://docs.opencollective.com/help/internal/welcome-document#engineering-collective)
+* [Checklist](https://docs.opencollective.com/help/internal/welcome-document#onboarding-checklist)
 
 ## The Open Collective Way
 
@@ -49,7 +39,7 @@ Resilience \(people come and go\) A successful company survives its founders. We
 
 Transparency: Our[ data](https://drive.google.com/drive/u/1/folders/1OwRpuIehFQxRnJIRAksQ1Jd2xXZrhz5L) is public as well as[ our revenue numbers](https://docs.google.com/spreadsheets/u/1/d/1uNDoafJyI50o128tjV2HjJGrf8l4bGOorJdSL8qgPyk/edit?usp=drive_web&ouid=113376999794383062808), our investors update are regularly published[ in our medium](https://medium.com/open-collective) and our salary tiers are published here.
 
-### Core Contributors Guidelines
+## Core Contributors Guidelines
 
 Work in the open. It saves a lot of time. There should be little to no distinction between an internal and external contributor.
 
