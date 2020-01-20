@@ -14,7 +14,7 @@ If you are a **Single Collective and have a bank account** where to receive the 
 
 ### Single collective and don't have access to a bank account for your community.
 
-If you are **Single Collective and don't have access to a bank account**, you need to apply to a Fiscal Host. If you join a Fiscal Host you don't have to pay Open Collective, pricing depends on each host. Check out the [Fiscal Hosts](https://opencollective.com/hosts) on Open Collective.
+If you are **Single Collective and don't have access to a bank account**, you need to apply to a Fiscal Host. If you join a Fiscal Host you don't have to pay Open Collective, pricing depends on each host. Check out the [Fiscal Hosts](../fiscal-hosts/fiscal-hosts.md) on Open Collective.
 
 ### An organization and want to create multiple collectives.
 
