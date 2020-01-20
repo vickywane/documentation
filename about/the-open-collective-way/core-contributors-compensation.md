@@ -6,5 +6,5 @@
 * USD $100,000 \(Pia and Xavier bumped up here in February 2019\)
 * USD $80,000 \(Ben, Alanna \(prorated\)\)
 
-Entry expectation: We have a mandatory 3 month trial period at the $80,000 / year \(or it’s updated equivalent in following years\).
+Entry expectation:We have a mandatory 3 month trial period at the $80,000 / year \(or it’s updated equivalent in following years\).
 
