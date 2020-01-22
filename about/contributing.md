@@ -8,7 +8,7 @@ description: >-
 
 First, thank you for considering contributing to Open Collective! It's people like you that make this such a great community. We welcome any type of contribution, not only code.
 
-Check out our [Roadmap](https://docs.opencollective.com/help/product/roadmap) for the latest priorities.
+Check out our [Roadmap](../product/roadmap.md) for the latest priorities.
 
 You can help with:
 

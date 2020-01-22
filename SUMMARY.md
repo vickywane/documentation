@@ -55,6 +55,7 @@
 * [Zero Collective Balance](collectives/zero-collective-balance.md)
 * [Closing a Collective](collectives/closing-a-collective.md)
 * [Subcollectives](collectives/subcollectives.md)
+* [Conversations](collectives/conversations.md)
 
 ## Financial Contributors
 
