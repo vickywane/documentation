@@ -2,7 +2,7 @@
 description: For the applying to the Open Source Collective
 ---
 
-# OSC Collective Verification
+# Open Source Collectives
 
 ## What is Github Stars Verification?
 

@@ -41,7 +41,7 @@
 * [Core Contributors & Admins](collectives/core-contributors.md)
 * [Tiers & Goals](collectives/tiers-goals.md)
 * [Add Fiscal Host](collectives/add-or-change-fiscal-host.md)
-* [OSC Collective Verification](collectives/osc-verification.md)
+* [Open Source Collectives](collectives/osc-verification.md)
 * [Change Fiscal Host](collectives/change-fiscal-host.md)
 * [Transparent Budget](collectives/budget.md)
 * [Expense Policy](collectives/expense-policy.md)
