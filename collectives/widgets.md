@@ -69,6 +69,6 @@ Example:
 
 ## Related:
 
-* Website [badge](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/backers-and-sponsors/website-badge.md) showing the Collectives you back
+* Website [badge](../financial-contributors/website-badge.md) showing the Collectives you back
 * [Export SVGs](data-export.md) showing your backers, sponsors, or contributors
 
