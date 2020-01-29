@@ -234,5 +234,16 @@ If you aren't sure how an anchor will look like, you can use GitHub to assist yo
 
 ![Screenshot of the Getting familiar with Git section of this page as rendered by GitHub. An orange arrow points to the two links next to the section title.](../../.gitbook/assets/contributing_suggesting_changes_anchor_section_2019_10_01.png)
 
+## Dealing with dead internal links
+
+Sometimes you may find broken internal links. If you find one, please open an issue about it on [opencollective/opencollective](https://github.com/opencollective/opencollective)—we will follow up shortly.
+
+But if you have access to the GitBook interface, here's what you should do to fix it yourself:
+
+1. Check the `master` branch on GitHub for an old version of the page with the broken link. That will help you figure out to which page that link was originally pointing to.
+2. Sometimes it will be just a matter of updating `.gitbook.yaml` to point that specific path to the right page. But other times \(probably when we make aggressive changes to the folder structure—their versioning system doesn't seem to like it that much\), you will have to update that link manually. To do so, hover your mouse to the old link and edit it by searching for the title of the page to be mentioned.
+
+![](../../.gitbook/assets/contributing_documentation_suggesting-changes_dead-links_2020-01-29.gif)
+
 If you have any other questions about contributing to our documentation, please reach out to support@opencollective.com or join our `documentation` channel on [Slack](https://opencollective.slack.com).
 
