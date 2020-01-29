@@ -115,7 +115,7 @@
   * [Post-Donation Redirect](contributing/development/post-donation-redirect.md)
   * [Custom Tweets](contributing/development/custom-tweets.md)
   * [Manual Reporting](contributing/development/manual-reporting.md)
-  * [Github Permissions](contributing/development/github-permissions.md)
+  * [GitHub Permissions](contributing/development/github-permissions.md)
   * [Internationalization \(i18n\) system](contributing/development/translations.md)
   * [Testing with Cypress](contributing/development/testing-with-cypress.md)
   * [Testing features](contributing/development/testing-features/README.md)

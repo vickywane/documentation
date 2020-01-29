@@ -18,7 +18,7 @@ As of November of 2019, a release notes tool is in the works. Until it is ready,
 
 Did you find a typo, a broken link or image? Do you think that something could be explained better? Feel free to [edit pages and submit a pull request](suggesting-changes.md)!
 
-## Tools
+## Suggested tools 
 
 {% tabs %}
 {% tab title="Linux" %}
@@ -31,6 +31,18 @@ Firefox offers [a built-in tool](https://support.mozilla.org/en-US/kb/firefox-sc
 ### Flameshot
 
 [Flameshot](https://flameshot.js.org) is open-source software that helps you take screenshots easily and edit them as soon as you take them.
+
+### Shutter
+
+If Flameshot doesn't work on your Linux installation, you may want to give [Shutter](https://launchpad.net/shutter) a shot. Shutter is also an open-source software focused on screen capture, but it isn't on active development. However, the editing tool for Shutter needs a few additional packages related to `GooCanvas`, a canvas widget for GTK+, to work. They should be installed in the following order: 
+
+1. `libgoocanvas-common` \(translations\) 
+
+2. `libgoocanvas3` \(shared library\) 
+
+3. `libgoo-canvas-perl` \(Perl interface\)
+
+Once you installed all of them, kill all running instances of Shutter \(using the `killall shutter` command\) and launch it again. The **Edit** option should become available as soon as you capture a new screenshot!
 
 ### Peek
 
@@ -46,11 +58,11 @@ GoodTwitter is available for [Google Chrome](https://chrome.google.com/webstore/
 {% endtab %}
 
 {% tab title="MacOS" %}
-Do you have any suggestions for tools that documentarians could use on this OS? Please edit this tab!
+Do you have any suggestions of tools documentarians could use on this OS? Please edit this tab!
 {% endtab %}
 
 {% tab title="Windows" %}
-Do you have any suggestions for tools that documentarians could use on this OS? Please edit this tab!
+Do you have any suggestions of tools documentarians could use on this OS? Please edit this tab!
 {% endtab %}
 {% endtabs %}
 

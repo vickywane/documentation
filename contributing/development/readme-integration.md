@@ -1,6 +1,6 @@
 # README Integration
 
-![](../../.gitbook/assets/screen-shot-2019-01-24-at-6.28.10-pm.png)
+![](https://github.com/opencollective/documentation/blob/v2/.gitbook/assets/screen-shot-2019-01-24-at-6.28.10-pm.png)
 
 To get help generating an integration like [this](https://github.com/mochajs/mocha#backers) or [this](https://github.com/babel/babel#sponsors), follow these steps:
 
