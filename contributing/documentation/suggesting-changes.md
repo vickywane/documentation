@@ -99,11 +99,11 @@ GitBook also created a few shortcodes for special attributes. Learn more about t
 
 **5.** When you are done making changes, scroll down and write a short description of your changes. Select the option **Create a new branch for this commit and start a pull request** and click on **Propose file change**. This will direct you to the **Pull request** page.
 
-![Screenshot of the Commit changes box. There are boxes for a brief description of the changes, an extended one, a selection menu for email addresses to associate with the commit, options to commit directly to the current branch or to create a new branch and a pull request \(which opens an option to name your branch as you like\) and buttons to either Propose file change or Cancel.](../../.gitbook/assets/contributing_documentation_suggesting_changes_commit_and_propose_2019-04-29.png)
+![Screenshot of the Commit changes box. There are boxes for a brief description of the changes, an extended one, a selection menu for email addresses to associate with the commit, options to commit directly to the current branch or to create a new branch and a pull request \(which opens an option to name your branch as you like\) and buttons to either Propose file change or Cancel.](../../.gitbook/assets/contributing_documentation_suggesting-changes_commit-on-github_2020-01-29_15-26.png)
 
 **6.** On the **Pull request** page, write a short comment explaining why are proposing those changes \(e.g. improving readability, covering cases that weren't mentioned, adding critical details about our platform\) and publish your pull request clicking on **Create pull request**.
 
-![Screenshot of the Pull request page. It shows a box for the title of the Pull request, another for any comments. Below them, there&apos;s a Create pull request button.](../../.gitbook/assets/contributing_documentation_suggesting_changes_new_pull_request_2019-04-29.png)
+![Screenshot of the Pull request page. It shows a box for the title of the Pull request, another for any comments. Below them, there&apos;s a Create pull request button.](../../.gitbook/assets/contributing_documentation_suggesting-changes_pull-request-on-github_2020-01-29_15-26.png)
 
 {% hint style="success" %}
 Congratulations, you submitted a pull request! 🎉 Our documentation admins will review it and merge them to our documentation if approved.
@@ -133,9 +133,9 @@ Contributing_Documentation_Suggesting_changes_New_pull_request_2019-04-29.png
 
 ![Screenshot of the documentation repository showing the Fork button.](../../.gitbook/assets/contributing_suggesting_changes_repository_fork_button_2019_09_16.png)
 
-**2.** On your copy of the repository, create a new branch by clicking on **Branch: master**, writing **new-assets** and selecting **Create branch: new assets**.
+**2.** On your copy of the repository, create a new branch by clicking on **Branch: v2**, writing **new-assets** and selecting **Create branch: new assets**.
 
-![GIF of the process to create a new branch.](../../.gitbook/assets/contributing_documentation_suggesting_changes_new_branch_2019-09-16.gif)
+![GIF showing the process of creating a new branch.](../../.gitbook/assets/contributing_documentation_suggesting-changes_new-assets_2020-01-29.gif)
 
 **3.** Click on the **.gitbook/assets** folder and then click on **Upload files**. You can drag and drop any files you wish to add or find them with your file manager clicking on **choose your files**. Commit your changes.
 
@@ -149,9 +149,11 @@ Contributing_Documentation_Suggesting_changes_New_pull_request_2019-04-29.png
 
 **5.** GitHub will automatically detect your new changes and give you the option to **Compare and pull request**. Click on it.
 
+![](../../.gitbook/assets/contributing_documentation_suggesting-changes_compare-and-pull-request_2020-01-29_15-26.png)
+
 **6.** Create your pull request normally. The base repository should be **opencollective/documentation** using the **v2 branch** as the base and the head repository should be **your fork** using the **new-assets** branch as a comparison.
 
-![Screenshot of the Open pull request page showing a comparison between the base repository \(opencollective/documentation on the master branch\) and the head repository \(your fork on the branch new-assets\)](../../.gitbook/assets/contributing_suggesting_changes_open_pull_request_fork_2019_09_16.png)
+![Screenshot of the Open pull request page showing a comparison between the base repository \(opencollective/documentation on the v2 branch\) and the head repository \(your fork on the branch new-assets\)](../../.gitbook/assets/contributing_documentation_suggesting-changes_new-assets-pr_2020-01-29_15-26.png)
 
 ## Adding new sections, pages and subpages
 
@@ -188,8 +190,6 @@ Remember: `README.md` creates a page with the same name of your new folder. Mark
 **2.** GitHub will automatically detect your new changes and give you the option to **Compare and pull request**. Click on it.
 
 **3.** Create your pull request normally. The base repository should be **opencollective/documentation** using the **v2 branch** as the base and the head repository should be **your fork** using the right branch as a comparison.
-
-![Screenshot of the Open pull request page showing a comparison between the base repository \(opencollective/documentation on the master branch\) and the head repository \(your fork on the branch new-assets\)](../../.gitbook/assets/contributing_suggesting_changes_open_pull_request_fork_2019_09_16%20%281%29.png)
 
 {% hint style="warning" %}
 Don't forget to add any new pages to the `SUMMARY.md` file, and remember to link them to their source file. New unsorted pages should be added as items on an unordered list:
