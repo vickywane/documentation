@@ -21,13 +21,15 @@ This is the account you'll use to make the \(fake\) payment. Go to [https://deve
 PAYPAL_ENVIRONMENT=sandbox
 PAYPAL_APP_ID=APP-________
 ```
-3. Manually create a ConnectedAccount with generated `clientId` and `clientSecret`:
-```SQL
-INSERT INTO "ConnectedAccounts" ("service", "clientId", "token", "CollectiveId")
-VALUES (E'paypal', clientId, clientSecret, hostCollectiveId);
-```
 
-1. Create buyer's credentials on [https://developer.paypal.com/developer/accounts/create](https://developer.paypal.com/developer/accounts/create)
+1. Manually create a ConnectedAccount with generated `clientId` and `clientSecret`:
+
+   ```sql
+   INSERT INTO "ConnectedAccounts" ("service", "clientId", "token", "CollectiveId")
+   VALUES (E'paypal', clientId, clientSecret, hostCollectiveId);
+   ```
+
+2. Create buyer's credentials on [https://developer.paypal.com/developer/accounts/create](https://developer.paypal.com/developer/accounts/create)
 
 And you're ready to go. Use the credentials generated in step 3. to authenticate when ordering.
 
