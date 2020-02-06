@@ -8,7 +8,7 @@ description: A discussion forum for your Collective
 
 Conversations are a discussion forum for your Collective. They are public threads that everyone can read and participate to. Use them to get feedback from your community or to organize your actions!
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/2020-01-22_17-11-49.png)
 
 ## Enabling or disabling conversations
 
