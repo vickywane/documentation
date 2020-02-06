@@ -16,7 +16,7 @@ On the Collective page, subcollectives will be displayed under `More ways to con
 
 Subcollectives feature works for Organizations and Users profiles too:
 
-![Facebook Open Source subcollectives - https://opencollective.com/fbopensource](../.gitbook/assets/image%20%2813%29.png)
+![Facebook Open Source subcollectives - https://opencollective.com/fbopensource](../.gitbook/assets/image%20%282%29.png)
 
 
 
