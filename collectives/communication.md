@@ -34,7 +34,7 @@ And if you wish, you can set it to become public after a certain date.
 
 ## Contacting a Collective
 
-To receive communication via your Collective, senders can email **info@`$COLLECTIVE`.opencollective.com** to reach the Core Contributors.
+Users can contact you via the contact form of your collective. It is linked in your collective page through the `Contact` button. The forms stands on `/{your-collective}/contact`. If you don't want to use this feature, please email us at `support@opencollective.com` and we'll disable it for you.
 
-We recommend you share this address, or another email address you prefer, in your Collective description, so people know how to reach you.
+![](../.gitbook/assets/image%20%2815%29.png)
 
