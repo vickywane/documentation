@@ -1,10 +1,12 @@
 # Core Contributors: Compensation
 
-**Open Collective has 3 pay tiers:**
+**Open Collective:**
 
-* USD $120,000 \(François\)
-* USD $100,000 \(Pia and Xavier bumped up here in February 2019\)
-* USD $80,000 \(Ben, Alanna \(prorated\)\)
+* USD $100,000 \(Pia\)
+* USD $80,000 \(Alanna\)
 
-Entry expectation: We have a mandatory 3 month trial period at the $80,000 / year \(or it’s updated equivalent in following years\).
+**Open Collective Engineering:**
 
+The engineering team (François, Ben, Leo, Kate) started to use a public formula for compensation.
+
+https://docs.google.com/spreadsheets/d/1TvdgSmFbfB6Cj8vnWm01v7wZmo42QpcSvCK8tgIzDW0/edit#gid=165029136
