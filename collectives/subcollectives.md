@@ -12,11 +12,11 @@ Subcollectives are a way to display the different collectives or local projects 
 
 On the Collective page, subcollectives will be displayed under `More ways to contribute` 
 
-![Symfony Diversity&apos;s subcollectives - https://opencollective.com/symfony-diversity](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/2020-02-17_09-15-18.png)
 
 Subcollectives feature works for Organizations and Users profiles too:
 
-![Facebook Open Source subcollectives - https://opencollective.com/fbopensource](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/2020-02-17_09-17-13.png)
 
 
 

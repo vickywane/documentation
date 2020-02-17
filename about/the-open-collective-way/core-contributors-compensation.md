@@ -7,6 +7,7 @@
 
 **Open Collective Engineering:**
 
-The engineering team (François, Ben, Leo, Kate) started to use a public formula for compensation.
+The engineering team \(François, Ben, Leo, Kate\) started to use a public formula for compensation.
 
-https://docs.google.com/spreadsheets/d/1TvdgSmFbfB6Cj8vnWm01v7wZmo42QpcSvCK8tgIzDW0/edit#gid=165029136
+[https://docs.google.com/spreadsheets/d/1TvdgSmFbfB6Cj8vnWm01v7wZmo42QpcSvCK8tgIzDW0/edit\#gid=165029136](https://docs.google.com/spreadsheets/d/1TvdgSmFbfB6Cj8vnWm01v7wZmo42QpcSvCK8tgIzDW0/edit#gid=165029136)
+
