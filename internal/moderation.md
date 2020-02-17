@@ -52,6 +52,27 @@ To see a list of all features names, check [https://github.com/opencollective/op
 
 ## Ban users & collectives permanently
 
+First make sure that users don't have any data that is problematic to delete:
+
+```sql
+WITH profiles_to_ban AS (
+	SELECT * FROM "Collectives"
+	WHERE slug IN ($SLUGS_LIST)
+) SELECT 
+  COUNT(c.id) AS nb_collectives,
+	COUNT(t.id) AS nb_transactions, 
+	COUNT(e.id) AS nb_expenses,
+  COUNT(o.id) AS nb_orders
+FROM 
+	profiles_to_ban c
+LEFT JOIN 
+	"Transactions" t ON t."CollectiveId" = c.id OR t."FromCollectiveId" = c.id
+LEFT JOIN
+	"Expenses" e ON e."CollectiveId" = c.id AND status = 'PAID'
+LEFT JOIN
+	"Orders" o ON o."FromCollectiveId" = c.id OR o."CollectiveId" = c.id AND o.status != 'ERROR'
+```
+
 Please refer to [this query](https://github.com/opencollective/opencollective-api/blob/master/sql/ban-collectives.sql) to ban users and collectives from the platforms. You'll need to input a list of collective slugs to the query. When banning a user, all the related data \(memberships, expenses, comments...etc\) are \(soft-\) deleted. A special flag is set in `user.data.isBanned` is set to `true`.
 
 User's email will be locked in database, to that it will be impossible for the user to register with the same email address.
