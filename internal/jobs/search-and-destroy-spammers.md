@@ -19,11 +19,13 @@ description: Monthly job to search and ban spammers from the platform
 * Or use a query like the following one:
 
 ```sql
-SELECT * FROM "Collectives"
-WHERE  slug LIKE '%keto%'  -- replate by searched keywords
-OR     website LIKE '%keto%'
-OR     description LIKE '%keto%'
-OR     "longDescription" LIKE '%keto%'
+SELECT concat('https://opencollective.com/', slug) AS profile, slug, name, website, description, "longDescription" FROM "Collectives"
+WHERE  (
+	slug LIKE '%keto%'  -- replate by searched keywords
+	OR     website LIKE '%keto%'
+	OR     description LIKE '%keto%'
+	OR     "longDescription" LIKE '%keto%'
+) AND "deletedAt" IS NULL
 ```
 
 Out of the current research, the keywords that are interesting to look for are:
