@@ -57,7 +57,7 @@ First make sure that users don't have any data that is problematic to delete:
 ```sql
 WITH profiles_to_ban AS (
 	SELECT * FROM "Collectives"
-	WHERE slug IN ($SLUGS_LIST)
+	WHERE slug = ANY($collectiveSlugs)
 ) SELECT 
   COUNT(c.id) AS nb_collectives,
 	COUNT(t.id) AS nb_transactions, 
@@ -72,6 +72,20 @@ LEFT JOIN
 LEFT JOIN
 	"Orders" o ON o."FromCollectiveId" = c.id OR o."CollectiveId" = c.id AND o.status != 'ERROR'
 ```
+
+If that's ok and you're 100% sure that all these collectives are SPAM, you can also include the collective admins:
+
+```sql
+SELECT mc.slug 
+FROM "Members" m
+INNER JOIN "Collectives" c ON m."CollectiveId" = c.id
+INNER JOIN "Collectives" mc ON m."MemberCollectiveId" = mc.id
+WHERE m."role" = 'ADMIN' AND m."CollectiveId" = c.id
+AND c.slug = ANY($collectiveSlugs)
+AND c."deletedAt" IS NULL
+```
+
+Make sure you re-run the first query with these new entries to make sure it's safe to ban them.
 
 Please refer to [this query](https://github.com/opencollective/opencollective-api/blob/master/sql/ban-collectives.sql) to ban users and collectives from the platforms. You'll need to input a list of collective slugs to the query. When banning a user, all the related data \(memberships, expenses, comments...etc\) are \(soft-\) deleted. A special flag is set in `user.data.isBanned` is set to `true`.
 
