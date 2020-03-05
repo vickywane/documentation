@@ -30,6 +30,7 @@
 * [User Profile](product/user-profile.md)
 * [Currencies](product/currencies.md)
 * [Log-in System](product/log-in-system.md)
+* [Privacy Policy](product/privacy-policy.md)
 * [Moderation](product/moderation.md)
 
 ## Collectives
