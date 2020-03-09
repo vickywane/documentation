@@ -10,7 +10,7 @@ Open Source Collective offers the option to verify your Collective by showing th
 
 ### What if I can't verify with Github stars?
 
-If your project is not centered on a Github repository, or you can't get the automated verification system to work for you even if you have 100 stars, please request manual verification instead, by [following these steps](osc-verification.md#applying-for-manual-verification).
+If your project is not centered on a Github repository, or you can't get the automated verification system to work for you even if you have 100 stars, please request manual verification instead, by [following these steps](osc-verification.md#manual-verification).
 
 [**See alternative verification criteria here.**](https://www.oscollective.org/#criteria)\*\*\*\*
 
