@@ -44,7 +44,11 @@ To make a Collective-to-Collective donation, go to the page of the Collective an
 
 ## Can I leave a message with my donation?
 
-Yes. You will be given the option to write a note with your contribution.
+Yes, you will be given the option to write a note with your contribution on the "success" page.
 
 ![](../.gitbook/assets/image-3.png)
+
+If you want to add a public message to a past contribution, you can do so by going to the collective's page **Contributors** section. Inside your own card you'll see a link titled with `Leave a public message`.
+
+![](../.gitbook/assets/peek-10-03-2020-10-23.gif)
 
