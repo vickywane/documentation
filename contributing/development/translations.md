@@ -102,11 +102,25 @@ In some parts of the code we translate links like this:
 This is bad because we're creating two strings and translators loose the context when they translate one. You should do this instead:
 
 ```jsx
+import { getI18nLink } from './I18nFormatters';
+
+// External link
 <FormattedMessage
   id="ReadTheDocs"
   defaultMessage="Please check our <link>documentation</link> to learn more!"
   values={{
     link: getI18nLink({ href: 'https://docs.opencollective.com' }),
+  }}
+/>
+
+// Internal link
+import Link from './Link';
+
+<FormattedMessage
+  id="CheckHosts"
+  defaultMessage="Please check <link>hosts page</link> to learn more!"
+  values={{
+    link: getI18nLink({ as: Link, route: 'hosts' }),
   }}
 />
 ```
