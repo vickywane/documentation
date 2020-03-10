@@ -68,6 +68,18 @@ The order of the words may change from a language to another. For this reason we
 </div>
 ```
 
+### Use I18nFormatters to format rich text \(bold, italic...etc\)
+
+```jsx
+import I18nFormatters from '../../I18nFormatters';
+
+<FormattedMessage 
+  id="_" 
+  defaultMessage="This <strong>is</strong> <i>easier</i>." 
+  values={I18nFormatters}
+/>
+```
+
 ### Translate links inline
 
 In some parts of the code we translate links like this:
@@ -94,8 +106,7 @@ This is bad because we're creating two strings and translators loose the context
   id="ReadTheDocs"
   defaultMessage="Please check our <link>documentation</link> to learn more!"
   values={{
-    // eslint-disable-next-line react/display-name
-    link: msg => <a href="https://docs.opencollective.com">{msg}</a>,
+    link: getI18nLink({ href: 'https://docs.opencollective.com' }),
   }}
 />
 ```
