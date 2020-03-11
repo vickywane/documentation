@@ -68,6 +68,36 @@ The order of the words may change from a language to another. For this reason we
 </div>
 ```
 
+### Don't split strings
+
+Splitting a string is alway problematic, because translators loose the context: the strings may not be next to each others when they'll be translated.
+
+```jsx
+// Bad
+<FormattedMessage
+  id="_"
+  defaultMessage="Do you want to {createSomething} in this list?"
+  values={{
+    createSomething: (
+      <blink>
+        <FormattedMessage id="_" defaultMessage="create something"/>
+      </blink>
+    )
+  }}
+/>
+
+// Good
+<FormattedMessage
+  id="_"
+  defaultMessage="Do you want to <blink>create something</blink> in this list?"
+  values={{
+    createSomething: function BlinkComponent(msg) {
+      return (<blink>{msg}</blink>)
+    }
+  }}
+/>
+```
+
 ### Use I18nFormatters to format rich text \(bold, italic...etc\)
 
 ```jsx
