@@ -32,36 +32,15 @@ This next section is asking questions about the business. As a Collective fiscal
 
 * Legal business name: `Open Source Collective`
 * Doing business as: `Name of your collective`
-* Business address:
-
-  ```text
-  340 S LEMON AVE #3717, Walnut CA 91789 USA
-  EIN: 82-2037583
-  ```
-
-* Business phone number: `+1 (631) 485-1411`
 * Business website: `https://opencollective.com/your_collective_slug`
-* Industry: `Software`
 
 ![](../.gitbook/assets/github_stripe_3.png)
-
-![](../.gitbook/assets/github_stripe_4.png)
 
 ### Executive details \(about you\)
 
 Next, you will be filling out details as the acting executive for the Collective. Use your personal information on this page.
 
-* For the last checkbox about whether you own 25% or more of the company, leave it unchecked.
-
-![](../.gitbook/assets/github_stripe_5.png)
-
-![](../.gitbook/assets/github_stripe_6.png)
-
-### Business ownership
-
-Next, you will see a prompt about ownership. Select **No**.
-
-![](../.gitbook/assets/github_stripe_7.png)
+![](../.gitbook/assets/github_stripe_4.png)
 
 ### Payout details
 
@@ -70,7 +49,7 @@ Finally, you will input bank account information. Funds you receive through GitH
 * Routing number: `123205054`
 * Account Number: `4864122233`
 
-![](../.gitbook/assets/github_stripe_8.png)
+![](../.gitbook/assets/github_stripe_5.png)
 
 After that, you should be all set! ✌️😎
 
@@ -79,4 +58,3 @@ After that, you should be all set! ✌️😎
 ### What fees will be charged?
 
 The standard Open Collective and Open Source Collective fees apply to funds raised via GitHub Sponsors: 10% total. There are also payment processing fees from Stripe. GitHub does not charge a fee.
-
