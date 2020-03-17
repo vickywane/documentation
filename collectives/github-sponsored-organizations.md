@@ -68,7 +68,7 @@ Next, you will see a prompt about ownership. Select **No**.
 Finally, you will input bank account information. Funds you receive through GitHub go to Open Source Collective’s bank account, so they can credit the money to your Collective’s budget on Open Collective.
 
 * Routing number: `123205054`
-* Account Number: `4864122233`
+* Account Number: `4866342233`
 
 ![](../.gitbook/assets/github_stripe_8.png)
 
