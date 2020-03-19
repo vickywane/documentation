@@ -58,3 +58,4 @@ After that, you should be all set! ✌️😎
 ### What fees will be charged?
 
 The standard Open Collective and Open Source Collective fees apply to funds raised via GitHub Sponsors: 10% total. There are also payment processing fees from Stripe. GitHub does not charge a fee.
+

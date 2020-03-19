@@ -19,12 +19,14 @@ In order to be paid, submitted expenses must be approved by the Collective's cor
 
 A **valid invoice** must include:
 
-* What it is for \(feature built, work done, etc\)
-* Amount to be paid
-* Your full name
-* Your physical address
+* The word/title **invoice** 
+*  A unique invoice number and an invoice date \(when invoice was generated\)
+* Your full name and physical address
 * The name of the Collective
 * The name of the Fiscal Host organization  \(for most open source software projects that's "Open Source Collective"\)
+* Summary/description of what is for \(working hours, services ..\)
+* Total amount payable
+* Payment details \(how to pay you: bank details, PayPal, ...\)
 
 Private information provided on invoices is not viewable publicly. The expense amount will be listed on the Collective's public page, but the invoice itself is only visible to the host and core contributors.
 
