@@ -32,7 +32,7 @@ You need to connect your GitHub account to your Open Collective account to be ab
 
 Select the GitHub repository you would like to use in your application. If you select an organization repository, you will be given the option to either create a Collective for the repository, or a Collective for the organization itself.
 
-### Manual verification request
+#### Manual verification request
 
 If you project don't meet that criteria, click on **Request manual verification**—your request will be reviewed using an [alternative verification criteria](https://www.oscollective.org/#criteria).
 
