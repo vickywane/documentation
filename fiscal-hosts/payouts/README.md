@@ -8,7 +8,7 @@ Straight to the bank account attached to your Stripe account, which you connect 
 
 ### How do people withdraw funds from Collectives we host?
 
-To withdraw funds, people submit receipts or invoices as [Expenses](../expenses-and-getting-paid/expenses.md).
+To withdraw funds, people submit receipts or invoices as [Expenses](../../expenses-and-getting-paid/expenses.md).
 
 Expenses go through a two-step approval process:
 
@@ -33,7 +33,7 @@ For single payments larger than $2,000, make a manual payment.
 
 TransferWise is still in beta release so the first thing is to request access to the feature through support@opencollective.com.
 
-After getting access to the feature, you'll be able to connect to your TransferWise account through the Connected Accounts menu in your settings. You can follow [this instructions](./connecting-transferwise.md) to do so.
+After getting access to the feature, you'll be able to connect to your TransferWise account through the Connected Accounts menu in your settings. You can follow [this instructions](connecting-transferwise.md) to do so.
 
 ### How can I make manual payments?
 
