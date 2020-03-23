@@ -43,6 +43,7 @@ redirects:
   developers/architecture: ./contributing/development/architecture.md
   developers/postgres-database: ./contributing/development/postgres-database.md
   developers/paypal: ./contributing/development/paypal.md
+  developers/transferwise: ./contributing/development/transferwise.md
   developers/post-donation-redirect: ./contributing/development/post-donation-redirect.md
   developers/custom-tweets: ./contributing/development/custom-tweets.md
   developers/manual-reporting: ./contributing/development/manual-reporting.md

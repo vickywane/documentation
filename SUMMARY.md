@@ -115,6 +115,7 @@
   * [Architecture](contributing/development/architecture.md)
   * [Postgres Database](contributing/development/postgres-database.md)
   * [PayPal](contributing/development/paypal.md)
+  * [TransferWise](contributing/development/transferwise.md)
   * [Post-Donation Redirect](contributing/development/post-donation-redirect.md)
   * [Custom Tweets](contributing/development/custom-tweets.md)
   * [Manual Reporting](contributing/development/manual-reporting.md)
