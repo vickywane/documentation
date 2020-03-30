@@ -2,7 +2,7 @@
 description: Instructions on how to safely connect to TransferWise.
 ---
 
-# Payouts with TransferWise
+# Payouts with Transferwise
 
 TransferWise integration can be used to automate expense payment as a way to provide one-click wire transfer for expenses.
 
@@ -13,7 +13,7 @@ After connecting your TransferWise account, users submitting new expenses will h
 * Payments through TransferWise require a borderless account.
 * The host is still responsible for managing funds in TransferWise.
 * Transfers are funded with your host currency.
-    * If your host is using USD, we're funding all your transfers with your USD balance.
+  * If your host is using USD, we're funding all your transfers with your USD balance.
 
 ## Connecting TransferWise
 
@@ -23,7 +23,7 @@ If you're already in the beta test group, you can follow these instructions:
 
 1. Go to your settings menu in TransferWise
 
-    ![](../../.gitbook/assets/transferwise_settings.png)
+   ![](../../.gitbook/assets/transferwise_settings.png)
 
 2. Generate and copy a new _API token/key_:
    * As a security measure, make sure you whitelist the IPs `54.173.229.200` and `54.175.230.252`
@@ -38,7 +38,7 @@ If you're already in the beta test group, you can follow these instructions:
 5. Open the Connected Accounts tab
 6. Paste the newly created _API key_ in the TransferWise field and click connect
 
-    ![](../../.gitbook/assets/transferwise_connect.gif)
+   ![](../../.gitbook/assets/transferwise_connect.gif)
 
 ## Reducing Risks
 
@@ -51,4 +51,5 @@ In order to reduce risks related to having an active API token that is able to c
 ## Troubleshooting
 
 * `Unable to fund transfer`
-    * You don't have enough funds in your host's currency balance. Please add funds and try again.
+  * You don't have enough funds in your host's currency balance. Please add funds and try again.
+
