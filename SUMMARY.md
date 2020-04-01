@@ -88,7 +88,7 @@
 * [Fiscal Host Settings](fiscal-hosts/fiscal-host-settings.md)
 * [Invoices](fiscal-hosts/invoices.md)
 * [Payouts](fiscal-hosts/payouts/README.md)
-  * [Payouts with Transferwise](fiscal-hosts/payouts/connecting-transferwise.md)
+  * [Payouts with TransferWise](fiscal-hosts/payouts/payouts-with-transferwise.md)
 * [Fiscal Host Dashboard](fiscal-hosts/fiscal-host-dashboard.md)
 * [Bank Transfers](fiscal-hosts/bank-transfers.md)
 * [Add Funds Manually](fiscal-hosts/add-funds-manually.md)

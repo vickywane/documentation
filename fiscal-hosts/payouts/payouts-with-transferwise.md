@@ -2,7 +2,7 @@
 description: Instructions on how to safely connect to TransferWise.
 ---
 
-# Payouts with Transferwise
+# Payouts with TransferWise
 
 TransferWise integration can be used to automate expense payment as a way to provide one-click wire transfer for expenses.
 
@@ -11,9 +11,11 @@ After connecting your TransferWise account, users submitting new expenses will h
 ## Limitations
 
 * Payments through TransferWise require a borderless account.
+* Payments should respect amount of funds you have accounted for in the platform.
+  * You can't pay expenses if the budget accounted in the collective is not enough to cover the transfer expenses.
 * The host is still responsible for managing funds in TransferWise.
-* Transfers are funded with your host currency.
-  * If your host is using USD, we're funding all your transfers with your USD balance.
+  * Transfers are funded with your host currency.
+    * If your host is using USD, we're funding all your transfers with your USD balance.
 
 ## Connecting TransferWise
 
