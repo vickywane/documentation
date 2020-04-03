@@ -20,7 +20,7 @@ If you are **Single Collective and don't have access to a bank account**, you ne
 
 If you are an **Organization that wants to become a Fiscal Host** your plan will depend on how many collectives you host as well as your payments options. If you just want to receive money via Stripe - the fees are 5% + Stripe Fees. You can also choose to manage funds you are receiving elsewhere, for example on a PayPal account, another platform, a t-shirt shop, ticket sales, etc. We call this Add Funds and it's free up to $1000. You can also chose to enable bank transfer payments. This means, enabling your contributors to create a pending donation and receive email instructions with your bank details. You can reconcile the donation when you receive them. This is also free up to $1000. When you reach this limit you'll need to go into one of the paid plans according to the number of collectives you host. 
 
-![Plans for Fiscal Hosts](../.gitbook/assets/screen-shot-2020-01-15-at-12.41.38-pm.png)
+![](../.gitbook/assets/about_pricing_current-pricing-table-for-fiscal-hosts_2020-04-03.png)
 
 ### What is a Fiscal Host?
 
