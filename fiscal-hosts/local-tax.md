@@ -14,7 +14,7 @@ Please contact support@opencollective.com if you need Collectives under your umb
 VAT will only apply if the collective creates a `SERVICE` or `PRODUCT` tier and for events.
 {% endhint %}
 
-Once VAT is setup for a collective, we will start asking the country of residency and an optionnal VAT number to everyone who order tiers or tickets from the collective. We will apply the VAT rules accordingly:
+Once VAT is setup for a collective, we will start asking the country of residency and an optional VAT number to everyone who order tiers or tickets from the collective. We will apply the VAT rules accordingly:
 
 * Charge VAT from the country of the event if it's an event
 * Don't charge VAT if a VAT number is provided
