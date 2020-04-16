@@ -58,6 +58,7 @@ redirects:
   design/understanding-the-design-workflow: ./contributing/design/understanding-the-design-workflow.md
   design/untitled: ./contributing/design/contribution-guidelines.md
   the-open-collective-way: ./internal/the-open-collective-way/README.md
+  the-open-collective-way/community-guidelines: ./about/the-open-collective-way/community-guidelines.md
   the-open-collective-way/core-contributors-guidelines: ./about/the-open-collective-way/core-contributors-guidelines.md
   the-open-collective-way/core-contributors-communication: ./about/the-open-collective-way/core-contributors-communication.md
   the-open-collective-way/core-contributors-expenses: ./about/the-open-collective-way/core-contributors-expenses.md
