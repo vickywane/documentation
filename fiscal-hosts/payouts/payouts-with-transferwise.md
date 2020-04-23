@@ -8,7 +8,7 @@ description: Instructions on how to safely connect to TransferWise.
 This feature is currently in **Beta** test, [read more about it here](payouts-with-transferwise.md#the-beta-test).
 {% endhint %}
 
-TransferWise integration can be used to automate expense payment as a way to provide one-click wire transfer for expenses.
+For hosts that are using TransferWise, this integration can be used to automate expense payment by providing a one-click solution for paying expenses.
 
 After connecting your TransferWise account, users submitting new expenses will have access to a structured form for providing a valid bank account information and you will be able to pay those expenses automatically with the _Pay with TransferWise_ button.
 
