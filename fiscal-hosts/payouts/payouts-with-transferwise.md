@@ -41,6 +41,8 @@ TransferWise is currently in beta test, if you're interested in testing this fea
 
 If you're already in the beta test group, you can follow these instructions:
 
+**On TransferWise:**
+
 1. Open TransferWise website and log in into your borderless account;
 2. Go to your settings menu in TransferWise;
 
@@ -56,12 +58,15 @@ If you're already in the beta test group, you can follow these instructions:
    * Select _Transfer update events_ events.
 
      ![](../../.gitbook/assets/transferwise_webhook.png)
-5. Open your Host collective settings page and click in the "Sending Money" option in the menu;
-6. Paste the newly created _API key_ in the TransferWise field and click connect;
+
+**On Open Collective:**
+
+1. Open your Host collective settings page and click in the "Sending Money" option in the menu;
+2. Paste the newly created _API key_ in the TransferWise field and click connect;
 
    ![](../../.gitbook/assets/transferwise_connect.gif)
 
-7. Done! Now all your hosted collectives will be able to submit Bank Transfer expenses compatible with TransferWise and you'll be able to pay for it with one click.
+3. Done! Now all your hosted collectives will be able to submit Bank Transfer expenses compatible with TransferWise and you'll be able to pay for it with one click.
    * Notice that this option will only be available for new expenses, expenses created before these steps are not structured as required by TransferWise and will need to be edited or recreated by the payee.
 
 ## Reducing Risks
