@@ -29,11 +29,11 @@ If the host is the one supposed to collect VAT \(most common case\) then you can
 
 Your host is now ready to start accepting VAT. You still need to enable it on a per-collective basis by setting a country and a "VAT setting" for the collective in the collective edit page \(`https://opencollective.com/{the_collective}/edit`\):
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 ### Enable VAT at the collective level
 
 If the collective has a VAT number and should be responsible for collecting VAT itself, you can enable that by following the exact same steps than before, except that you'll choose the option `Use my own VAT number` on the last step.
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
