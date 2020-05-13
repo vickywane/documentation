@@ -19,7 +19,7 @@ To update them, go to 'edit Collective', and head to the 'Tiers' section.
 * **Goal:** target amount you're trying to raise in this tier \(leave blank if none\)
 * **Force standalone page:** if you want to force the creation of a page for this tier
 
-![Tier edition](../.gitbook/assets/image%20%282%29.png)
+![Tier edition](../.gitbook/assets/image%20%283%29.png)
 
 To add more, click the blue "add another tier" button.
 
