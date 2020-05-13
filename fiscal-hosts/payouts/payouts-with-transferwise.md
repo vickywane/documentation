@@ -42,8 +42,7 @@ If you're already in the beta test group, you can follow these instructions:
    * Name this token after Open Collective, this way you'll always remember where this is being used.
    * Set the token permission to _Full access_, we'll need that to create and fund transactions for your expenses.
    * As a **security measure**, make sure you whitelist the IPs `54.173.229.200` and `54.175.230.252`. ![](../../.gitbook/assets/transferwise_token.png)
-   * Click on _Create token_ and then on _Reveal key_:  ![](../../.gitbook/assets/image%20%2818%29.png) 
-   * **Copy the API key** you generated.
+   * Click on _Create token_ and then on _Reveal key_ and __**Copy the API key** you generated.
 4. Now, open a new tab and go to [Open Collective](https://www.opencollective.com).
 5. Open your Host collective settings page and click in the _Sending Money_ option in the menu.   ![](../../.gitbook/assets/kapture-2020-05-13-at-10.15.15.gif)   ![](../../.gitbook/assets/kapture-2020-05-13-at-10.33.41.gif) 
 6. Paste the _API Token_ you created in the TransferWise field and click connect;
