@@ -16,14 +16,6 @@ After connecting your TransferWise account, users submitting new expenses will h
 
 We're currently testing this feature with the help of selected Host collectives.
 
-Given its requirements, testing this feature will also enable the new Expense submission form, which is part of the next iteration on the redesign Expense flow we're shipping soon.
-
-This means that you're not only signing up for the TransferWise beta test, you're also testing the new expense form. Notice that there are a few caveats related to this:
-
-1. Expenses will start need to be created through the new form with a new URL ending in `/v2`.
-   * Example: `https://opencollective.com/engineering/expenses/new/v2`
-2. All existing "Submit Expense" buttons, on every hosted collective, are going to point to this new URL.
-
 If you're interested in testing this feature, please reach out through support@opencollective.com. If you're already testing the feature and wish to leave the test, you can also send an email to support.
 
 ## Limitations
@@ -41,32 +33,32 @@ TransferWise is currently in beta test, if you're interested in testing this fea
 
 If you're already in the beta test group, you can follow these instructions:
 
-**On TransferWise:**
-
 1. Open TransferWise website and log in into your borderless account;
 2. Go to your settings menu in TransferWise;
 
    ![](../../.gitbook/assets/transferwise_settings.png)
 
-3. Create a new _API token/key:_
-   * Make sure to copy the API key you generated.
-   * As a **security measure**, make sure you whitelist the IPs `54.173.229.200` and `54.175.230.252`.
-
-     ![](../../.gitbook/assets/transferwise_token.png)
-4. Create a new Webhook:
-   * Point it to our URL `https://api.opencollective.com/webhooks/transferwise`.
-   * Select _Transfer update events_ events.
-
-     ![](../../.gitbook/assets/transferwise_webhook.png)
-
-**On Open Collective:**
-
-1. Open your Host collective settings page and click in the "Sending Money" option in the menu;
-2. Paste the newly created _API key_ in the TransferWise field and click connect;
+3. Select _API tokens_ and then _Add new token:_  ![](../../.gitbook/assets/image%20%2831%29.png) 
+   * Name this token after Open Collective, this way you'll always remember where this is being used.
+   * Set the token permission to _Full access_, we'll need that to create and fund transactions for your expenses.
+   * As a **security measure**, make sure you whitelist the IPs `54.173.229.200` and `54.175.230.252`. ![](../../.gitbook/assets/transferwise_token.png)
+   * Click on _Create token_ and then on _Reveal key_:  ![](../../.gitbook/assets/image%20%2818%29.png) 
+   * **Copy the API key** you generated.
+4. Now, open a new tab and go to [Open Collective](https://www.opencollective.com).
+5. Open your Host collective settings page and click in the _Sending Money_ option in the menu.   ![](../../.gitbook/assets/kapture-2020-05-13-at-10.15.15.gif)   ![](../../.gitbook/assets/kapture-2020-05-13-at-10.33.41.gif) 
+6. Paste the _API Token_ you created in the TransferWise field and click connect;
 
    ![](../../.gitbook/assets/transferwise_connect.gif)
 
-3. Done! Now all your hosted collectives will be able to submit Bank Transfer expenses compatible with TransferWise and you'll be able to pay for it with one click.
+7. Now, back in TransferWise settings!
+8. Select _Webhooks_ and then _Create a new webhook_:  ![](../../.gitbook/assets/kapture-2020-05-13-at-10.35.47.gif) 
+   * Name this webhook after Open Collective.
+   * Point it to our URL `https://api.opencollective.com/webhooks/transferwise`.
+   * Select _Transfer update events_ events.
+   * Click on _Create webhook._
+
+     ![](../../.gitbook/assets/transferwise_webhook.png)
+9. Done! Now all your hosted collectives will be able to submit Bank Transfer expenses compatible with TransferWise and you'll be able to pay for it with one click.
    * Notice that this option will only be available for new expenses, expenses created before these steps are not structured as required by TransferWise and will need to be edited or recreated by the payee.
 
 ## Reducing Risks
