@@ -2,7 +2,7 @@
 
 To manually run the monthly report:
 
-1- Update the template: [https://github.com/opencollective/opencollective-api/blob/master/templates/emails/collective.monthlyreport.hbs](https://github.com/OpenCollective/opencollective-api/blob/master/templates/emails/group.monthlyreport.hbs)
+1- Update the template: [https://github.com/opencollective/opencollective-api/blob/master/templates/emails/collective.monthlyreport.hbs](https://github.com/opencollective/opencollective-api/blob/master/templates/emails/collective.monthlyreport.hbs)
 
 2- If you want to preview some of the emails, you can run it locally with
 
